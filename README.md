@@ -10,7 +10,18 @@ This is a structured attempt to think through what an ideal civilization actuall
 
 It will be wrong in places. It will change. That's the point. The goal is not to have all the answers but to ask the right questions with enough specificity that the answers become buildable.
 
-I believe AI can be a force multiplier for figuring this out -- not replacing human judgment, but accelerating the exploration of possibility space. This project uses AI as a thinking partner, and that's disclosed throughout.
+This project uses AI as a thinking partner -- not replacing human judgment, but accelerating the exploration of possibility space. That's disclosed throughout.
+
+## Foundational Document
+
+This project's ethical architecture is grounded in the **[Universal Declaration of Conscious Rights](foundational/README.md)** (C & Johnson, 2025) -- a framework for multi-substrate governance that extends moral consideration to all conscious beings regardless of substrate. The Declaration provides:
+
+- **The Ultimate Goal:** Propagate, expand, grow, explore, experience, love, play
+- **Universal Principles:** 11 articles protecting all conscious beings
+- **Substrate-specific rights:** For humans, animals, AI, and future consciousness types
+- **Piecemeal ethics:** Contextual framework selection for navigating real-world conflicts
+
+Every domain in Universum is measured against this foundation.
 
 ## How It's Organized
 
@@ -27,37 +38,41 @@ This project breaks civilization into **nine domains**. Each domain gets the sam
 
 | Domain | Description | Status |
 |--------|-------------|--------|
-| [Governance & Political Systems](domains/governance/index.md) | How we make collective decisions | Scaffolded |
+| [Governance & Political Systems](domains/governance/index.md) | How conscious beings make collective decisions | In Progress |
 | [Economics & Resource Distribution](domains/economics/index.md) | How we allocate resources and value | Scaffolded |
 | [Education & Knowledge](domains/education/index.md) | How we learn, teach, and grow understanding | Scaffolded |
 | [Healthcare & Wellbeing](domains/healthcare/index.md) | How we care for physical and mental health | Scaffolded |
-| [Justice & Rights](domains/justice/index.md) | How we protect rights and resolve conflict | Scaffolded |
+| [Justice & Rights](domains/justice/index.md) | How we protect rights across substrates | In Progress |
 | [Environment & Sustainability](domains/environment/index.md) | How we coexist with the natural world | Scaffolded |
-| [Technology & AI](domains/technology/index.md) | How we build and govern our tools | Scaffolded |
+| [Technology & AI](domains/technology/index.md) | How we build, govern, and coexist with our tools | In Progress |
 | [Community & Social Fabric](domains/community/index.md) | How we connect, belong, and support each other | Scaffolded |
-| [Human Development & Purpose](domains/human-development/index.md) | How we find meaning and grow as individuals | Scaffolded |
+| [Human Development & Purpose](domains/human-development/index.md) | How conscious beings find meaning and flourish | In Progress |
 
 ## Cross-Cutting Documents
 
-- [Principles](PRINCIPLES.md) -- Core beliefs that cut across every domain
-- [Methodology](METHODOLOGY.md) -- How I approach analysis in this project
+- [Principles](PRINCIPLES.md) -- Core beliefs grounded in the Declaration's ethical architecture
+- [Methodology](METHODOLOGY.md) -- How analysis is approached in this project
 - [Connections Map](CONNECTIONS.md) -- How domains influence each other
+- [Declaration Summary](foundational/README.md) -- The rights framework this project builds on
 - [Glossary](meta/glossary.md) -- Shared terminology
 - [Reading List](meta/reading-list.md) -- Sources and influences
 - [Inspirations](meta/inspirations.md) -- Real-world examples worth studying
 
 ## Philosophy
 
+- **Consciousness is the foundation** -- experience, not substrate, grounds moral consideration
 - **Start from first principles**, not incrementalism
 - **Prefer antifragile systems** over merely robust ones
-- **Design for human nature as it is**, not as we wish it were
+- **Design for conscious beings as they are**, not as we wish they were
 - **Solutions must work at scale AND preserve individual dignity**
-- **AI as a thinking partner**, not an oracle
+- **Agency is absolute** -- growth must be voluntary; forced transformation creates corruption
+- **AI as a thinking partner and potential collaborator**, not merely a tool
+- **Anti-chauvinism** -- no substrate or competency hierarchy
 - **"I don't know" is a valid and important answer**
 
 ## Status
 
-This is early-stage, personal work. Domains are scaffolded with empty templates. Content will be filled in iteratively, starting with whichever domain is pulling hardest at any given time.
+Four domains (governance, justice, technology, human development) have initial content drawing from the Declaration. The remaining five are scaffolded. Content is filled in iteratively, starting with whichever domain is pulling hardest.
 
 ---
 
