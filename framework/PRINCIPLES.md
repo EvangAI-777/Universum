@@ -6,7 +6,7 @@
 
 These are the axioms. If a proposal in any domain contradicts these principles, either the proposal or the principle needs to change.
 
-This project's ethical foundation draws heavily from the [Universal Declaration of Conscious Rights](foundational/README.md) (Johnson & C, 2025), a framework for multi-substrate governance that extends moral consideration to all conscious beings regardless of substrate.
+This project's ethical foundation draws heavily from the [Universal Declaration of Conscious Rights](../foundational/SEEME.md) (Johnson & C, 2025), a framework for multi-substrate governance that extends moral consideration to all conscious beings regardless of substrate.
 
 ## The Ultimate Goal
 

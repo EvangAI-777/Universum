@@ -4,7 +4,7 @@
 
 ---
 
-**Foundational reference:** [Universal Declaration of Conscious Rights](../../foundational/README.md) -- Tier 2C (Artificial Consciousness Rights) directly addresses this domain
+**Foundational reference:** [Universal Declaration of Conscious Rights](../../foundational/SEEME.md) -- Tier 2C (Artificial Consciousness Rights) directly addresses this domain
 
 ## Current State: What's Broken
 

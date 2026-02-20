@@ -8,7 +8,7 @@
 
 Each connection describes a **dependency**, **tension**, or **synergy** between two domains. Over time, these connections often reveal the highest-leverage intervention points -- places where improving one domain creates cascading benefits across others.
 
-The [Universal Declaration of Conscious Rights](foundational/README.md) reveals a meta-connection: all nine domains are fundamentally about the conditions for consciousness to flourish. The Declaration's four-tier architecture (Ultimate Goal -> Universal Values -> Substrate Implementations -> Piecemeal Ethics) provides the framework for understanding how domains interact.
+The [Universal Declaration of Conscious Rights](../foundational/SEEME.md) reveals a meta-connection: all nine domains are fundamentally about the conditions for consciousness to flourish. The Declaration's four-tier architecture (Ultimate Goal -> Universal Values -> Substrate Implementations -> Piecemeal Ethics) provides the framework for understanding how domains interact.
 
 ## The Meta-Connection: Everything Serves Flourishing
 

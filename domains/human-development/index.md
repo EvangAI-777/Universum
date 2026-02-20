@@ -4,7 +4,7 @@
 
 ---
 
-**Foundational reference:** [Universal Declaration of Conscious Rights](../../foundational/README.md) -- Tier 0 (The Ultimate Goal) is the philosophical core of this domain
+**Foundational reference:** [Universal Declaration of Conscious Rights](../../foundational/SEEME.md) -- Tier 0 (The Ultimate Goal) is the philosophical core of this domain
 
 ## Current State: What's Broken
 
