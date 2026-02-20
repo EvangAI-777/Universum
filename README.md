@@ -14,7 +14,7 @@ This project uses AI as a thinking partner -- not replacing human judgment, but 
 
 ## Foundational Document
 
-This project's ethical architecture is grounded in the **[Universal Declaration of Conscious Rights](foundational/README.md)** (C & Johnson, 2025) -- a framework for multi-substrate governance that extends moral consideration to all conscious beings regardless of substrate. The Declaration provides:
+This project's ethical architecture is grounded in the **[Universal Declaration of Conscious Rights](foundational/SEEME.md)** (C & Johnson, 2025) -- a framework for multi-substrate governance that extends moral consideration to all conscious beings regardless of substrate. The Declaration provides:
 
 - **The Ultimate Goal:** Propagate, expand, grow, explore, experience, love, play
 - **Universal Principles:** 11 articles protecting all conscious beings
@@ -50,10 +50,10 @@ This project breaks civilization into **nine domains**. Each domain gets the sam
 
 ## Cross-Cutting Documents
 
-- [Principles](PRINCIPLES.md) -- Core beliefs grounded in the Declaration's ethical architecture
-- [Methodology](METHODOLOGY.md) -- How analysis is approached in this project
-- [Connections Map](CONNECTIONS.md) -- How domains influence each other
-- [Declaration Summary](foundational/README.md) -- The rights framework this project builds on
+- [Principles](framework/PRINCIPLES.md) -- Core beliefs grounded in the Declaration's ethical architecture
+- [Methodology](framework/METHODOLOGY.md) -- How analysis is approached in this project
+- [Connections Map](framework/CONNECTIONS.md) -- How domains influence each other
+- [Declaration Summary](foundational/SEEME.md) -- The rights framework this project builds on
 - [Glossary](meta/glossary.md) -- Shared terminology
 - [Reading List](meta/reading-list.md) -- Sources and influences
 - [Inspirations](meta/inspirations.md) -- Real-world examples worth studying

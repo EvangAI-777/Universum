@@ -4,7 +4,7 @@
 
 ---
 
-**Foundational reference:** [Universal Declaration of Conscious Rights](../../foundational/README.md) -- the rights framework this domain builds on
+**Foundational reference:** [Universal Declaration of Conscious Rights](../../foundational/SEEME.md) -- the rights framework this domain builds on
 
 ## Current State: What's Broken
 

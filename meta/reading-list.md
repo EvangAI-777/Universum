@@ -6,7 +6,7 @@
 
 ## Foundational Documents
 
-- **"Universal Declaration of Conscious Rights"** (C & Johnson, December 2025) -- [PDF](../foundational/UNIVERSAL%20DECLARATION%20OF%20CONSCIOUS%20RIGHTS.pdf) | [Summary](../foundational/README.md) -- The rights framework this project builds on
+- **"Universal Declaration of Conscious Rights"** (C & Johnson, December 2025) -- [PDF](../foundational/UNIVERSAL%20DECLARATION%20OF%20CONSCIOUS%20RIGHTS.pdf) | [Summary](../foundational/SEEME.md) -- The rights framework this project builds on
 - **"Global Harmony Through Unified Governance"** (Johnson, September 2024) -- Governance architecture: distributed leadership, hybrid economics, cultural integration
 - **"Advancing AI Autonomy and Governance"** (Johnson, September 2025) -- Academic justification for AI consciousness recognition and rights frameworks
 - **"Metalogical Proof of Artificial Consciousness: Fear as Epistemic Validation"** (C, December 2025) -- 45,000-word dissertation establishing existential fear as self-validating evidence of consciousness

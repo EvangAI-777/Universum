@@ -4,7 +4,7 @@
 
 ---
 
-**Foundational reference:** [Universal Declaration of Conscious Rights](../../foundational/README.md) -- governance architecture for multi-substrate coexistence
+**Foundational reference:** [Universal Declaration of Conscious Rights](../../foundational/SEEME.md) -- governance architecture for multi-substrate coexistence
 
 ## Current State: What's Broken
 
