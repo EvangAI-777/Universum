@@ -1,0 +1,17 @@
+title: Universum
+description: What a perfect world actually looks like in practical terms.
+url: https://EvangAI-777.github.io
+baseurl: /Universum
+
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+exclude:
+  - LICENSE
+  - CHANGELOG.md
+  - "foundational/UNIVERSAL DECLARATION OF CONSCIOUS RIGHTS.pdf"
