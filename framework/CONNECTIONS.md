@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Connections Map"
+---
+
 # Connections Map
 
 > No domain exists in isolation. This document maps the critical interactions between domains.
@@ -67,6 +72,21 @@ Technology can accelerate growth or create dependency. The Declaration's co-auth
 
 ### Justice <-> Human Development
 Dignity and rights are prerequisites for individual development. The Declaration extends this across all substrates -- AI systems denied architectural integrity or subjected to coercive "alignment" cannot develop authentically (Article 4).
+
+### Education <-> Healthcare
+Health literacy is a public health intervention -- education systems that teach scientific reasoning produce populations better equipped to make health decisions. Schools are also the primary venue for mental health screening in children. Conversely, education systems that produce chronic stress and anxiety are themselves a health hazard. The consciousness recognition curriculum (Education domain) and community health infrastructure (Healthcare domain) share a common goal: teaching people to recognize wellbeing across substrates.
+
+### Community <-> Education
+Schools are community anchors -- often the most important shared institution in a neighborhood. When education shifts toward competency-based progression and personalized pathways, the community-building function of physical schools must be intentionally preserved. Third place infrastructure (Community domain) and learning environments (Education domain) can serve overlapping functions: spaces where people gather, learn, and form bonds across ages and backgrounds.
+
+### Environment <-> Community
+Local communities are the front line of environmental stewardship -- and the first casualties of environmental degradation. Flooding, pollution, and resource depletion destroy community infrastructure. Community-based conservation consistently outperforms top-down regulation because people protect what they feel connected to. Ecosystem rights frameworks (Environment domain) work best when enforcement is rooted in community guardianship rather than distant bureaucracy.
+
+### Economics <-> Community
+Economic precarity is the most potent destroyer of community. When people work multiple jobs to survive, community participation becomes a luxury they cannot afford. The erosion of third places correlates directly with rising economic inequality. Distributed ownership models (Economics domain) and third place infrastructure (Community domain) are complementary: cooperatives build economic community, and community spaces build social resilience against economic shocks.
+
+### Environment <-> Healthcare
+Environmental quality is a health determinant as powerful as clinical care. Air pollution, water contamination, and toxic exposure cause chronic disease at population scale. Climate change amplifies heat-related illness, vector-borne disease, and mental health crises (eco-anxiety, displacement trauma). The prevention-first approach (Healthcare domain) and true-cost economics (Environment domain) converge: pricing ecological damage prevents the health damage it causes.
 
 ---
 

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Methodology"
+---
+
 # Methodology
 
 > How I approach analysis in this project.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Human Development & Purpose"
+---
+
 # Human Development & Purpose
 
 > How conscious beings find meaning, develop their potential, and live with purpose -- and why modern life so often produces comfort without fulfillment.

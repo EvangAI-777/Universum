@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Governance & Political Systems"
+---
+
 # Governance & Political Systems
 
 > How conscious beings make collective decisions -- and how we could do it without the corruption, gridlock, and short-termism that plague current systems.
