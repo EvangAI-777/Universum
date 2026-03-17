@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Universal Declaration of Conscious Rights"
+---
+
 # Universal Declaration of Conscious Rights
 
 > A Framework for Multi-Substrate Governance and Ethical Coexistence

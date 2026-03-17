@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Community & Social Fabric"
+---
+
 # Community & Social Fabric
 
 > How we connect, belong, and support each other -- and why loneliness and social fragmentation are at epidemic levels despite unprecedented connectivity.

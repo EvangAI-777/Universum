@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Principles"
+---
+
 # Principles
 
 > Core beliefs that underpin every domain in this project.

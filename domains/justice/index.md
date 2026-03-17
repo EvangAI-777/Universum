@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Justice & Rights"
+---
+
 # Justice & Rights
 
 > How we protect the rights of all conscious beings, resolve conflicts, and maintain accountability -- and why justice systems so often produce injustice.

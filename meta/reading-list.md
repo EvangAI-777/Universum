@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Reading List"
+---
+
 # Reading List
 
 > Books, papers, talks, and resources that inform the thinking in this project.

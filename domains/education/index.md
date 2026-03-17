@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Education & Knowledge"
+---
+
 # Education & Knowledge
 
 > How we learn, teach, and cultivate understanding -- and why most formal education fails to produce curious, capable adults.

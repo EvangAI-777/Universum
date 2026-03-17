@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Economics & Resource Distribution"
+---
+
 # Economics & Resource Distribution
 
 > How we allocate resources, define value, and structure incentives -- and why the current system produces both billionaires and food banks.

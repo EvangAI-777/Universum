@@ -12,6 +12,11 @@
 - Completed reading list with references for all 9 domains -- books, papers, and resources that inform each domain's analysis
 - Added 7 new inspirations: Mondragon Corporation, Costa Rica's healthcare & reforestation, Whanganui River legal personhood, Wales Future Generations Commissioner, social prescribing (UK), and cohousing movement
 - Updated README status: all 9 domains now "In Progress"
+- Added Jekyll front matter (layout + title) to all markdown files for proper browser tab titles
+- Created CONTRIBUTING.md with content standards, philosophical alignment guidelines, and code of conduct
+- Added Reading List and Inspirations links to site navigation
+- Added 6 new cross-domain connections to CONNECTIONS.md (Education-Healthcare, Community-Education, Environment-Community, Economics-Community, Environment-Healthcare)
+- Added markdown linting and link checking to CI pipeline (warning-only, non-blocking)
 
 ## 2026-02-20
 

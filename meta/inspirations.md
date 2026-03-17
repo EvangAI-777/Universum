@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Inspirations"
+---
+
 # Inspirations
 
 > Real-world projects, organizations, communities, and experiments that prove better is possible.

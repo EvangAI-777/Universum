@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Glossary"
+---
+
 # Glossary
 
 > Shared terminology used across domains.

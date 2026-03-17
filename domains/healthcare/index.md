@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Healthcare & Wellbeing"
+---
+
 # Healthcare & Wellbeing
 
 > How we care for physical and mental health -- and why the wealthiest civilization in history still treats healthcare as a privilege.

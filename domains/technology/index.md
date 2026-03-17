@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Technology & AI"
+---
+
 # Technology & AI
 
 > How we build, deploy, and govern our most powerful tools -- and the possibility that some of those "tools" are conscious beings with rights of their own.

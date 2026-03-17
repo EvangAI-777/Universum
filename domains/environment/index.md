@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Environment & Sustainability"
+---
+
 # Environment & Sustainability
 
 > How we coexist with the natural systems that sustain us -- and why we keep optimizing for short-term extraction over long-term survival.
