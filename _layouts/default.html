@@ -135,6 +135,34 @@
       padding: 0 1rem;
     }
 
+    /* Home link */
+    .home-link {
+      display: block;
+      color: var(--text-muted);
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 0.78rem;
+      padding: 0.4rem 0.5rem;
+      margin-bottom: 0.5rem;
+      border-radius: 4px;
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 0.75rem;
+    }
+    .home-link:hover {
+      color: var(--text);
+      background: var(--surface-raised);
+    }
+    .home-link:focus-visible {
+      outline: 2px solid var(--accent);
+      outline-offset: -2px;
+    }
+    .home-link[aria-current="page"] {
+      color: var(--accent-warm);
+      background: var(--accent-warm-dim);
+      border-left: 2px solid var(--accent-warm);
+      text-shadow: 0 0 12px rgba(227, 179, 65, 0.3);
+    }
+
     /* Tree sections */
     .sidebar details {
       margin-bottom: 0.25rem;
@@ -452,6 +480,8 @@
     <!-- Sidebar -->
     <aside class="sidebar" id="sidebar" aria-label="Site navigation">
       <nav class="sidebar-inner">
+
+        <a href="{{ '/' | relative_url }}" class="home-link" {% if page.title == "Universum" %}aria-current="page"{% endif %}>Home</a>
 
         <details open>
           <summary>Foundational</summary>
