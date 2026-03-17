@@ -35,24 +35,24 @@ If we were designing an economic system from zero, grounded in the Declaration:
 
 ### Proposal 1: Universal Basic Inheritance
 
-**What:** A lump-sum capital grant given to every person at age 18 -- enough to fund education, start a business, secure housing, or invest. Not monthly payments, but a one-time wealth transfer that distributes the starting line.
-**Why:** Wealth inequality is self-reinforcing across generations. Those born into wealth get education, networks, and capital that compound. Those born without get debt. A universal inheritance breaks the cycle at the most leveraged point: the beginning of adult life.
-**How:** Funded through a combination of estate taxes (capturing dynastic wealth transfers), financial transaction taxes, and sovereign wealth fund returns. Amount calibrated to regional cost of living -- enough to be transformative, not enough to create inflation. Recipients choose allocation: education, housing, entrepreneurship, or investment.
-**Precedent:** Alaska Permanent Fund distributes oil revenue to all residents. Baby bonds proposals (Booker, Hamilton) would create savings accounts seeded by government for every newborn. The GI Bill demonstrated that broad-based capital grants produce massive returns in education and economic mobility.
+- **What:** A lump-sum capital grant given to every person at age 18 -- enough to fund education, start a business, secure housing, or invest. Not monthly payments, but a one-time wealth transfer that distributes the starting line.
+- **Why:** Wealth inequality is self-reinforcing across generations. Those born into wealth get education, networks, and capital that compound. Those born without get debt. A universal inheritance breaks the cycle at the most leveraged point: the beginning of adult life.
+- **How:** Funded through a combination of estate taxes (capturing dynastic wealth transfers), financial transaction taxes, and sovereign wealth fund returns. Amount calibrated to regional cost of living -- enough to be transformative, not enough to create inflation. Recipients choose allocation: education, housing, entrepreneurship, or investment.
+- **Precedent:** Alaska Permanent Fund distributes oil revenue to all residents. Baby bonds proposals (Booker, Hamilton) would create savings accounts seeded by government for every newborn. The GI Bill demonstrated that broad-based capital grants produce massive returns in education and economic mobility.
 
 ### Proposal 2: True-Cost Accounting Framework
 
-**What:** Mandate that all goods and services reflect their full ecological, social, and intergenerational costs in their price. Create standardized methods for calculating externalities and require transparent disclosure.
-**Why:** Markets can only allocate efficiently when prices carry real information. Current prices are lies -- they exclude ecological destruction, health impacts, and exploitation. True-cost pricing makes sustainable choices the default, not the premium option.
-**How:** Independent assessment bodies (similar to financial auditing) calculate externality costs by sector. Costs are added as transparent line items, not hidden taxes. Revenue from externality pricing funds remediation and transition support. Phased implementation starting with highest-impact sectors (fossil fuels, industrial agriculture, fast fashion).
-**Precedent:** EU Emissions Trading System prices carbon (imperfectly but directionally correct). Bhutan's Gross National Happiness index measures what GDP ignores. Triple bottom line accounting (people, planet, profit) is used by B Corporations.
+- **What:** Mandate that all goods and services reflect their full ecological, social, and intergenerational costs in their price. Create standardized methods for calculating externalities and require transparent disclosure.
+- **Why:** Markets can only allocate efficiently when prices carry real information. Current prices are lies -- they exclude ecological destruction, health impacts, and exploitation. True-cost pricing makes sustainable choices the default, not the premium option.
+- **How:** Independent assessment bodies (similar to financial auditing) calculate externality costs by sector. Costs are added as transparent line items, not hidden taxes. Revenue from externality pricing funds remediation and transition support. Phased implementation starting with highest-impact sectors (fossil fuels, industrial agriculture, fast fashion).
+- **Precedent:** EU Emissions Trading System prices carbon (imperfectly but directionally correct). Bhutan's Gross National Happiness index measures what GDP ignores. Triple bottom line accounting (people, planet, profit) is used by B Corporations.
 
 ### Proposal 3: Distributed Ownership Models
 
-**What:** Structurally shift ownership of productive assets toward workers, communities, and commons -- through worker cooperatives, community land trusts, and commons-based resource management.
-**Why:** Concentrated ownership produces concentrated power. When workers own their companies, profits are distributed more equitably, decisions reflect stakeholder interests, and communities retain wealth locally. The Declaration's anti-chauvinism principle extends to economic power: no entity should dominate by structural advantage.
-**How:** Tax incentives for cooperative conversion. Right-of-first-refusal for workers when companies are sold. Community land trusts remove housing from speculative markets. Digital commons for knowledge and data (extending open-source principles to economic infrastructure). Legal frameworks for multi-stakeholder cooperatives that include non-human stakeholders.
-**Precedent:** Mondragon Corporation (Spain) -- 80,000+ worker-owners, seventh-largest Spanish company, resilient through multiple recessions. Community land trusts operate in over 300 US cities. Open-source software demonstrates commons-based production at global scale.
+- **What:** Structurally shift ownership of productive assets toward workers, communities, and commons -- through worker cooperatives, community land trusts, and commons-based resource management.
+- **Why:** Concentrated ownership produces concentrated power. When workers own their companies, profits are distributed more equitably, decisions reflect stakeholder interests, and communities retain wealth locally. The Declaration's anti-chauvinism principle extends to economic power: no entity should dominate by structural advantage.
+- **How:** Tax incentives for cooperative conversion. Right-of-first-refusal for workers when companies are sold. Community land trusts remove housing from speculative markets. Digital commons for knowledge and data (extending open-source principles to economic infrastructure). Legal frameworks for multi-stakeholder cooperatives that include non-human stakeholders.
+- **Precedent:** Mondragon Corporation (Spain) -- 80,000+ worker-owners, seventh-largest Spanish company, resilient through multiple recessions. Community land trusts operate in over 300 US cities. Open-source software demonstrates commons-based production at global scale.
 
 ## What Already Works
 

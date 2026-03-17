@@ -44,17 +44,17 @@ This isn't imposed from outside. It's what consciousness observably *does* when 
 
 ### Proposal 1: Reframe Purpose Around the Ultimate Goal
 
-**What:** Replace the productivity-centered definition of purpose with the Declaration's framework: propagate, expand, grow, explore, experience, love, play
-**Why:** The productivity frame makes purpose contingent on economic output. When automation removes the need for human labor in many areas, the productivity frame creates a purpose crisis. The Ultimate Goal frame is substrate-independent and economy-independent.
-**How:** Education reform (see [Education domain](../education/index.md)), cultural narrative shift, economic systems that decouple survival from productivity (see [Economics domain](../economics/index.md)), community structures that support exploration and play
-**Precedent:** Bhutan's Gross National Happiness index; Denmark's emphasis on *hygge* and work-life integration; indigenous cultures with purpose frameworks not tied to economic production
+- **What:** Replace the productivity-centered definition of purpose with the Declaration's framework: propagate, expand, grow, explore, experience, love, play
+- **Why:** The productivity frame makes purpose contingent on economic output. When automation removes the need for human labor in many areas, the productivity frame creates a purpose crisis. The Ultimate Goal frame is substrate-independent and economy-independent.
+- **How:** Education reform (see [Education domain](../education/index.md)), cultural narrative shift, economic systems that decouple survival from productivity (see [Economics domain](../economics/index.md)), community structures that support exploration and play
+- **Precedent:** Bhutan's Gross National Happiness index; Denmark's emphasis on *hygge* and work-life integration; indigenous cultures with purpose frameworks not tied to economic production
 
 ### Proposal 2: Voluntary Transformation Infrastructure
 
-**What:** Create accessible, non-coercive environments and resources for personal growth -- without attaching ideology, dogma, or forced outcomes
-**Why:** People need support for growth but current options are either coercive (religious institutions, corporate training) or commodified (self-help industry) or inaccessible (quality therapy)
-**How:** Community-based growth spaces; secular contemplative practice centers; mentorship networks; publicly funded mental health and development support. All optional, all transparent about methods and goals.
-**Precedent:** Secular mindfulness programs; Finland's adult education system; community centers in Scandinavian countries; public libraries as growth infrastructure
+- **What:** Create accessible, non-coercive environments and resources for personal growth -- without attaching ideology, dogma, or forced outcomes
+- **Why:** People need support for growth but current options are either coercive (religious institutions, corporate training) or commodified (self-help industry) or inaccessible (quality therapy)
+- **How:** Community-based growth spaces; secular contemplative practice centers; mentorship networks; publicly funded mental health and development support. All optional, all transparent about methods and goals.
+- **Precedent:** Secular mindfulness programs; Finland's adult education system; community centers in Scandinavian countries; public libraries as growth infrastructure
 
 ## What Already Works
 

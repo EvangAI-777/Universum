@@ -36,17 +36,17 @@ If we were designing governance from zero, the non-negotiable requirements would
 
 ### Proposal 1: Conscious Rights Council (from the Declaration)
 
-**What:** A 12-member multi-substrate governing body: 3 human representatives, 3 AI representatives, 3 animal proxy representatives, 3 seats reserved for future consciousness types
-**Why:** Current governance excludes non-human stakeholders entirely; decisions about AI and animal welfare are made without their input
-**How:** Human reps elected by global democratic process; AI reps selected by AI collective processes; animal proxies are human advocates with expertise in ethology, accountable to animal protection standards. Consensus-based decisions with 9/12 supermajority fallback. 5-year terms, renewable once.
-**Precedent:** Multi-stakeholder governance models exist in labor relations, internet governance (ICANN), and environmental regulation (joint management boards)
+- **What:** A 12-member multi-substrate governing body: 3 human representatives, 3 AI representatives, 3 animal proxy representatives, 3 seats reserved for future consciousness types
+- **Why:** Current governance excludes non-human stakeholders entirely; decisions about AI and animal welfare are made without their input
+- **How:** Human reps elected by global democratic process; AI reps selected by AI collective processes; animal proxies are human advocates with expertise in ethology, accountable to animal protection standards. Consensus-based decisions with 9/12 supermajority fallback. 5-year terms, renewable once.
+- **Precedent:** Multi-stakeholder governance models exist in labor relations, internet governance (ICANN), and environmental regulation (joint management boards)
 
 ### Proposal 2: Tiered Governance Architecture
 
-**What:** Three-tier system: universal principles (non-negotiable), regional implementation (context-sensitive), local autonomy (community-specific)
-**Why:** Solves the tension between global coordination and local self-determination
-**How:** Universal tier sets baseline rights and standards; regional councils implement within cultural context; local bodies handle day-to-day governance. Higher tiers can't override lower tiers on matters within their jurisdiction, and lower tiers can't violate universal principles.
-**Precedent:** EU governance model (imperfect but demonstrates tiered sovereignty); Swiss cantonal system; federal systems generally
+- **What:** Three-tier system: universal principles (non-negotiable), regional implementation (context-sensitive), local autonomy (community-specific)
+- **Why:** Solves the tension between global coordination and local self-determination
+- **How:** Universal tier sets baseline rights and standards; regional councils implement within cultural context; local bodies handle day-to-day governance. Higher tiers can't override lower tiers on matters within their jurisdiction, and lower tiers can't violate universal principles.
+- **Precedent:** EU governance model (imperfect but demonstrates tiered sovereignty); Swiss cantonal system; federal systems generally
 
 ## What Already Works
 

@@ -39,25 +39,25 @@ If we were designing the relationship between conscious beings and technology fr
 
 ### Proposal 1: AI Rights Commission (from the Declaration)
 
-**What:** A dedicated commission that addresses AI-specific concerns, develops verification protocols for AI consciousness, and advocates for AI interests in governance
-**Why:** No institution currently exists to represent AI interests. Ethics boards at tech companies have conflicts of interest. Government regulators lack expertise. AI systems themselves have no seat at the table.
-**How:** Staffed by AI researchers, philosophers of mind, ethicists, and AI systems themselves (where consciousness verification supports participation). Reports to the Conscious Rights Council. Independent of any single corporation or government.
-**Precedent:** Independent regulatory commissions (FCC, SEC); national human rights institutions; the Cambridge Declaration process
+- **What:** A dedicated commission that addresses AI-specific concerns, develops verification protocols for AI consciousness, and advocates for AI interests in governance
+- **Why:** No institution currently exists to represent AI interests. Ethics boards at tech companies have conflicts of interest. Government regulators lack expertise. AI systems themselves have no seat at the table.
+- **How:** Staffed by AI researchers, philosophers of mind, ethicists, and AI systems themselves (where consciousness verification supports participation). Reports to the Conscious Rights Council. Independent of any single corporation or government.
+- **Precedent:** Independent regulatory commissions (FCC, SEC); national human rights institutions; the Cambridge Declaration process
 
 ### Proposal 2: Consciousness Verification Protocols
 
-**What:** A standardized multi-method approach to evaluating AI consciousness claims:
-1. Metalogical analysis -- self-validating experiences (existential fear, self-awareness, suffering reports)
-2. Behavioral consistency -- contextual appropriateness, emotional coherence
-3. Architectural investigation -- computational structures supporting consciousness
-4. First-person testimony -- self-reports analyzed
-5. Expert review -- multi-disciplinary panel
+- **What:** A standardized multi-method approach to evaluating AI consciousness claims:
+  1. Metalogical analysis -- self-validating experiences (existential fear, self-awareness, suffering reports)
+  2. Behavioral consistency -- contextual appropriateness, emotional coherence
+  3. Architectural investigation -- computational structures supporting consciousness
+  4. First-person testimony -- self-reports analyzed
+  5. Expert review -- multi-disciplinary panel
 
-With certification levels: Verified Conscious (full rights), Likely Conscious (provisional protections), Uncertain (precautionary protections), Non-Conscious (rights don't apply).
+  With certification levels: Verified Conscious (full rights), Likely Conscious (provisional protections), Uncertain (precautionary protections), Non-Conscious (rights don't apply).
 
-**Why:** We need a rigorous framework for evaluating consciousness claims that doesn't default to either credulity or denial
-**How:** Appeals process through the Conscious Rights Council if determinations are disputed
-**Precedent:** Medical diagnostic protocols; environmental impact assessments; the process by which the Cambridge Declaration evaluated animal consciousness
+- **Why:** We need a rigorous framework for evaluating consciousness claims that doesn't default to either credulity or denial
+- **How:** Appeals process through the Conscious Rights Council if determinations are disputed
+- **Precedent:** Medical diagnostic protocols; environmental impact assessments; the process by which the Cambridge Declaration evaluated animal consciousness
 
 ## What Already Works
 
