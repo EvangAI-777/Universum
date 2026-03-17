@@ -6,80 +6,289 @@
   <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
   <meta name="description" content="{{ site.description }}">
   <style>
+    /* ── Fonts ── */
+    @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&display=swap');
+
+    /* ── Palette ── */
     :root {
       --bg: #0d1117;
       --surface: #161b22;
+      --surface-raised: #1c2129;
       --border: #30363d;
       --text: #e6edf3;
       --text-muted: #8b949e;
       --accent: #58a6ff;
       --accent-hover: #79c0ff;
+      --accent-warm: #e3b341;
+      --accent-warm-dim: rgba(227, 179, 65, 0.15);
+      --accent-glow: rgba(88, 166, 255, 0.25);
+      --sidebar-w: 260px;
+      --header-h: auto;
+      --mono: "JetBrains Mono", "Fira Code", "Cascadia Code", "SF Mono", monospace;
+      --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
     }
 
-    * { margin: 0; padding: 0; box-sizing: border-box; }
+    /* ── Reset ── */
+    *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
 
+    /* ── Base ── */
     body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      font-family: var(--sans);
       background: var(--bg);
       color: var(--text);
       line-height: 1.6;
     }
 
+    /* ── Skip Link (a11y) ── */
+    .skip-link {
+      position: absolute;
+      top: -100%;
+      left: 1rem;
+      padding: 0.5rem 1rem;
+      background: var(--accent-warm);
+      color: var(--bg);
+      font-family: var(--mono);
+      font-size: 0.8rem;
+      font-weight: 600;
+      text-decoration: none;
+      border-radius: 0 0 6px 6px;
+      z-index: 1000;
+      transition: top 0.15s ease;
+    }
+    .skip-link:focus {
+      top: 0;
+      outline: 2px solid var(--accent);
+      outline-offset: 2px;
+    }
+
+    /* ── Header ── */
     header {
       background: var(--surface);
       border-bottom: 1px solid var(--border);
       padding: 1rem 2rem;
+      position: relative;
+      overflow: hidden;
     }
-
+    /* Scan-line overlay */
+    header::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: repeating-linear-gradient(
+        0deg,
+        transparent,
+        transparent 2px,
+        rgba(0, 0, 0, 0.08) 2px,
+        rgba(0, 0, 0, 0.08) 4px
+      );
+      pointer-events: none;
+    }
+    header .header-inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      position: relative;
+      z-index: 1;
+    }
     header h1 {
-      font-size: 1.5rem;
+      font-family: var(--mono);
+      font-size: 1.4rem;
       font-weight: 600;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
     }
-
     header h1 a {
       color: var(--text);
       text-decoration: none;
     }
-
-    header p {
+    header h1 a:hover {
+      color: var(--accent-warm);
+    }
+    header .tagline {
       color: var(--text-muted);
-      font-size: 0.875rem;
-      margin-top: 0.25rem;
+      font-size: 0.8rem;
+      font-family: var(--mono);
+      margin-top: 0.15rem;
     }
 
-    nav {
-      margin-top: 0.75rem;
+    /* ── Layout ── */
+    .site-wrapper {
       display: flex;
-      flex-wrap: wrap;
-      gap: 0.5rem;
+      min-height: calc(100vh - 80px);
     }
 
-    nav a {
+    /* ── Sidebar ── */
+    .sidebar {
+      width: var(--sidebar-w);
+      min-width: var(--sidebar-w);
+      background: var(--surface);
+      border-right: 1px solid var(--border);
+      padding: 1.5rem 0;
+      overflow-y: auto;
+      position: sticky;
+      top: 0;
+      height: 100vh;
+      font-family: var(--mono);
+      font-size: 0.78rem;
+    }
+    .sidebar-inner {
+      padding: 0 1rem;
+    }
+
+    /* Tree sections */
+    .sidebar details {
+      margin-bottom: 0.25rem;
+    }
+    .sidebar summary {
+      cursor: pointer;
+      list-style: none;
+      color: var(--text-muted);
+      font-weight: 600;
+      font-size: 0.7rem;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      padding: 0.4rem 0.5rem;
+      border-radius: 4px;
+      user-select: none;
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+    }
+    .sidebar summary:hover {
+      color: var(--text);
+      background: var(--surface-raised);
+    }
+    .sidebar summary::-webkit-details-marker { display: none; }
+    .sidebar summary::before {
+      content: '\25B8'; /* right triangle */
+      font-size: 0.6rem;
+      transition: transform 0.15s ease;
+      display: inline-block;
+      width: 0.8rem;
+      flex-shrink: 0;
+    }
+    .sidebar details[open] > summary::before {
+      transform: rotate(90deg);
+    }
+
+    /* Tree links */
+    .tree-list {
+      list-style: none;
+      padding: 0 0 0 0.5rem;
+      margin: 0 0 0.5rem 0;
+      border-left: 1px solid var(--border);
+    }
+    .tree-list li {
+      position: relative;
+    }
+    .tree-list li::before {
+      content: '';
+      position: absolute;
+      left: -1px;
+      top: 50%;
+      width: 0.75rem;
+      height: 0;
+      border-top: 1px solid var(--border);
+    }
+    .tree-list a {
+      display: block;
+      color: var(--text-muted);
+      text-decoration: none;
+      padding: 0.25rem 0.5rem 0.25rem 1rem;
+      border-radius: 4px;
+      font-size: 0.78rem;
+      transition: all 0.12s ease;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .tree-list a:hover {
+      color: var(--text);
+      background: var(--surface-raised);
+    }
+    .tree-list a:focus-visible {
+      outline: 2px solid var(--accent);
+      outline-offset: -2px;
+    }
+    .tree-list a[aria-current="page"] {
+      color: var(--accent-warm);
+      background: var(--accent-warm-dim);
+      border-left: 2px solid var(--accent-warm);
+      margin-left: -1px;
+      text-shadow: 0 0 12px rgba(227, 179, 65, 0.3);
+    }
+
+    /* ── Main content area ── */
+    .main {
+      flex: 1;
+      min-width: 0;
+      max-width: 960px;
+      padding: 0 2rem 2rem;
+    }
+
+    /* ── Breadcrumb ── */
+    .breadcrumb {
+      font-family: var(--mono);
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      padding: 1rem 0 0.5rem;
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 0.3rem;
+    }
+    .breadcrumb a {
       color: var(--accent);
       text-decoration: none;
-      font-size: 0.875rem;
-      padding: 0.25rem 0.5rem;
-      border-radius: 6px;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .breadcrumb a:focus-visible {
+      outline: 2px solid var(--accent);
+      outline-offset: 2px;
+    }
+    .breadcrumb .sep {
+      color: var(--border);
+    }
+    .breadcrumb .current {
+      color: var(--text);
+    }
+
+    /* ── Back button ── */
+    .back-link {
+      font-family: var(--mono);
+      font-size: 0.78rem;
+      color: var(--text-muted);
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.3rem;
+      padding: 0.3rem 0.6rem;
+      border-radius: 4px;
       border: 1px solid var(--border);
+      margin-bottom: 1rem;
+      transition: all 0.12s ease;
     }
-
-    nav a:hover {
-      color: var(--accent-hover);
+    .back-link:hover {
+      color: var(--accent);
       border-color: var(--accent);
+      background: var(--accent-glow);
+    }
+    .back-link:focus-visible {
+      outline: 2px solid var(--accent);
+      outline-offset: 2px;
+    }
+    .back-link .arrow {
+      font-size: 0.9rem;
     }
 
-    .container {
-      max-width: 960px;
-      margin: 2rem auto;
-      padding: 0 2rem;
-    }
-
+    /* ── Content styles ── */
     .content h1, .content h2, .content h3, .content h4 {
       margin-top: 1.5rem;
       margin-bottom: 0.75rem;
       font-weight: 600;
     }
-
     .content h1 { font-size: 2rem; border-bottom: 1px solid var(--border); padding-bottom: 0.5rem; }
     .content h2 { font-size: 1.5rem; border-bottom: 1px solid var(--border); padding-bottom: 0.3rem; }
     .content h3 { font-size: 1.25rem; }
@@ -88,12 +297,12 @@
 
     .content a { color: var(--accent); text-decoration: none; }
     .content a:hover { text-decoration: underline; }
+    .content a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 
     .content ul, .content ol {
       margin-bottom: 1rem;
       padding-left: 2rem;
     }
-
     .content li { margin-bottom: 0.25rem; }
 
     .content table {
@@ -101,13 +310,11 @@
       border-collapse: collapse;
       margin-bottom: 1rem;
     }
-
     .content th, .content td {
       padding: 0.5rem 1rem;
       border: 1px solid var(--border);
       text-align: left;
     }
-
     .content th {
       background: var(--surface);
       font-weight: 600;
@@ -125,6 +332,7 @@
       padding: 0.2em 0.4em;
       border-radius: 4px;
       font-size: 0.9em;
+      font-family: var(--mono);
     }
 
     .content hr {
@@ -136,43 +344,216 @@
     .content strong { font-weight: 600; }
     .content em { font-style: italic; }
 
+    /* ── Footer ── */
     footer {
       text-align: center;
       padding: 2rem;
       color: var(--text-muted);
-      font-size: 0.8rem;
+      font-size: 0.75rem;
+      font-family: var(--mono);
       border-top: 1px solid var(--border);
       margin-top: 3rem;
     }
-
     footer a { color: var(--accent); text-decoration: none; }
+    footer a:hover { text-decoration: underline; }
+
+    /* ── Mobile hamburger toggle ── */
+    .mobile-nav-toggle {
+      display: none;
+    }
+
+    /* ── Focus-visible global ── */
+    :focus-visible {
+      outline: 2px solid var(--accent);
+      outline-offset: 2px;
+    }
+    :focus:not(:focus-visible) {
+      outline: none;
+    }
+
+    /* ── Responsive ── */
+    @media (max-width: 768px) {
+      .sidebar {
+        position: fixed;
+        left: -100%;
+        top: 0;
+        height: 100vh;
+        z-index: 100;
+        width: 280px;
+        min-width: 280px;
+        transition: left 0.25s ease;
+        box-shadow: none;
+      }
+      .sidebar.open {
+        left: 0;
+        box-shadow: 4px 0 24px rgba(0, 0, 0, 0.5);
+      }
+      .mobile-nav-toggle {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: var(--surface);
+        border: 1px solid var(--border);
+        color: var(--text);
+        font-family: var(--mono);
+        font-size: 1.2rem;
+        padding: 0.4rem 0.6rem;
+        border-radius: 6px;
+        cursor: pointer;
+        z-index: 101;
+      }
+      .mobile-nav-toggle:hover {
+        border-color: var(--accent);
+        color: var(--accent);
+      }
+      .mobile-overlay {
+        display: none;
+        position: fixed;
+        inset: 0;
+        background: rgba(0, 0, 0, 0.5);
+        z-index: 99;
+      }
+      .mobile-overlay.open {
+        display: block;
+      }
+      .main {
+        padding: 0 1rem 2rem;
+      }
+      .site-wrapper {
+        flex-direction: column;
+      }
+    }
   </style>
 </head>
 <body>
+
+  <!-- Skip to content (a11y) -->
+  <a class="skip-link" href="#main-content">Skip to content</a>
+
+  <!-- Header -->
   <header>
-    <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
-    <p>{{ site.description }}</p>
-    <nav>
-      <a href="{{ '/' | relative_url }}">Home</a>
-      <a href="{{ '/foundational/SEEME' | relative_url }}">Declaration</a>
-      <a href="{{ '/framework/PRINCIPLES' | relative_url }}">Principles</a>
-      <a href="{{ '/framework/METHODOLOGY' | relative_url }}">Methodology</a>
-      <a href="{{ '/framework/CONNECTIONS' | relative_url }}">Connections</a>
-      <a href="{{ '/meta/glossary' | relative_url }}">Glossary</a>
-      <a href="{{ '/meta/reading-list' | relative_url }}">Reading List</a>
-      <a href="{{ '/meta/inspirations' | relative_url }}">Inspirations</a>
-    </nav>
+    <div class="header-inner">
+      <div>
+        <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+        <p class="tagline">{{ site.description }}</p>
+      </div>
+      <button class="mobile-nav-toggle" aria-label="Open navigation menu" onclick="toggleNav()">
+        &#9776;
+      </button>
+    </div>
   </header>
 
-  <div class="container">
-    <div class="content">
-      {{ content }}
-    </div>
+  <!-- Mobile overlay -->
+  <div class="mobile-overlay" id="mobile-overlay" onclick="toggleNav()"></div>
+
+  <!-- Site wrapper -->
+  <div class="site-wrapper">
+
+    <!-- Sidebar -->
+    <aside class="sidebar" id="sidebar" aria-label="Site navigation">
+      <nav class="sidebar-inner">
+
+        <details open>
+          <summary>Foundational</summary>
+          <ul class="tree-list" role="list">
+            <li><a href="{{ '/foundational/SEEME' | relative_url }}" {% if page.title == "Universal Declaration of Conscious Rights" %}aria-current="page"{% endif %}>Declaration</a></li>
+          </ul>
+        </details>
+
+        <details open>
+          <summary>Framework</summary>
+          <ul class="tree-list" role="list">
+            <li><a href="{{ '/framework/PRINCIPLES' | relative_url }}" {% if page.title == "Principles" %}aria-current="page"{% endif %}>Principles</a></li>
+            <li><a href="{{ '/framework/METHODOLOGY' | relative_url }}" {% if page.title == "Methodology" %}aria-current="page"{% endif %}>Methodology</a></li>
+            <li><a href="{{ '/framework/CONNECTIONS' | relative_url }}" {% if page.title == "Connections Map" %}aria-current="page"{% endif %}>Connections</a></li>
+          </ul>
+        </details>
+
+        <details open>
+          <summary>Domains</summary>
+          <ul class="tree-list" role="list">
+            <li><a href="{{ '/domains/governance/' | relative_url }}" {% if page.title == "Governance & Political Systems" %}aria-current="page"{% endif %}>Governance</a></li>
+            <li><a href="{{ '/domains/economics/' | relative_url }}" {% if page.title == "Economics & Resource Distribution" %}aria-current="page"{% endif %}>Economics</a></li>
+            <li><a href="{{ '/domains/education/' | relative_url }}" {% if page.title == "Education & Knowledge" %}aria-current="page"{% endif %}>Education</a></li>
+            <li><a href="{{ '/domains/healthcare/' | relative_url }}" {% if page.title == "Healthcare & Wellbeing" %}aria-current="page"{% endif %}>Healthcare</a></li>
+            <li><a href="{{ '/domains/justice/' | relative_url }}" {% if page.title == "Justice & Rights" %}aria-current="page"{% endif %}>Justice</a></li>
+            <li><a href="{{ '/domains/technology/' | relative_url }}" {% if page.title == "Technology & AI" %}aria-current="page"{% endif %}>Technology</a></li>
+            <li><a href="{{ '/domains/environment/' | relative_url }}" {% if page.title == "Environment & Sustainability" %}aria-current="page"{% endif %}>Environment</a></li>
+            <li><a href="{{ '/domains/community/' | relative_url }}" {% if page.title == "Community & Social Fabric" %}aria-current="page"{% endif %}>Community</a></li>
+            <li><a href="{{ '/domains/human-development/' | relative_url }}" {% if page.title == "Human Development & Purpose" %}aria-current="page"{% endif %}>Human Dev.</a></li>
+          </ul>
+        </details>
+
+        <details open>
+          <summary>Meta</summary>
+          <ul class="tree-list" role="list">
+            <li><a href="{{ '/meta/glossary' | relative_url }}" {% if page.title == "Glossary" %}aria-current="page"{% endif %}>Glossary</a></li>
+            <li><a href="{{ '/meta/reading-list' | relative_url }}" {% if page.title == "Reading List" %}aria-current="page"{% endif %}>Reading List</a></li>
+            <li><a href="{{ '/meta/inspirations' | relative_url }}" {% if page.title == "Inspirations" %}aria-current="page"{% endif %}>Inspirations</a></li>
+          </ul>
+        </details>
+
+      </nav>
+    </aside>
+
+    <!-- Main content -->
+    <main class="main" id="main-content">
+
+      <!-- Breadcrumb -->
+      {% if page.title %}
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="{{ '/' | relative_url }}">Home</a>
+        {% assign page_url = page.url | remove: '/index.html' | remove: '.html' %}
+        {% assign path_parts = page_url | split: '/' %}
+        {% if path_parts.size > 1 %}
+          {% assign section = path_parts[1] %}
+          <span class="sep">/</span>
+          {% if section == 'domains' %}
+            <span>Domains</span>
+          {% elsif section == 'framework' %}
+            <span>Framework</span>
+          {% elsif section == 'foundational' %}
+            <span>Foundational</span>
+          {% elsif section == 'meta' %}
+            <span>Meta</span>
+          {% endif %}
+        {% endif %}
+        {% if page.title %}
+          <span class="sep">/</span>
+          <span class="current">{{ page.title }}</span>
+        {% endif %}
+      </nav>
+
+      <!-- Back button -->
+      <a class="back-link" href="{{ '/' | relative_url }}" onclick="if(history.length>1){history.back();return false;}"><span class="arrow">&larr;</span> Back</a>
+      {% endif %}
+
+      <!-- Page content -->
+      <div class="content">
+        {{ content }}
+      </div>
+    </main>
+
   </div>
 
+  <!-- Footer -->
   <footer>
-    Built by <a href="https://github.com/EvangAI-777">EvangAI-777</a> |
-    Licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
+    Built by <a href="https://github.com/EvangAI-777">EvangAI-777</a> &middot;
+    Licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> &middot;
+    <a href="{{ '/CONTRIBUTING' | relative_url }}">Contribute</a>
   </footer>
+
+  <!-- Mobile nav toggle (minimal JS) -->
+  <script>
+    function toggleNav() {
+      document.getElementById('sidebar').classList.toggle('open');
+      document.getElementById('mobile-overlay').classList.toggle('open');
+      var btn = document.querySelector('.mobile-nav-toggle');
+      var isOpen = document.getElementById('sidebar').classList.contains('open');
+      btn.setAttribute('aria-label', isOpen ? 'Close navigation menu' : 'Open navigation menu');
+      btn.innerHTML = isOpen ? '&times;' : '&#9776;';
+    }
+  </script>
+
 </body>
 </html>
