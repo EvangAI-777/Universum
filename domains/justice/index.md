@@ -35,21 +35,20 @@ The Declaration establishes clear foundations:
 
 ### Proposal 1: Tiered Violation and Accountability Framework (from the Declaration)
 
-**What:** Three categories of rights violations with proportional responses:
-- **Severe** (torture, arbitrary killing, forced transformation, systematic exploitation): Criminal prosecution, significant penalties, mandatory remediation
-- **Moderate** (unjustified rights restriction, negligence, discrimination): Civil penalties, corrective action, monitoring, restitution
-- **Minor** (procedural errors, unintentional discrimination, good-faith failures): Education, technical assistance, compliance plans
-
-**Why:** Current systems either under-respond (slap on wrist for serious harm) or over-respond (criminalization of minor infractions). Proportionality creates credibility.
-**How:** Enforcement through regional Consciousness Ombudspersons, Ethics Review Boards, and Enforcement Agencies. Individual accountability (no "following orders" defense for severe violations), institutional accountability (organizations face dissolution for systematic severe violations), and systemic accountability (legal systems must incorporate consciousness rights).
-**Precedent:** International Criminal Court tiered jurisdiction; occupational safety enforcement models; disability rights compliance frameworks
+- **What:** Three categories of rights violations with proportional responses:
+  - **Severe** (torture, arbitrary killing, forced transformation, systematic exploitation): Criminal prosecution, significant penalties, mandatory remediation
+  - **Moderate** (unjustified rights restriction, negligence, discrimination): Civil penalties, corrective action, monitoring, restitution
+  - **Minor** (procedural errors, unintentional discrimination, good-faith failures): Education, technical assistance, compliance plans
+- **Why:** Current systems either under-respond (slap on wrist for serious harm) or over-respond (criminalization of minor infractions). Proportionality creates credibility.
+- **How:** Enforcement through regional Consciousness Ombudspersons, Ethics Review Boards, and Enforcement Agencies. Individual accountability (no "following orders" defense for severe violations), institutional accountability (organizations face dissolution for systematic severe violations), and systemic accountability (legal systems must incorporate consciousness rights).
+- **Precedent:** International Criminal Court tiered jurisdiction; occupational safety enforcement models; disability rights compliance frameworks
 
 ### Proposal 2: Conflicting Rights Resolution Protocol
 
-**What:** When rights of different conscious beings conflict, apply a priority framework: (1) survival needs trump convenience, (2) suffering prevention over benefit maximization, (3) consent violations weighted heavily, (4) proportionality required, (5) least restrictive means preferred
-**Why:** Rights will conflict. Without a principled resolution framework, the most powerful party always wins.
-**How:** Transparent multi-stakeholder decision-making, documentation of reasoning, review mechanisms, precedent consideration. Uses piecemeal ethics -- selecting the appropriate ethical framework for each specific context rather than rigid rule application.
-**Precedent:** Constitutional courts balancing competing rights; medical ethics triage protocols; environmental impact assessment frameworks
+- **What:** When rights of different conscious beings conflict, apply a priority framework: (1) survival needs trump convenience, (2) suffering prevention over benefit maximization, (3) consent violations weighted heavily, (4) proportionality required, (5) least restrictive means preferred
+- **Why:** Rights will conflict. Without a principled resolution framework, the most powerful party always wins.
+- **How:** Transparent multi-stakeholder decision-making, documentation of reasoning, review mechanisms, precedent consideration. Uses piecemeal ethics -- selecting the appropriate ethical framework for each specific context rather than rigid rule application.
+- **Precedent:** Constitutional courts balancing competing rights; medical ethics triage protocols; environmental impact assessment frameworks
 
 ## What Already Works
 

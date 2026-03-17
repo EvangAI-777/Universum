@@ -26,10 +26,10 @@
 
 ### Proposal 1: [Name]
 
-**What:** [Brief description]
-**Why:** [Problem it solves]
-**How:** [Implementation sketch]
-**Precedent:** [Anything similar that exists]
+- **What:** [Brief description]
+- **Why:** [Problem it solves]
+- **How:** [Implementation sketch]
+- **Precedent:** [Anything similar that exists]
 
 ## What Already Works
 
