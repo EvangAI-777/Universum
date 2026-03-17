@@ -4,6 +4,15 @@
 
 ---
 
+## 2026-03-17
+
+- Filled all five remaining domains with substantive content: economics, education, healthcare, environment, and community
+- Each domain now has: systemic analysis (What's Broken), first principles, 2-3 concrete proposals with precedents, real-world examples (What Already Works), and open questions
+- Populated glossary with 22 key terms used across domains (substrate independence, piecemeal ethics, third place, true-cost accounting, etc.)
+- Completed reading list with references for all 9 domains -- books, papers, and resources that inform each domain's analysis
+- Added 7 new inspirations: Mondragon Corporation, Costa Rica's healthcare & reforestation, Whanganui River legal personhood, Wales Future Generations Commissioner, social prescribing (UK), and cohousing movement
+- Updated README status: all 9 domains now "In Progress"
+
 ## 2026-02-20
 
 - Integrated the Universal Declaration of Conscious Rights as the project's foundational document

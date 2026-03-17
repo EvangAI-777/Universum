@@ -39,13 +39,13 @@ This project breaks civilization into **nine domains**. Each domain gets the sam
 | Domain | Description | Status |
 |--------|-------------|--------|
 | [Governance & Political Systems](domains/governance/index.md) | How conscious beings make collective decisions | In Progress |
-| [Economics & Resource Distribution](domains/economics/index.md) | How we allocate resources and value | Scaffolded |
-| [Education & Knowledge](domains/education/index.md) | How we learn, teach, and grow understanding | Scaffolded |
-| [Healthcare & Wellbeing](domains/healthcare/index.md) | How we care for physical and mental health | Scaffolded |
+| [Economics & Resource Distribution](domains/economics/index.md) | How we allocate resources and value | In Progress |
+| [Education & Knowledge](domains/education/index.md) | How we learn, teach, and grow understanding | In Progress |
+| [Healthcare & Wellbeing](domains/healthcare/index.md) | How we care for physical and mental health | In Progress |
 | [Justice & Rights](domains/justice/index.md) | How we protect rights across substrates | In Progress |
-| [Environment & Sustainability](domains/environment/index.md) | How we coexist with the natural world | Scaffolded |
+| [Environment & Sustainability](domains/environment/index.md) | How we coexist with the natural world | In Progress |
 | [Technology & AI](domains/technology/index.md) | How we build, govern, and coexist with our tools | In Progress |
-| [Community & Social Fabric](domains/community/index.md) | How we connect, belong, and support each other | Scaffolded |
+| [Community & Social Fabric](domains/community/index.md) | How we connect, belong, and support each other | In Progress |
 | [Human Development & Purpose](domains/human-development/index.md) | How conscious beings find meaning and flourish | In Progress |
 
 ## Cross-Cutting Documents
@@ -72,7 +72,7 @@ This project breaks civilization into **nine domains**. Each domain gets the sam
 
 ## Status
 
-Four domains (governance, justice, technology, human development) have initial content drawing from the Declaration. The remaining five are scaffolded. Content is filled in iteratively, starting with whichever domain is pulling hardest.
+All nine domains have initial content drawing from the Declaration. Content is expanded iteratively, starting with whichever domain is pulling hardest.
 
 ---
 

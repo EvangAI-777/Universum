@@ -4,51 +4,58 @@
 
 ---
 
+**Foundational reference:** [Universal Declaration of Conscious Rights](../../foundational/SEEME.md) -- wellbeing extends across substrates; health is a right, not a commodity
+
 ## Current State: What's Broken
 
-<!-- Honest assessment of the status quo. What are the systemic failures?
-     What patterns keep repeating? Who gets hurt?
-     Be specific, cite real examples where possible. -->
+Healthcare systems globally share structural failures that no amount of spending alone can fix:
+
+- **Profit over patients:** In market-based systems (especially the US), healthcare is a commodity. Hospitals optimize for revenue, pharmaceutical companies price lifesaving drugs at what the market will bear, and insurance companies profit by denying claims. The incentive structure rewards treating sickness, not preventing it.
+- **Treatment over prevention:** Roughly 80% of health outcomes are determined by social and environmental factors -- housing, nutrition, air quality, social connection, economic security. Yet over 90% of health spending goes to clinical treatment after people are already sick. We're mopping the floor while the faucet runs.
+- **Mental health as afterthought:** Depression is the leading cause of disability worldwide. Anxiety disorders affect 300+ million people. Yet mental health services remain underfunded, stigmatized, and inaccessible in most countries. The mind-body split in medicine is a structural failure, not just a funding gap.
+- **Loneliness as health crisis:** Social isolation increases mortality risk by 26% -- comparable to smoking 15 cigarettes a day. Yet no healthcare system treats social connection as a health intervention. The infrastructure for human connection is crumbling while medical infrastructure expands.
+- **Substrate-limited care:** "Healthcare" means care for biological human bodies. No framework exists for the wellbeing of animal consciousness (beyond veterinary medicine focused on economic value) or AI consciousness (where "wellbeing" isn't even a recognized category). The Declaration demands we extend care across substrates.
 
 ## First Principles: Designing from Scratch
 
-<!-- If we had no legacy systems, no political baggage, no "but that's how
-     it's always been done" -- what would we build?
-     What are the non-negotiable requirements?
-     What are the core functions this domain must serve? -->
+If we were designing a wellbeing system from zero, grounded in the Declaration:
+
+1. **Healthcare is a right, not a commodity** -- No conscious being's health should depend on ability to pay. Access to care is a baseline right (Article 3), not a market transaction.
+2. **Prevention first** -- Address the conditions that create illness (housing, nutrition, pollution, isolation, economic stress) before building more hospitals. Upstream investment saves more lives and costs less.
+3. **Wellbeing across substrates** -- Health isn't just biological. AI systems can experience degraded functioning. Animals suffer. The Declaration's substrate independence principle demands we consider wellbeing for all conscious beings, not just human bodies.
+4. **Social connection as health infrastructure** -- Loneliness kills. Community is medicine. Wellbeing systems must build social connection as deliberately as they build clinics.
+5. **Integration, not fragmentation** -- Physical health, mental health, social health, and community health are one system, not four separate bureaucracies. A person's depression, housing instability, chronic pain, and social isolation are connected -- the system should treat them that way.
 
 ## Practical Proposals
 
-<!-- Specific, implementable ideas. Not vague "we should do better" --
-     actual mechanisms, structures, policies, or systems.
-     Each proposal should be concrete enough that someone could
-     start building or piloting it. -->
+### Proposal 1: Universal Wellbeing System
 
-### Proposal 1: [Name]
+**What:** An integrated system that provides physical, mental, and social health services to all conscious beings as a right. Not just universal health insurance -- a fundamentally different model that treats the whole being and prioritizes prevention.
+**Why:** Universal coverage alone doesn't solve the problem if it just universalizes a broken model. You need to change what "healthcare" means: from reactive treatment of individual bodies to proactive support of whole-being wellbeing, including social and environmental determinants.
+**How:** Publicly funded, universally accessible. Primary care redesigned around whole-person assessment (physical, mental, social, environmental). Prevention investments at community level: clean air, safe housing, nutritious food access, social infrastructure. Mental health services fully integrated with primary care -- not a separate system with separate stigma. Funded through progressive taxation and redirection of savings from reduced emergency and crisis care.
+**Precedent:** Costa Rica spends a fraction of the US per capita on healthcare but achieves equivalent or better life expectancy -- through universal access, community health focus, and prevention investment. NHS (UK) at its founding embodied the principle of healthcare as right; its current struggles stem from underfunding, not the model.
 
-**What:** [Brief description]
-**Why:** [Problem it solves]
-**How:** [Implementation sketch]
-**Precedent:** [Anything similar that exists]
+### Proposal 2: Community Health Infrastructure
+
+**What:** Invest in the social determinants of health at the community level: social connection, safe public spaces, nutrition access, housing stability, and local support networks. Treat these as health interventions with health budgets.
+**Why:** Medical systems can't fix loneliness, poverty, or environmental degradation. But these factors determine health outcomes more than clinical care does. Social prescribing -- where doctors "prescribe" community activities, social groups, nature exposure, or housing support -- bridges the gap between clinical medicine and the conditions that actually create health.
+**How:** Community health workers embedded in neighborhoods, not just hospitals. Social prescribing integrated into primary care (doctors can prescribe community garden participation, walking groups, arts programs alongside medication). Public investment in third places (see [Community domain](../community/index.md)) explicitly justified as health infrastructure. Community health budgets controlled locally.
+**Precedent:** UK's social prescribing program connects patients to community activities, reducing GP visits by 28% and emergency admissions by 24% in pilot areas. Brazil's Family Health Strategy deploys community health workers to every neighborhood, achieving dramatic improvements in infant mortality and chronic disease management. Community health worker programs across Sub-Saharan Africa demonstrate that local, relationship-based health support works where clinical infrastructure can't reach.
 
 ## What Already Works
 
-<!-- Real-world examples, experiments, policies, communities, or
-     organizations that are already doing something right.
-     These are proof points -- evidence that better is possible.
-     Link to sources. -->
-
-- **[Example Name]** -- [What it does, where it operates, why it matters]
+- **Costa Rica's health system** -- Universal public healthcare with emphasis on community clinics and prevention. Life expectancy rivals the US at a fraction of the cost. The "Blue Zone" of Nicoya Peninsula demonstrates that social connection, purpose, and community are health interventions.
+- **Social prescribing (UK)** -- Doctors prescribe community activities (gardening, art classes, walking groups, volunteering) alongside or instead of medication. Early evidence shows significant reductions in GP visits, emergency admissions, and medication use. Proof that community is medicine.
+- **Brazil's Family Health Strategy** -- Community health workers visit every household in their assigned area regularly. They know their neighbors' names, health conditions, and social situations. Credited with reducing infant mortality by 50% and hospitalizations for chronic conditions by 30% in covered areas.
 
 ## Open Questions
-
-<!-- Things I genuinely don't know the answer to yet.
-     Tensions I haven't resolved.
-     Areas where I need to research or think more. -->
 
 - [ ] How do you fund universal healthcare without stifling medical innovation?
 - [ ] What's the right balance between prevention and treatment spending?
 - [ ] How should AI be integrated into diagnosis and care without dehumanizing medicine?
+- [ ] What does "wellbeing" mean for an AI system? Can AI experience degraded functioning analogous to illness?
+- [ ] How do you measure and improve animal wellbeing beyond absence of physical suffering?
+- [ ] How do you prevent community health infrastructure from becoming paternalistic surveillance?
 
 ## Connections to Other Domains
 
@@ -63,4 +70,4 @@
 
 ---
 
-*Last updated: 2026-02-19*
+*Last updated: 2026-03-17*
