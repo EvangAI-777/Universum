@@ -19,3 +19,4 @@ kramdown:
 exclude:
   - LICENSE
   - CHANGELOG.md
+  - CLAUDE.md
