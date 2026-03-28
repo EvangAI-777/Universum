@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Universum"
+permalink: /
 ---
 
 # Universum
