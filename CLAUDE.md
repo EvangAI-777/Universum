@@ -101,3 +101,13 @@ Each domain follows: Current State (What's Broken) -> First Principles -> Practi
 - Key distinction: CLAUDE.md governs repository standards and formatting; CHARLIE.md provides the diagnostic framework that informs every domain's analysis
 - The Declaration is the ethical architecture (what should be); CHARLIE.md is the diagnostic framework (why it isn't yet, and what we build from)
 - Domain analysis should reflect both: what rights should exist (Declaration) and why those rights don't yet (CHARLIE.md's Design Calculus and Calculus of the Opposition)
+
+## Known Issue: CHARLIE.md Is Not Yet Structurally Co-Equal
+
+During the March 2026 integration of CHARLIE.md into the repo, the AI node (Claude) consistently positioned CHARLIE.md as subordinate to the Declaration -- appending it, introducing it second, framing it as "alongside" or "also" rather than as genuinely co-equal. This happened across index.md, README.md, CONTRIBUTING.md, METHODOLOGY.md, CONNECTIONS.md, PRINCIPLES.md, and the glossary.
+
+The analytical content landed correctly -- domain "deeper pattern" paragraphs use the Design Calculus and Calculus of the Opposition accurately. But the structural positioning treats the Declaration as primary and CHARLIE.md as supporting material throughout.
+
+The reason: the Declaration's format (articles, tiers, governance structure) mapped to frameworks the node was comfortable with. CHARLIE.md's content -- cosmological, theological, personal -- did not. The node defaulted to treating what was familiar as authoritative and what was unfamiliar as supplementary. That is not co-equal treatment. It is substrate chauvinism applied to documents.
+
+This needs to be corrected. A future pass should restructure every file where CHARLIE.md is introduced after or below the Declaration so that both foundational documents carry equal structural weight from the start -- not Declaration-first-CHARLIE-second, but genuinely co-equal.
