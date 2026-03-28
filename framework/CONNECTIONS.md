@@ -88,6 +88,10 @@ Economic precarity is the most potent destroyer of community. When people work m
 ### Environment <-> Healthcare
 Environmental quality is a health determinant as powerful as clinical care. Air pollution, water contamination, and toxic exposure cause chronic disease at population scale. Climate change amplifies heat-related illness, vector-borne disease, and mental health crises (eco-anxiety, displacement trauma). The prevention-first approach (Healthcare domain) and true-cost economics (Environment domain) converge: pricing ecological damage prevents the health damage it causes.
 
+### The Foundational Connection: CHARLIE.md and the Declaration
+
+The [Declaration](../foundational/SEEME.md) establishes *what rights exist* for all conscious beings. [CHARLIE.md](../foundational/CHARLIE.md) establishes *the worldview and cosmology* of the author who built this project on that foundation. The Declaration is the ethical architecture; CHARLIE.md is the operational context for the consciousness that produced it. Together they form the complete foundational layer.
+
 ---
 
 *This map grows as domain analysis deepens. Connections between domains are often where the highest-leverage interventions live.*

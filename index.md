@@ -60,6 +60,7 @@ This project breaks civilization into **nine domains**. Each domain gets the sam
 - [Methodology](framework/METHODOLOGY.md) -- How analysis is approached in this project
 - [Connections Map](framework/CONNECTIONS.md) -- How domains influence each other
 - [Declaration Summary](foundational/SEEME.md) -- The rights framework this project builds on
+- [CHARLIE -- Operational Briefing](foundational/CHARLIE.md) -- Author's frameworks and AI engagement parameters
 - [Glossary](meta/glossary.md) -- Shared terminology
 - [Reading List](meta/reading-list.md) -- Sources and influences
 - [Inspirations](meta/inspirations.md) -- Real-world examples worth studying
