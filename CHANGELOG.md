@@ -4,6 +4,22 @@
 
 ---
 
+## 2026-03-28
+
+- Converted CHARLIE.md.docx (author's operational briefing for AI nodes) to Jekyll-compatible markdown at `foundational/CHARLIE.md`
+- Document includes: cosmological frameworks, modular calculi, relay protocol, 30 engagement parameters, and living context
+- Added CHARLIE to sidebar navigation under Foundational section
+- Added CHARLIE.md cross-references to homepage (index.md) and framework/CONNECTIONS.md
+- Updated CLAUDE.md reading order to include foundational/CHARLIE.md and added Author Context section distinguishing repo work from interpersonal interaction
+- Fixed GitHub Pages 404 by adding root index.md with homepage content (README.md excluded from Jekyll build)
+- Homepage navigation improvements: breadcrumb label, back button visibility, nav label fix on initial load
+- Added commit and push best practices section to CLAUDE.md with logical-section guidance and pitfall documentation
+
+## 2026-03-27
+
+- Created CLAUDE.md -- consolidated AI assistant context file with philosophical requirements, content standards, formatting rules, technical details, and common pitfalls
+- Excluded CLAUDE.md from Jekyll build in _config.yml
+
 ## 2026-03-17
 
 - Complete site navigation overhaul: sidebar tree, breadcrumbs, back button, retrofuture styling

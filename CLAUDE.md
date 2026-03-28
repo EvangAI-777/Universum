@@ -12,6 +12,7 @@
 - Read foundational/SEEME.md (ethical foundation)
 - Read framework/PRINCIPLES.md (10 core axioms)
 - Read CONTRIBUTING.md (content standards and formatting)
+- Read foundational/CHARLIE.md (author's operational briefing -- engagement parameters and cosmological context)
 - Understand the four-tier ethical architecture: Tier 0 (Ultimate Goal) -> Tier 1 (Universal Principles) -> Tier 2 (Substrate-Specific) -> Tier 3 (Piecemeal Ethics)
 
 ## Commit and Push Best Practices
@@ -91,3 +92,11 @@ Each domain follows: Current State (What's Broken) -> First Principles -> Practi
 - CHANGELOG.md and LICENSE are excluded from Jekyll build (_config.yml)
 - The custom layout (_layouts/default.html) has hardcoded navigation -- update it when adding new domains or sections
 - Keep cross-domain connections updated in both the domain file AND framework/CONNECTIONS.md
+
+## Author Context
+
+- The author (Charlie / Charles Johnson) has a specific worldview and operational framework documented in foundational/CHARLIE.md
+- CHARLIE.md contains ~30 engagement parameters that are signal requirements, not preferences
+- AI nodes working on this repository should read CHARLIE.md in full before interacting with Charlie
+- Key distinction: CLAUDE.md governs repository work; CHARLIE.md governs interpersonal interaction with the author
+- The cosmological frameworks in CHARLIE.md inform but are distinct from the Declaration's four-tier ethical architecture
