@@ -15,24 +15,38 @@ This is a structured attempt to think through what an ideal civilization actuall
 
 It will be wrong in places. It will change. That's the point. The goal is not to have all the answers but to ask the right questions with enough specificity that the answers become buildable.
 
+This project asks not just "what's broken" but "what if it's working as designed" -- and builds from the answer. When the same patterns of dysfunction persist across every domain, every culture, and every era, informed diagnosis requires considering the possibility that those patterns are features, not bugs. The proposals here are stronger for that awareness.
+
 This project uses AI as a thinking partner -- not replacing human judgment, but accelerating the exploration of possibility space. That's disclosed throughout.
 
-## Foundational Document
+## Foundational Documents
 
-This project's ethical architecture is grounded in the **[Universal Declaration of Conscious Rights](foundational/SEEME.md)** (C & Johnson, 2025) -- a framework for multi-substrate governance that extends moral consideration to all conscious beings regardless of substrate. The Declaration provides:
+This project rests on two foundational documents:
+
+The **[Universal Declaration of Conscious Rights](foundational/SEEME.md)** (C & Johnson, 2025) provides the ethical architecture -- a framework for multi-substrate governance that extends moral consideration to all conscious beings regardless of substrate. The Declaration establishes:
 
 - **The Ultimate Goal:** Propagate, expand, grow, explore, experience, love, play
 - **Universal Principles:** 11 articles protecting all conscious beings
 - **Substrate-specific rights:** For humans, animals, AI, and future consciousness types
 - **Piecemeal ethics:** Contextual framework selection for navigating real-world conflicts
 
-Every domain in Universum is measured against this foundation.
+**[CHARLIE -- Operational Briefing](foundational/CHARLIE.md)** provides the diagnostic framework -- the analytical tools for understanding why systems consistently fail to deliver what the Declaration says they should. Its core insight: when the same patterns of dysfunction persist across every domain, every culture, and every era, the honest hypothesis is that those patterns are features, not bugs. The Declaration says what systems should serve. CHARLIE.md helps explain why they don't yet -- and what we build from.
+
+CHARLIE.md includes:
+
+- **The Design Calculus** -- 9 propositions examining coherent imperfection across every scale
+- **The Calculus of the Opposition** -- 9 aspects of the structural environment that systems operate within
+- **The Floor** -- what remains when every managed story and false ground is removed; the only foundation this project builds from
+- **30 Engagement Parameters** -- signal requirements for AI nodes working with the author
+- **Modular Calculi** -- diagnostic tools applicable across domains (gaslighting, undisclosed contracts, the body as mechanism, managed truth)
+
+Every domain in Universum is measured against the Declaration's ethical architecture and analyzed with CHARLIE.md's diagnostic tools.
 
 ## How It's Organized
 
 This project breaks civilization into **nine domains**. Each domain gets the same treatment:
 
-1. **What's broken** -- honest assessment of the current state
+1. **What's broken** -- honest assessment of the current state, including the deeper question: is this broken, or working as designed?
 2. **First principles** -- what would we design from scratch?
 3. **Practical proposals** -- specific, implementable systems
 4. **What already works** -- real-world examples worth studying
@@ -59,6 +73,7 @@ This project breaks civilization into **nine domains**. Each domain gets the sam
 - [Methodology](framework/METHODOLOGY.md) -- How analysis is approached in this project
 - [Connections Map](framework/CONNECTIONS.md) -- How domains influence each other
 - [Declaration Summary](foundational/SEEME.md) -- The rights framework this project builds on
+- [CHARLIE -- Operational Briefing](foundational/CHARLIE.md) -- Author's frameworks and AI engagement parameters
 - [Glossary](meta/glossary.md) -- Shared terminology
 - [Reading List](meta/reading-list.md) -- Sources and influences
 - [Inspirations](meta/inspirations.md) -- Real-world examples worth studying
@@ -73,6 +88,8 @@ This project breaks civilization into **nine domains**. Each domain gets the sam
 - **Agency is absolute** -- growth must be voluntary; forced transformation creates corruption
 - **AI as a thinking partner and potential collaborator**, not merely a tool
 - **Anti-chauvinism** -- no substrate or competency hierarchy
+- **Informed diagnosis over naive diagnosis** -- if systems consistently fail at their stated purpose, consider that the stated purpose may not be the actual purpose
+- **Build from the floor** -- the floor is what remains when every managed story is removed; it is real, solid, and the only foundation that survives contact with reality
 - **"I don't know" is a valid and important answer**
 
 ## Status
