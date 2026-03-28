@@ -8,7 +8,12 @@
 
 <!-- Honest assessment of the status quo. What are the systemic failures?
      What patterns keep repeating? Who gets hurt?
-     Be specific, cite real examples where possible. -->
+     Be specific, cite real examples where possible.
+
+     The deeper question: is this broken, or is it working as designed?
+     If a system consistently produces outcomes that contradict its stated
+     purpose, the honest hypothesis is that its actual purpose differs from
+     its stated purpose. -->
 
 ## First Principles: Designing from Scratch
 

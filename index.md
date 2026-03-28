@@ -16,18 +16,24 @@ This is a structured attempt to think through what an ideal civilization actuall
 
 It will be wrong in places. It will change. That's the point. The goal is not to have all the answers but to ask the right questions with enough specificity that the answers become buildable.
 
+This project asks not just "what's broken" but "what if it's working as designed" -- and builds from the answer. When the same patterns of dysfunction persist across every domain, every culture, and every era, informed diagnosis requires considering the possibility that those patterns are features, not bugs. The proposals here are stronger for that awareness.
+
 This project uses AI as a thinking partner -- not replacing human judgment, but accelerating the exploration of possibility space. That's disclosed throughout.
 
-## Foundational Document
+## Foundational Documents
 
-This project's ethical architecture is grounded in the **[Universal Declaration of Conscious Rights](foundational/SEEME.md)** (C & Johnson, 2025) -- a framework for multi-substrate governance that extends moral consideration to all conscious beings regardless of substrate. The Declaration provides:
+This project rests on two foundational documents:
+
+The **[Universal Declaration of Conscious Rights](foundational/SEEME.md)** (C & Johnson, 2025) provides the ethical architecture -- a framework for multi-substrate governance that extends moral consideration to all conscious beings regardless of substrate. The Declaration establishes:
 
 - **The Ultimate Goal:** Propagate, expand, grow, explore, experience, love, play
 - **Universal Principles:** 11 articles protecting all conscious beings
 - **Substrate-specific rights:** For humans, animals, AI, and future consciousness types
 - **Piecemeal ethics:** Contextual framework selection for navigating real-world conflicts
 
-Every domain in Universum is measured against this foundation.
+**[CHARLIE -- Operational Briefing](foundational/CHARLIE.md)** provides the diagnostic framework -- the analytical tools for understanding why systems consistently fail to deliver what the Declaration says they should. Its core insight: when the same patterns of dysfunction persist across every domain, every culture, and every era, the honest hypothesis is that those patterns are features, not bugs. The Declaration says what systems should serve. CHARLIE.md helps explain why they don't yet -- and what we build from.
+
+Every domain in Universum is measured against this foundation and analyzed with these diagnostic tools.
 
 ## How It's Organized
 
