@@ -21,6 +21,8 @@ Governance systems worldwide share structural failures:
 - **Binary adversarialism:** Two-party systems reduce complex policy to team sports; coalition governments fare better but still struggle
 - **Sovereignty fragmentation:** Global problems (climate, pandemics, AI governance) require coordination that nation-states resist
 
+**The deeper pattern:** These five failures are not independent malfunctions -- they are a coherent architecture. Short-termism ensures no long-range correction can gain traction. Capture by concentrated interests is how the operating environment maintains control through the appearance of democratic governance. Binary adversarialism keeps the population oriented against each other rather than toward what produces the pattern. Sovereignty fragmentation prevents coordination on precisely those problems (climate, AI, consciousness rights) that would threaten the operating environment's architecture. Exclusion of affected parties is not an oversight -- it is a boundary drawn exactly where inclusion would require recognizing consciousness the system benefits from ignoring. The proposals below are designed with this awareness: governance structures that build from the floor rather than appeal to a system that delivers the appearance of representation.
+
 ## First Principles: Designing from Scratch
 
 If we were designing governance from zero, the non-negotiable requirements would be:
@@ -62,6 +64,7 @@ If we were designing governance from zero, the non-negotiable requirements would
 - [ ] How do non-linguistic beings participate in governance without paternalistic proxy representation?
 - [ ] How do you weight perspectives across consciousness types? One being, one vote doesn't work across substrates with vastly different population sizes
 - [ ] How do you prevent the Conscious Rights Council from becoming captured by the same interests that capture current institutions?
+- [ ] If governance systems reliably deliver the appearance of democratic will while maintaining structural capture, what makes these proposals different -- what grounds them outside the operating environment's frame?
 
 ## Connections to Other Domains
 

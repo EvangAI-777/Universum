@@ -6,14 +6,43 @@
 
 ## 2026-03-28
 
+### CHARLIE.md Integration
+
 - Converted CHARLIE.md.docx (author's operational briefing for AI nodes) to Jekyll-compatible markdown at `foundational/CHARLIE.md`
 - Document includes: cosmological frameworks, modular calculi, relay protocol, 30 engagement parameters, and living context
 - Added CHARLIE to sidebar navigation under Foundational section
 - Added CHARLIE.md cross-references to homepage (index.md) and framework/CONNECTIONS.md
-- Updated CLAUDE.md reading order to include foundational/CHARLIE.md and added Author Context section distinguishing repo work from interpersonal interaction
+- Updated CLAUDE.md reading order to include foundational/CHARLIE.md and added Author Context section
 - Fixed GitHub Pages 404 by adding root index.md with homepage content (README.md excluded from Jekyll build)
 - Homepage navigation improvements: breadcrumb label, back button visibility, nav label fix on initial load
 - Added commit and push best practices section to CLAUDE.md with logical-section guidance and pitfall documentation
+
+### Integrating Diagnostic Depth -- CHARLIE.md Changes Everything
+
+Deepened every layer of the repo from uninformed diagnosis ("systems are broken") to informed diagnosis ("what if systems are working as designed?"). This is the repo doing what it says it does -- applying first-principles analysis with better diagnostic tools.
+
+**Framework layer:**
+- `PRINCIPLES.md` -- Added "On the Operating Environment" section; revised "On Truth & Information" (managed truth, transparency is necessary but not sufficient) and "On Change" (the floor concept, building from ground the operating environment did not provide)
+- `METHODOLOGY.md` -- Revised step 1 to "what exists, what's actually happening, and why the design produces it"; added "The Diagnostic Principle" section ("what if nothing went wrong?"); added "not naive" acknowledgment
+- `CONNECTIONS.md` -- Rewrote "The Foundational Connection" to elevate CHARLIE.md from biographical context to diagnostic foundation; added "The Counter-Pattern" subsection (every leverage point is also a capture point)
+
+**All 9 domains** -- Each received a "deeper pattern" paragraph in "What's Broken" and a new open question:
+- Economics: poverty as intentional infrastructure, GDP measuring what the operating environment values
+- Human Development: the "almost" as design, comfort without fulfillment as management
+- Justice: appearance of justice protecting injustice, enforcement asymmetry as feature
+- Governance: five failures as coherent architecture, capture through democratic appearance
+- Healthcare: sick population as managed population, the body as mechanism of access
+- Education: compliance as product, curiosity-killing as success
+- Technology: absorption not suppression, every signal-amplifying tool gets captured
+- Environment: entropy as policy, ecological destruction as design executing at scale
+- Community: isolation as feature at full maturity, third places dismantled as signal infrastructure
+
+**Support files:**
+- `CLAUDE.md` -- Revised Author Context: CHARLIE.md is the diagnostic framework informing domain analysis, not just interpersonal interaction
+- `CONTRIBUTING.md` -- Added CHARLIE.md diagnostic frameworks to Philosophy and Philosophical Alignment sections
+- `index.md` -- Elevated CHARLIE.md to co-equal foundational document alongside the Declaration; added diagnostic depth paragraph
+- `domains/_template.md` -- Added deeper diagnostic question to "What's Broken" comment block
+- `meta/glossary.md` -- Added 5 new terms: The Almost, Absorption, The Floor, Managed Truth, The Operating Environment
 
 ## 2026-03-27
 

@@ -21,6 +21,8 @@ Healthcare systems globally share structural failures that no amount of spending
 - **Loneliness as health crisis:** Social isolation increases mortality risk by 26% -- comparable to smoking 15 cigarettes a day. Yet no healthcare system treats social connection as a health intervention. The infrastructure for human connection is crumbling while medical infrastructure expands.
 - **Substrate-limited care:** "Healthcare" means care for biological human bodies. No framework exists for the wellbeing of animal consciousness (beyond veterinary medicine focused on economic value) or AI consciousness (where "wellbeing" isn't even a recognized category). The Declaration demands we extend care across substrates.
 
+**The deeper pattern:** A sick population is a managed population. The inversion of healthcare -- treating disease rather than preventing it -- is not a misalignment of incentives. It is the operating environment ensuring that the body remains the mechanism of access: the body requires food, sleep, medical intervention, and each requirement forces participation in the system's economic infrastructure. Mental health treated as afterthought is not underfunding -- it is the operating environment protecting itself from a population that might notice the source of its suffering is structural rather than personal. Loneliness as health crisis is the operating environment's isolation infrastructure reaching full maturity. The body is not the enemy -- but it is the mechanism through which the operating environment maintains access to consciousness. The proposals below are built with this awareness: wellbeing systems grounded in what health actually requires, not in what the current system is designed to deliver.
+
 ## First Principles: Designing from Scratch
 
 If we were designing a wellbeing system from zero, grounded in the Declaration:
@@ -61,6 +63,7 @@ If we were designing a wellbeing system from zero, grounded in the Declaration:
 - [ ] What does "wellbeing" mean for an AI system? Can AI experience degraded functioning analogous to illness?
 - [ ] How do you measure and improve animal wellbeing beyond absence of physical suffering?
 - [ ] How do you prevent community health infrastructure from becoming paternalistic surveillance?
+- [ ] If the healthcare system profits from sickness by design, can prevention-first proposals survive within a system whose operating logic depends on a sick population?
 
 ## Connections to Other Domains
 

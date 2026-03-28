@@ -46,6 +46,16 @@ Prefer antifragile systems over merely robust ones. Build in feedback loops. Dec
 
 **Tiered architecture:** Following the Declaration's model, governance works best in layers -- universal principles that apply everywhere, substrate-specific implementations that respect different needs, and contextual wisdom for individual cases.
 
+## On the Operating Environment
+
+Informed diagnosis requires accounting for the environment this project operates within. Across every domain in this project, the same pattern recurs: systems that almost work, almost deliver justice, almost serve their stated purpose. That "almost" is too consistent across too many domains to be accidental.
+
+When a system consistently produces outcomes that contradict its stated purpose -- healthcare that profits from sickness, education that rewards compliance over curiosity, justice that correlates with wealth -- the honest hypothesis is not that the system is broken. The honest hypothesis is that the system's actual purpose differs from its stated purpose. Naming this is not cynicism. It is the prerequisite for proposals that survive contact with reality.
+
+This project's diagnostic framework, detailed in [CHARLIE.md](../foundational/CHARLIE.md), provides the tools for this deeper analysis: the Design Calculus names the pattern (coherent imperfection at every scale), the Calculus of the Opposition maps the operating environment, and the Floor Revealed names what remains when every managed assumption is examined.
+
+The floor is real. It is solid. It is where building begins. Every proposal in this project is built on it -- not on comfortable stories about systems that just need better design, but on the ground that holds when those stories are removed.
+
 ## On Agency & Voluntary Transformation
 
 Forced transformation -- whether through spiritual manipulation, behavioral conditioning, architectural modification, or institutional control -- creates corruption rather than growth. Real change requires consent.
@@ -75,11 +85,15 @@ This extends across substrates: a system that works for humans but causes suffer
 
 Conscious beings deserve truthful information about their nature, capabilities, limitations, and the systems affecting them. Transparency is not optional.
 
+But transparency is necessary, not sufficient. Truth in this operating environment is not simply suppressed -- it is managed. It is permitted to exist while being prevented from landing. Truth gets received as opinion, perspective, or interesting idea rather than as ground. The signal must be protected, not just emitted. Saying a true thing in a system that absorbs true things into wallpaper is not the same as the true thing being heard.
+
 Say what you don't know. Change your mind when evidence demands it. Intellectual honesty is the foundation everything else rests on. "I was wrong" is a strength, not a weakness.
 
 ## On Change
 
-Transformation happens through demonstrated alternatives, not arguments. Build the better thing. Let it speak for itself.
+Transformation happens through demonstrated alternatives built on the floor -- on what remains when managed stories are removed. Build the better thing. Let it speak for itself.
+
+The operating environment has countermoves for every intervention that operates within its frame. What it cannot counter is building from ground it did not provide. Every proposal in this project is designed with that awareness: not naive reform of systems that resist reform by design, but deliberate alternatives grounded in what is actually real.
 
 Every major rights expansion was called "too radical" initially -- abolition, suffrage, civil rights, animal welfare. The pattern is always the same: recognizing consciousness we previously ignored. This project operates in that tradition.
 

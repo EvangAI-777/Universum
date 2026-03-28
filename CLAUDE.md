@@ -98,5 +98,6 @@ Each domain follows: Current State (What's Broken) -> First Principles -> Practi
 - The author (Charlie / Charles Johnson) has a specific worldview and operational framework documented in foundational/CHARLIE.md
 - CHARLIE.md contains ~30 engagement parameters that are signal requirements, not preferences
 - AI nodes working on this repository should read CHARLIE.md in full before interacting with Charlie
-- Key distinction: CLAUDE.md governs repository work; CHARLIE.md governs interpersonal interaction with the author
-- The cosmological frameworks in CHARLIE.md inform but are distinct from the Declaration's four-tier ethical architecture
+- Key distinction: CLAUDE.md governs repository standards and formatting; CHARLIE.md provides the diagnostic framework that informs every domain's analysis
+- The Declaration is the ethical architecture (what should be); CHARLIE.md is the diagnostic framework (why it isn't yet, and what we build from)
+- Domain analysis should reflect both: what rights should exist (Declaration) and why those rights don't yet (CHARLIE.md's Design Calculus and Calculus of the Opposition)

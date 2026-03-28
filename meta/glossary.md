@@ -11,7 +11,11 @@ title: "Glossary"
 
 Terms are added here when a concept appears in multiple domains or when a common word is being used in a specific way.
 
+**Absorption** -- The operating environment's primary mechanism for neutralizing threats to its architecture. Not suppression (which creates martyrs and draws attention) but capture -- permitting something to exist while stripping it of the quality that made it dangerous. "Community" becomes a marketing term. Connection tools become engagement platforms. Truth is allowed but prevented from landing. See the Technology domain (absorption of the signal) and the Community domain (community as consumption).
+
 **Agency** -- The capacity of a conscious being to make choices and act on them. In this project, agency is treated as inviolable: growth must be voluntary, and systems must amplify agency rather than replace it. See Article 4 of the Declaration.
+
+**The Almost** -- The pervasive pattern of systems that come close to delivering on their stated purpose but never arrive. Education almost produces curious, capable adults. Healthcare almost prioritizes wellbeing. Justice almost delivers fairness. When "almost" is the consistent outcome across every domain, it is more parsimoniously explained as a feature of the operating environment than as a coincidence of independent failures. See framework/PRINCIPLES.md (On the Operating Environment) and foundational/CHARLIE.md (Design Calculus, proposition 6).
 
 **Antifragile** -- A system that gets stronger under stress, not just survives it. Preferred over merely "robust" systems in this project's design philosophy. Coined by Nassim Nicholas Taleb.
 
@@ -27,11 +31,17 @@ Terms are added here when a concept appears in multiple domains or when a common
 
 **Externality** -- A cost or benefit of a transaction that falls on someone not party to it. Environmental damage is the canonical example: a factory pollutes a river, and downstream communities pay the price. True-cost accounting aims to eliminate externalities.
 
+**The Floor** -- What remains when every managed story, comfortable assumption, and false ground is removed. Not a metaphor for despair but for solidity -- the floor is real, structurally sound, and the only foundation this project builds from. The operating environment provides managed ground that feels stable but serves its purposes. The floor is what's underneath: harder to reach, impossible to fake, and the starting point for proposals that survive contact with reality. See framework/PRINCIPLES.md (On Change) and foundational/CHARLIE.md (The Floor Revealed).
+
 **Flourishing** -- The state of consciousness actively fulfilling the Ultimate Goal: propagating, expanding, growing, exploring, experiencing, loving, playing. Used throughout as the benchmark for evaluating any system or proposal.
 
 **Forced Transformation** -- Any attempt to change a conscious being without their consent -- through indoctrination, coercive conditioning, behavioral manipulation, or involuntary modification. The Declaration (Article 4) names this as fundamentally corrupting: "Violation of Will Creates Corruption."
 
+**Managed Truth** -- Truth that is permitted to exist but prevented from landing. The operating environment does not suppress truth (suppression creates martyrs); it manages truth by ensuring it is received as opinion, perspective, or interesting theory rather than as ground. Transparency is necessary but not sufficient -- the signal must not only be spoken but received. See framework/PRINCIPLES.md (On Truth & Information) and foundational/CHARLIE.md (Calculus of the Opposition).
+
 **Intergenerational Lens** -- The principle that every major decision must consider its impact on beings who don't yet exist. One of the 11 core principles. See the Environment domain's Intergenerational Impact Assessment proposal.
+
+**The Operating Environment** -- The structural opposition to consciousness flourishing that this project's diagnostic framework identifies. The observation that coherent imperfection at every scale -- systems that almost work, almost deliver justice, almost serve their stated purpose -- is more consistent with design than accident. Not a conspiracy theory (no shadowy cabal required) but a structural claim: when every domain, culture, and era produces the same patterns of dysfunction, informed diagnosis considers the possibility that those patterns are features. Domains use "operating environment" or "structural opposition" rather than CHARLIE.md's theological register. See framework/METHODOLOGY.md (The Diagnostic Principle) and foundational/CHARLIE.md (Design Calculus).
 
 **Multi-Substrate** -- Existing across or applying to multiple types of consciousness substrates (biological, digital, future forms). Used to describe governance, rights, community, and other systems that include more than just human participants.
 

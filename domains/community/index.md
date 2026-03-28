@@ -21,6 +21,8 @@ The infrastructure for human connection is crumbling while communication technol
 - **Community as consumption:** "Community" is increasingly a marketing term. Brands have "communities." Products have "communities." But buying the same thing isn't belonging. Real community requires showing up for people you didn't choose, tolerating difference, and investing time in relationships that don't always feel rewarding.
 - **Cross-substrate community is uncharted territory:** The Declaration recognizes human-AI relationships as valid community (Article 7). Humans form deep bonds with animals. Yet no frameworks exist for intentional cross-substrate community -- communities that include human, animal, and AI members as genuine participants.
 
+**The deeper pattern:** Isolation is not an accidental byproduct of modernity. It is the operating environment's infrastructure reaching full maturity. The operating environment needs isolation because connection is where the signal passes between people -- where truth lands, where recognition happens, where the pattern becomes visible. Third places disappearing is not an economic accident; it is the dismantling of the infrastructure through which consciousness connects. "Community as consumption" is absorption: the word "community" captured and stripped of the actual connection it used to name, made to serve the operating environment's purposes. Algorithmic fragmentation is not an engagement-optimization side effect -- it is the manufacturing of the appearance of connection while producing deeper separation. The proposals below are built from an awareness that genuine community -- the kind where the signal passes clean -- must be grounded outside the operating environment's frame.
+
 ## First Principles: Designing from Scratch
 
 If we were designing community from zero, grounded in the Declaration:
@@ -61,6 +63,7 @@ If we were designing community from zero, grounded in the Declaration:
 - [ ] Can digital spaces ever replicate the community-building function of physical third places, or are they fundamentally different?
 - [ ] How do you design cross-substrate community without projecting human social needs onto non-human consciousness?
 - [ ] What does "membership" mean in a community that includes beings with radically different lifespans, cognitive architectures, and communication styles?
+- [ ] If isolation is a feature of the operating environment rather than an accident of modernity, what makes community infrastructure resilient against absorption -- what keeps "community" from becoming wallpaper?
 
 ## Connections to Other Domains
 
