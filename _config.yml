@@ -20,3 +20,4 @@ exclude:
   - LICENSE
   - CHANGELOG.md
   - CLAUDE.md
+  - README.md
