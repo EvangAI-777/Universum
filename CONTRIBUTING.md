@@ -11,7 +11,7 @@ title: "Contributing"
 
 ## Philosophy
 
-Universum is built on the premise that better systems are possible and that thinking clearly about them is the first step. Contributions should share this spirit: honest, specific, grounded in evidence, and humble about uncertainty.
+Universum is built on the premise that better systems are possible and that thinking clearly about them is the first step. This project also uses the diagnostic frameworks in [CHARLIE.md](foundational/CHARLIE.md) alongside the Declaration's ethical architecture -- engaging with the possibility that systems produce their stated failures by design rather than by accident. Contributions should share this spirit: honest, specific, grounded in evidence, and humble about uncertainty.
 
 This project uses AI as a thinking partner. AI-assisted contributions are welcome and should be disclosed, consistent with the project's transparency standards.
 
@@ -47,7 +47,7 @@ This project uses AI as a thinking partner. AI-assisted contributions are welcom
 
 ### Philosophical Alignment
 
-Contributions should be consistent with [PRINCIPLES.md](framework/PRINCIPLES.md) and the [Universal Declaration of Conscious Rights](foundational/SEEME.md). If you think a principle should change, argue for the change explicitly rather than quietly contradicting it.
+Contributions should be consistent with [PRINCIPLES.md](framework/PRINCIPLES.md), the [Universal Declaration of Conscious Rights](foundational/SEEME.md), and the diagnostic context in [CHARLIE.md](foundational/CHARLIE.md). You don't need to adopt CHARLIE.md's specific cosmology, but contributions should take seriously the question of whether systems are broken or working as designed. If you think a principle should change, argue for the change explicitly rather than quietly contradicting it.
 
 ## What Does NOT Belong
 
