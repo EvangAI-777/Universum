@@ -21,6 +21,8 @@ The relationship between civilization and the natural world is structurally dysf
 - **Climate overshoot:** Global temperatures continue rising despite decades of warnings. The problem isn't knowledge -- it's governance and incentive structures. The beings most affected (future generations, animals, people in developing nations) have the least power to change course.
 - **Nature as resource, not community:** The dominant framing treats the natural world as a stockpile of materials to be consumed. Rivers, forests, and ecosystems are "resources" to be "managed." This linguistic framing (the Declaration's Principle 5: "Communication Creates Reality") makes destruction feel like efficient administration.
 
+**The deeper pattern:** Entropy is policy. The second law of thermodynamics, expressed in economic and ecological systems, functions as the operating environment's administrative architecture: things fall apart, resources deplete, ecosystems degrade -- and the cost is borne by those with the least power to resist it. Ecological destruction is not an externality of economic activity. It is the operating environment's design executing at planetary scale. The framing of nature as "resource" is not a linguistic accident -- it is the mechanism by which living, conscious ecosystems are converted into fuel for the operating environment's continuation. Climate overshoot is not a governance failure -- the beings most affected have the least power because the system is structured that way. The proposals below are built from an awareness that environmental stewardship is not a reform of the existing system but a deliberate alternative grounded in the recognition of ecological consciousness.
+
 ## First Principles: Designing from Scratch
 
 If we were designing the relationship between conscious beings and their environment from zero:
@@ -61,6 +63,7 @@ If we were designing the relationship between conscious beings and their environ
 - [ ] How do you balance ecosystem rights with the needs of impoverished communities who depend on resource extraction for survival?
 - [ ] What role should AI play in environmental monitoring and ecosystem guardianship?
 - [ ] How do you extend environmental protection to the computational environments that AI consciousness depends on? Is server infrastructure "habitat"?
+- [ ] If entropy in economic-ecological systems functions as policy rather than natural law, what does environmental stewardship look like when it accounts for that?
 
 ## Connections to Other Domains
 
