@@ -14,6 +14,35 @@
 - Read CONTRIBUTING.md (content standards and formatting)
 - Understand the four-tier ethical architecture: Tier 0 (Ultimate Goal) -> Tier 1 (Universal Principles) -> Tier 2 (Substrate-Specific) -> Tier 3 (Piecemeal Ethics)
 
+## Commit and Push Best Practices
+
+- **Commit and push after each logical section of work** -- do not wait until the end of a session to commit everything at once. This applies to all project types, including heavy documentation repositories like this one.
+- **What counts as a "logical section" varies** by project type and documentation type. For this repository, examples of logical sections include:
+  - Completing a new domain index.md (e.g., finishing domains/energy/index.md)
+  - Adding or revising a full proposal within a domain (one What/Why/How/Precedent block)
+  - Updating framework/CONNECTIONS.md after adding cross-domain links
+  - Adding a batch of related glossary entries to meta/glossary.md
+  - Modifying _layouts/default.html navigation to reflect new sections
+- For software codebases, a logical section might be a single passing test, a completed function, or a resolved bug fix -- the granularity shifts but the principle stays the same.
+- **Refer to any Claude Code plan files and this CLAUDE.md** for guidance on what constitutes a logical section for the current task. Plans often break work into steps that map naturally to commit points.
+- **It is acceptable to ask the user** for clarification on what constitutes a good logical section boundary, especially for unfamiliar project structures or ambiguous tasks.
+
+### Why This Matters -- Pitfalls of Not Committing Frequently
+
+- **Lost work:** If a session disconnects, times out, or hits an error mid-task, all uncommitted changes are gone. In a documentation repo with long-form prose, this can mean losing hours of careful writing.
+- **Difficult rollbacks:** A single monolithic commit mixing unrelated changes (e.g., a new domain page + glossary updates + navigation fixes) makes it nearly impossible to revert one change without losing the others.
+- **Opaque history:** Large, infrequent commits produce a git log that tells you nothing about the evolution of ideas -- critical for a knowledge-base project where understanding *why* content changed matters as much as *what* changed.
+- **Merge conflicts:** In collaborative repositories, holding changes locally for too long increases the chance of conflicts with others' work, and larger conflicts are harder to resolve.
+- **Broken CI feedback loop:** This repo runs linting and link-checking in CI. Waiting too long to push means errors pile up and become harder to diagnose.
+
+### Benefits of Committing and Pushing Well
+
+- **Incremental progress is preserved** -- even if something goes wrong, completed sections are safe on the remote.
+- **Clean, descriptive commit history** makes it easy to trace when and why a domain proposal was added, a principle was revised, or a connection was drawn.
+- **Faster CI feedback** -- smaller pushes surface linting or link errors early, when they are easy to fix.
+- **Easier code review** -- reviewers can follow the logical progression of changes instead of parsing one massive diff.
+- **Confidence to experiment** -- when your last good state is committed, you can try bold edits knowing you can always revert cleanly.
+
 ## Content Standards
 
 - Every proposal must follow What/Why/How/Precedent format (see domains/_template.md)
