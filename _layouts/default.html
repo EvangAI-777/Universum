@@ -530,8 +530,11 @@
     <!-- Main content -->
     <main class="main" id="main-content">
 
-      {% assign is_home = page.url | replace: '/index.html', '/' %}
-      {% if is_home == '/' %}
+      {% assign is_home = false %}
+      {% if page.url == '/' or page.url == '/index.html' or page.permalink == '/' %}
+        {% assign is_home = true %}
+      {% endif %}
+      {% if is_home %}
       <!-- Homepage label -->
       <nav class="breadcrumb" aria-label="You are here">
         <span class="current">Home</span>
