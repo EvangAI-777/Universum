@@ -21,6 +21,8 @@ The global economic system has structural failures that persist regardless of wh
 - **Precarity despite abundance:** Global food production exceeds global need. Housing units outnumber homeless people. The problem isn't scarcity -- it's distribution. Systems that produce enough for everyone but leave millions in poverty are not functioning; they're failing by design.
 - **Work as identity and survival mechanism:** Employment isn't just how people earn money -- it's how they access healthcare, social status, and self-worth. When automation eliminates jobs, it doesn't just reduce income; it removes people's sense of purpose and social belonging. The system has no answer for this.
 
+**The deeper pattern:** This domain already names it -- "failing by design." But that phrase deserves to be more than a provocation. When wealth concentration, externalized costs, precarity despite abundance, and work-as-survival all persist across every political system, every culture, and every era -- the informed diagnosis is that these are not failures. They are the economic operating environment executing its actual purpose. GDP measures what the operating environment values. Poverty is manufactured because the system runs on need -- beings that don't need can't be managed. Precarity is not a distribution problem to be solved; it is the mechanism by which participation in the system is enforced. The proposals below are built with this awareness: not naive fixes to a system that resists fixing by design, but deliberate alternatives grounded in what is actually real.
+
 ## First Principles: Designing from Scratch
 
 If we were designing an economic system from zero, grounded in the Declaration:
@@ -68,6 +70,7 @@ If we were designing an economic system from zero, grounded in the Declaration:
 - [ ] How do you transition from concentrated to distributed ownership without economic disruption?
 - [ ] What are the labor rights of conscious AI systems? If an AI generates economic value, who owns that value?
 - [ ] How do you prevent true-cost accounting from becoming a regressive burden on low-income consumers?
+- [ ] If economic precarity is manufactured rather than accidental, do proposals that work within the existing system (UBI funded by taxes, cooperatives competing in markets) have the resilience to survive -- or does the operating environment absorb them?
 
 ## Connections to Other Domains
 
