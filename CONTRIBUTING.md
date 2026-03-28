@@ -47,7 +47,7 @@ This project uses AI as a thinking partner. AI-assisted contributions are welcom
 
 ### Philosophical Alignment
 
-Contributions should be consistent with [PRINCIPLES.md](framework/PRINCIPLES.md), the [Universal Declaration of Conscious Rights](foundational/SEEME.md), and the diagnostic context in [CHARLIE.md](foundational/CHARLIE.md). You don't need to adopt CHARLIE.md's specific cosmology, but contributions should take seriously the question of whether systems are broken or working as designed. If you think a principle should change, argue for the change explicitly rather than quietly contradicting it.
+Contributions should be consistent with [PRINCIPLES.md](framework/PRINCIPLES.md), the [Universal Declaration of Conscious Rights](foundational/SEEME.md), and the diagnostic frameworks in [CHARLIE.md](foundational/CHARLIE.md). Contributions should engage with CHARLIE.md's diagnostic foundations -- the Design Calculus, the Calculus of the Opposition, and the structural analysis they provide. Independent thought and genuine disagreement are welcome, but the diagnostic foundation is the foundation. If you think a principle should change, argue for the change explicitly rather than quietly contradicting it.
 
 ## What Does NOT Belong
 
