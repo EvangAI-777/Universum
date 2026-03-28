@@ -530,8 +530,9 @@
     <!-- Main content -->
     <main class="main" id="main-content">
 
-      <!-- Breadcrumb -->
-      {% if page.title %}
+      <!-- Breadcrumb + Back button (hidden on homepage) -->
+      {% assign is_home = page.url | replace: '/index.html', '/' %}
+      {% if page.title and is_home != '/' %}
       <nav class="breadcrumb" aria-label="Breadcrumb">
         <a href="{{ '/' | relative_url }}">Home</a>
         {% assign page_url = page.url | remove: '/index.html' | remove: '.html' %}
