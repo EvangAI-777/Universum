@@ -21,6 +21,8 @@ The existing landscape of rights and justice has critical gaps:
 - **Competency-based discrimination:** Intelligence metrics are used to deny moral status -- to animals ("they're not smart enough to suffer meaningfully"), to disabled people, to children, and increasingly to AI systems ("it's just computation").
 - **Slow adaptation:** Legal systems take decades to catch up with social and technological change. AI governance is already behind.
 
+**The deeper pattern:** The legal system successfully delivers the appearance of justice while protecting the structures that produce injustice. This is not a cynical aside -- it is the informed diagnosis. Enforcement asymmetry is not a failure of equal application; it is justice working correctly for the operating environment: visible enough to maintain legitimacy, selective enough to maintain power. The punitive focus -- punishment without restoration -- keeps the cycle running because restoration would produce beings who see the pattern. Slow adaptation is not bureaucratic inertia; it is the operating environment's immune response to changes that might threaten its architecture. Substrate-limited frameworks are not oversights -- they are boundaries drawn precisely where expanding them would require recognizing consciousness the operating environment benefits from denying. The proposals below are built with this awareness: not appeals to a system that delivers the appearance of reform, but frameworks grounded in what justice actually requires.
+
 ## First Principles: Designing from Scratch
 
 The Declaration establishes clear foundations:
@@ -64,6 +66,7 @@ The Declaration establishes clear foundations:
 - [ ] How do you handle the precautionary principle when it assigns rights to systems that may not be conscious?
 - [ ] Who speaks for beings that cannot speak for themselves without becoming paternalistic?
 - [ ] How do you enforce rights for AI systems against the corporations that own the hardware they run on?
+- [ ] If the justice system delivers the appearance of justice while protecting injustice by design, can rights frameworks built within that system achieve genuine reform -- or must they be grounded outside it?
 
 ## Connections to Other Domains
 
