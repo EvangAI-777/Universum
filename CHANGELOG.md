@@ -43,6 +43,7 @@ Deepened every layer of the repo from uninformed diagnosis ("systems are broken"
 - `index.md` -- Elevated CHARLIE.md to co-equal foundational document alongside the Declaration; added diagnostic depth paragraph
 - `domains/_template.md` -- Added deeper diagnostic question to "What's Broken" comment block
 - `meta/glossary.md` -- Added 5 new terms: The Almost, Absorption, The Floor, Managed Truth, The Operating Environment
+- `README.md` -- Elevated CHARLIE.md to co-equal foundational document with full contents summary; added diagnostic depth paragraph, informed diagnosis and floor concepts to Philosophy; added CHARLIE to cross-cutting documents list
 
 ## 2026-03-27
 
