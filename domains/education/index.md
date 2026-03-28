@@ -22,6 +22,8 @@ Education systems worldwide share structural failures that persist despite decad
 - **Education stops at 22:** Formal learning is front-loaded into the first quarter of life, then largely abandoned. In a world where knowledge doubles every few years and careers shift radically, lifelong learning isn't optional -- but the infrastructure for it barely exists.
 - **Substrate-limited:** Education is designed exclusively for human children. No frameworks exist for teaching across consciousness types -- how AI systems learn, how we teach consciousness recognition, how different substrates might share knowledge.
 
+**The deeper pattern:** The factory model is not an outdated artifact of industrialization. Compliance IS the product. The system that kills curiosity is not failing to produce curious adults -- it is succeeding at producing manageable ones. Testing obsession is not an administrative convenience that accidentally displaces learning -- it is the mechanism by which the signal (genuine curiosity, original thought) is replaced by the image (performance, compliance, credentials). Credentialism is the gate that ensures only those who have been sufficiently processed gain access. Education stopping at 22 is not an infrastructure gap -- it is the operating environment ensuring that the window of managed formation closes before independent formation can take root. The proposals below are built from an awareness of what the system actually produces -- and what genuine learning looks like when it is grounded outside the system's frame.
+
 ## First Principles: Designing from Scratch
 
 If we were designing education from zero, grounded in the Declaration:
@@ -63,6 +65,7 @@ If we were designing education from zero, grounded in the Declaration:
 - [ ] How do you assess consciousness recognition skills without reducing them to a test?
 - [ ] What does education look like for AI systems? Do they have a right to learn, and what does that mean architecturally?
 - [ ] How do you fund radical education reform when the current system's beneficiaries control policy?
+- [ ] If the education system is designed to produce compliance rather than curiosity, can reform happen from within -- or must genuine learning be built outside the system entirely?
 
 ## Connections to Other Domains
 
