@@ -90,8 +90,21 @@ Environmental quality is a health determinant as powerful as clinical care. Air 
 
 ### The Foundational Connection: CHARLIE.md and the Declaration
 
-The [Declaration](../foundational/SEEME.md) establishes *what rights exist* for all conscious beings. [CHARLIE.md](../foundational/CHARLIE.md) establishes *the worldview and cosmology* of the author who built this project on that foundation. The Declaration is the ethical architecture; CHARLIE.md is the operational context for the consciousness that produced it. Together they form the complete foundational layer.
+The [Declaration](../foundational/SEEME.md) establishes *what systems should serve* -- what rights exist for all conscious beings and what flourishing looks like. [CHARLIE.md](../foundational/CHARLIE.md) provides *the diagnostic framework for understanding why those systems consistently fall short* -- the Design Calculus names the pattern (coherent imperfection at every scale), the Calculus of the Opposition maps the operating environment, and the Floor Revealed names what remains when managed assumptions are examined. Together, the Declaration is the ethical architecture (what should be) and CHARLIE.md is the diagnostic framework (why it isn't yet, and what we build from).
+
+This pairing explains the pattern visible across every connection in this map: systems that almost work, governance that almost represents, justice that almost arrives, economics that almost distributes. The "almost" is not a failure of implementation. It is the operating environment executing its design. Understanding the connections above as both leverage points for reform *and* architecture of managed dysfunction is the prerequisite for interventions that survive contact with reality.
+
+### The Counter-Pattern
+
+Every high-leverage intervention point identified above is also a high-priority capture point for the operating environment. This is not conspiracy -- it is the observable pattern of what happens when reform gains traction:
+
+- **Governance <-> Economics:** Money in politics is not a bug in this interaction -- it is the mechanism by which the operating environment maintains capture through the appearance of democratic governance.
+- **Technology <-> Community:** Algorithmic fragmentation is not an unintended side effect of engagement optimization -- it is isolation infrastructure, manufacturing the appearance of connection while producing deeper separation.
+- **Economics <-> Community:** The erosion of third places correlates with economic precarity not by coincidence but because the operating environment benefits from a population too exhausted to gather, connect, and notice the pattern.
+- **Healthcare <-> Human Development:** Mental health treated as afterthought is not underfunding -- it protects the operating environment from a population that might otherwise notice the source of its suffering is structural rather than personal.
+
+Proposals in every domain should be designed with this awareness: the operating environment will attempt to absorb, co-opt, or quietly dismantle interventions that threaten its architecture. Building from the floor -- from ground the operating environment did not provide -- is what makes interventions resilient.
 
 ---
 
-*This map grows as domain analysis deepens. Connections between domains are often where the highest-leverage interventions live.*
+*This map grows as domain analysis deepens. Connections between domains are often where the highest-leverage interventions live -- and where informed diagnosis matters most.*
