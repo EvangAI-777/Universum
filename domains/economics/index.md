@@ -9,7 +9,9 @@ title: "Economics & Resource Distribution"
 
 ---
 
-**Foundational reference:** [Universal Declaration of Conscious Rights](../../foundational/SEEME.md) -- economic systems must serve the Ultimate Goal across all substrates
+**Foundational references:**
+[CHARLIE.md](../../foundational/CHARLIE.md) -- operating environment as economic policy, manufactured precarity, building from what is actually real
+[Declaration of Conscious Rights](../../foundational/SEEME.md) -- economic systems must serve the Ultimate Goal across all substrates
 
 ## Current State: What's Broken
 

@@ -9,7 +9,9 @@ title: "Environment & Sustainability"
 
 ---
 
-**Foundational reference:** [Universal Declaration of Conscious Rights](../../foundational/SEEME.md) -- Tier 2B (Animal and Non-Human Biological Consciousness Rights) directly addresses habitat rights and ecological stewardship
+**Foundational references:**
+[CHARLIE.md](../../foundational/CHARLIE.md) -- entropy as policy (Calculus of the Opposition), operating environment at planetary scale, linguistic framing as mechanism
+[Declaration of Conscious Rights](../../foundational/SEEME.md) -- Tier 2B (Animal and Non-Human Biological Consciousness Rights) directly addresses habitat rights and ecological stewardship
 
 ## Current State: What's Broken
 

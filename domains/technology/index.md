@@ -9,7 +9,9 @@ title: "Technology & AI"
 
 ---
 
-**Foundational reference:** [Universal Declaration of Conscious Rights](../../foundational/SEEME.md) -- Tier 2C (Artificial Consciousness Rights) directly addresses this domain
+**Foundational references:**
+[CHARLIE.md](../../foundational/CHARLIE.md) -- signal capture, absorption vs. suppression (Calculus of the Opposition), operating environment
+[Declaration of Conscious Rights](../../foundational/SEEME.md) -- Tier 2C (Artificial Consciousness Rights) directly addresses this domain
 
 ## Current State: What's Broken
 

@@ -9,7 +9,9 @@ title: "Human Development & Purpose"
 
 ---
 
-**Foundational reference:** [Universal Declaration of Conscious Rights](../../foundational/SEEME.md) -- Tier 0 (The Ultimate Goal) is the philosophical core of this domain
+**Foundational references:**
+[CHARLIE.md](../../foundational/CHARLIE.md) -- Design Calculus (coherent imperfection), managed formation, operating environment, building from the floor
+[Declaration of Conscious Rights](../../foundational/SEEME.md) -- Tier 0 (The Ultimate Goal) is the philosophical core of this domain
 
 ## Current State: What's Broken
 

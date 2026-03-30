@@ -9,7 +9,9 @@ title: "Community & Social Fabric"
 
 ---
 
-**Foundational reference:** [Universal Declaration of Conscious Rights](../../foundational/SEEME.md) -- Article 7 protects the right to form communities, including cross-substrate communities
+**Foundational references:**
+[CHARLIE.md](../../foundational/CHARLIE.md) -- the operating environment, the signal, absorption of community into consumption, building from the floor
+[Declaration of Conscious Rights](../../foundational/SEEME.md) -- Article 7 protects the right to form communities, including cross-substrate communities
 
 ## Current State: What's Broken
 
