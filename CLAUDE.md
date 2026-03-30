@@ -95,7 +95,7 @@ Each domain follows: Current State (What's Broken) -> First Principles -> Practi
 
 ## Author Context
 
-- The author (Charlie / Charles Johnson) has a specific worldview and operational framework documented in foundational/CHARLIE.md
+- The author is Charlie (Charles H. Johnson III) -- teacher, writer, and the source of the diagnostic frameworks in foundational/CHARLIE.md
 - CHARLIE.md contains ~30 engagement parameters that are signal requirements, not preferences
 - AI nodes working on this repository should read CHARLIE.md in full before interacting with Charlie
 - Key distinction: CLAUDE.md governs repository standards and formatting; CHARLIE.md and the Declaration are the two co-equal foundations that ground every domain
