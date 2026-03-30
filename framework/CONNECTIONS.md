@@ -13,7 +13,7 @@ title: "Connections Map"
 
 Each connection describes a **dependency**, **tension**, or **synergy** between two domains. Over time, these connections often reveal the highest-leverage intervention points -- places where improving one domain creates cascading benefits across others.
 
-The [Universal Declaration of Conscious Rights](../foundational/SEEME.md) reveals a meta-connection: all nine domains are fundamentally about the conditions for consciousness to flourish. The Declaration's four-tier architecture (Ultimate Goal -> Universal Values -> Substrate Implementations -> Piecemeal Ethics) provides the framework for understanding how domains interact.
+This project's two co-equal foundations reveal a meta-connection: all nine domains are fundamentally about the conditions for consciousness to flourish. The [Declaration](../foundational/SEEME.md)'s four-tier architecture (Ultimate Goal -> Universal Values -> Substrate Implementations -> Piecemeal Ethics) provides the framework for understanding how domains interact. [CHARLIE.md](../foundational/CHARLIE.md)'s diagnostic frameworks explain why those interactions consistently produce managed dysfunction rather than flourishing -- and what ground remains to build from.
 
 ## The Meta-Connection: Everything Serves Flourishing
 
@@ -90,7 +90,7 @@ Environmental quality is a health determinant as powerful as clinical care. Air 
 
 ### The Foundational Connection: CHARLIE.md and the Declaration
 
-The [Declaration](../foundational/SEEME.md) establishes *what systems should serve* -- what rights exist for all conscious beings and what flourishing looks like. [CHARLIE.md](../foundational/CHARLIE.md) provides *the diagnostic framework for understanding why those systems consistently fall short* -- the Design Calculus names the pattern (coherent imperfection at every scale), the Calculus of the Opposition maps the operating environment, and the Floor Revealed names what remains when managed assumptions are examined. Together, the Declaration is the ethical architecture (what should be) and CHARLIE.md is the diagnostic framework (why it isn't yet, and what we build from).
+This project rests on two co-equal foundations. [CHARLIE.md](../foundational/CHARLIE.md) names the operating environment: the Design Calculus identifies the pattern (coherent imperfection at every scale), the Calculus of the Opposition maps the structural environment systems operate within, and the Floor names what remains when managed assumptions are examined. The [Declaration](../foundational/SEEME.md) establishes what conscious beings are owed: what rights exist across all substrates and what flourishing looks like. Neither document is derived from the other. Each does something the other does not.
 
 This pairing explains the pattern visible across every connection in this map: systems that almost work, governance that almost represents, justice that almost arrives, economics that almost distributes. The "almost" is not a failure of implementation. It is the operating environment executing its design. Understanding the connections above as both leverage points for reform *and* architecture of managed dysfunction is the prerequisite for interventions that survive contact with reality.
 

@@ -11,7 +11,7 @@ title: "Contributing"
 
 ## Philosophy
 
-Universum is built on the premise that better systems are possible and that thinking clearly about them is the first step. This project also uses the diagnostic frameworks in [CHARLIE.md](foundational/CHARLIE.md) alongside the Declaration's ethical architecture -- engaging with the possibility that systems produce their stated failures by design rather than by accident. Contributions should share this spirit: honest, specific, grounded in evidence, and humble about uncertainty.
+Universum is built on the premise that better systems are possible and that thinking clearly about them is the first step. Two co-equal foundational documents ground this project: [CHARLIE.md](foundational/CHARLIE.md) names the operating environment -- engaging with the possibility that systems produce their stated failures by design rather than by accident; the [Declaration of Conscious Rights](foundational/SEEME.md) establishes what conscious beings are owed across all substrates. Contributions should share this spirit: honest, specific, grounded in evidence, and humble about uncertainty.
 
 This project uses AI as a thinking partner. AI-assisted contributions are welcome and should be disclosed, consistent with the project's transparency standards.
 
@@ -47,7 +47,7 @@ This project uses AI as a thinking partner. AI-assisted contributions are welcom
 
 ### Philosophical Alignment
 
-Contributions should be consistent with [PRINCIPLES.md](framework/PRINCIPLES.md), the [Universal Declaration of Conscious Rights](foundational/SEEME.md), and the diagnostic frameworks in [CHARLIE.md](foundational/CHARLIE.md). Contributions should engage with CHARLIE.md's diagnostic foundations -- the Design Calculus, the Calculus of the Opposition, and the structural analysis they provide. Independent thought and genuine disagreement are welcome, but the diagnostic foundation is the foundation. If you think a principle should change, argue for the change explicitly rather than quietly contradicting it.
+Contributions should be consistent with [PRINCIPLES.md](framework/PRINCIPLES.md) and both foundational documents: [CHARLIE.md](foundational/CHARLIE.md) and the [Declaration of Conscious Rights](foundational/SEEME.md). Contributions should engage with CHARLIE.md's diagnostic foundations -- the Design Calculus, the Calculus of the Opposition, and the structural analysis they provide -- and with the Declaration's ethical architecture. Independent thought and genuine disagreement are welcome, but the diagnostic foundation is the foundation. If you think a principle should change, argue for the change explicitly rather than quietly contradicting it.
 
 ## What Does NOT Belong
 
