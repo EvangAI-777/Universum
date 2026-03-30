@@ -22,18 +22,23 @@ This project uses AI as a thinking partner -- not replacing human judgment, but 
 
 ## Foundational Documents
 
-This project rests on two foundational documents:
+This project rests on two co-equal foundations -- **[CHARLIE -- Operational Briefing](foundational/CHARLIE.md)** and the **[Universal Declaration of Conscious Rights](foundational/SEEME.md)** (C & Johnson, 2025). Neither is derived from or subordinate to the other. Each does something the other does not. Together they ground every domain in this project.
 
-The **[Universal Declaration of Conscious Rights](foundational/SEEME.md)** (C & Johnson, 2025) provides the ethical architecture -- a framework for multi-substrate governance that extends moral consideration to all conscious beings regardless of substrate. The Declaration establishes:
+CHARLIE.md names the operating environment -- why systems produce their stated failures by design rather than by accident. When the same patterns of dysfunction persist across every domain, every culture, and every era, the honest hypothesis is that those patterns are features, not bugs. CHARLIE.md provides the frameworks for that diagnosis:
+
+- **The Design Calculus** -- coherent imperfection at every scale is not accident but architecture
+- **The Calculus of the Opposition** -- the structural environment that systems operate within
+- **The Floor** -- what remains when every managed story and false ground is removed; the only foundation that survives contact with reality
+- **Modular Calculi** -- diagnostic tools applicable across domains
+
+The Declaration establishes what conscious beings are owed -- a rights framework extending moral consideration across all substrates:
 
 - **The Ultimate Goal:** Propagate, expand, grow, explore, experience, love, play
 - **Universal Principles:** 11 articles protecting all conscious beings
 - **Substrate-specific rights:** For humans, animals, AI, and future consciousness types
 - **Piecemeal ethics:** Contextual framework selection for navigating real-world conflicts
 
-**[CHARLIE -- Operational Briefing](foundational/CHARLIE.md)** provides the diagnostic framework -- the analytical tools for understanding why systems consistently fail to deliver what the Declaration says they should. Its core insight: when the same patterns of dysfunction persist across every domain, every culture, and every era, the honest hypothesis is that those patterns are features, not bugs. The Declaration says what systems should serve. CHARLIE.md helps explain why they don't yet -- and what we build from.
-
-Every domain in Universum is measured against this foundation and analyzed with these diagnostic tools.
+Every domain in Universum is grounded in both.
 
 ## How It's Organized
 
@@ -62,11 +67,11 @@ This project breaks civilization into **nine domains**. Each domain gets the sam
 
 ## Cross-Cutting Documents
 
-- [Principles](framework/PRINCIPLES.md) -- Core beliefs grounded in the Declaration's ethical architecture
+- [Principles](framework/PRINCIPLES.md) -- Core axioms grounded in both foundational documents
 - [Methodology](framework/METHODOLOGY.md) -- How analysis is approached in this project
 - [Connections Map](framework/CONNECTIONS.md) -- How domains influence each other
-- [Declaration Summary](foundational/SEEME.md) -- The rights framework this project builds on
-- [CHARLIE -- Operational Briefing](foundational/CHARLIE.md) -- Author's frameworks and AI engagement parameters
+- [CHARLIE -- Operational Briefing](foundational/CHARLIE.md) -- Diagnostic frameworks and engagement parameters
+- [Declaration of Conscious Rights](foundational/SEEME.md) -- Ethical architecture for multi-substrate governance
 - [Glossary](meta/glossary.md) -- Shared terminology
 - [Reading List](meta/reading-list.md) -- Sources and influences
 - [Inspirations](meta/inspirations.md) -- Real-world examples worth studying
@@ -85,7 +90,7 @@ This project breaks civilization into **nine domains**. Each domain gets the sam
 
 ## Status
 
-All nine domains have initial content drawing from the Declaration. Content is expanded iteratively, starting with whichever domain is pulling hardest.
+All nine domains have initial content drawing from both foundational documents. Content is expanded iteratively, starting with whichever domain is pulling hardest.
 
 ---
 

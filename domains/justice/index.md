@@ -9,7 +9,9 @@ title: "Justice & Rights"
 
 ---
 
-**Foundational reference:** [Universal Declaration of Conscious Rights](../../foundational/SEEME.md) -- the rights framework this domain builds on
+**Foundational references:**
+[CHARLIE.md](../../foundational/CHARLIE.md) -- appearance of justice (Design Calculus), operating environment, strategic boundary-drawing (Calculus of the Opposition)
+[Declaration of Conscious Rights](../../foundational/SEEME.md) -- Articles 1-11 (universal principles) ground this domain's rights framework
 
 ## Current State: What's Broken
 

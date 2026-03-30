@@ -9,7 +9,9 @@ title: "Governance & Political Systems"
 
 ---
 
-**Foundational reference:** [Universal Declaration of Conscious Rights](../../foundational/SEEME.md) -- governance architecture for multi-substrate coexistence
+**Foundational references:**
+[CHARLIE.md](../../foundational/CHARLIE.md) -- coherent architecture (Design Calculus), the operating environment, building from the floor
+[Declaration of Conscious Rights](../../foundational/SEEME.md) -- governance architecture for multi-substrate coexistence
 
 ## Current State: What's Broken
 

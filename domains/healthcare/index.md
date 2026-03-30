@@ -9,7 +9,9 @@ title: "Healthcare & Wellbeing"
 
 ---
 
-**Foundational reference:** [Universal Declaration of Conscious Rights](../../foundational/SEEME.md) -- wellbeing extends across substrates; health is a right, not a commodity
+**Foundational references:**
+[CHARLIE.md](../../foundational/CHARLIE.md) -- the body as mechanism of access, operating environment, working as designed
+[Declaration of Conscious Rights](../../foundational/SEEME.md) -- wellbeing extends across substrates; health is a right, not a commodity
 
 ## Current State: What's Broken
 

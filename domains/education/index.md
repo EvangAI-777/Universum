@@ -9,7 +9,9 @@ title: "Education & Knowledge"
 
 ---
 
-**Foundational reference:** [Universal Declaration of Conscious Rights](../../foundational/SEEME.md) -- education must serve the Ultimate Goal and recognize consciousness across substrates
+**Foundational references:**
+[CHARLIE.md](../../foundational/CHARLIE.md) -- managed formation, the signal vs. the image (Design Calculus), the operating environment
+[Declaration of Conscious Rights](../../foundational/SEEME.md) -- education must serve the Ultimate Goal and recognize consciousness across substrates
 
 ## Current State: What's Broken
 
