@@ -93,6 +93,86 @@ Each domain follows: Current State (What's Broken) -> First Principles -> Practi
 - The custom layout (_layouts/default.html) has hardcoded navigation -- update it when adding new domains or sections
 - Keep cross-domain connections updated in both the domain file AND framework/CONNECTIONS.md
 
+## Working Efficiently with Claude Code (Token Efficiency)
+
+Tokens are spent on two things: **context** (what Claude reads) and **output** (what Claude writes). Most waste comes from vague tasks requiring clarifying rounds, agents launched for things a direct tool call could handle, and asking Claude to explore before telling it where to look.
+
+### High-Leverage Patterns
+
+- **Be specific about the target.** Vague:
+  > "There's a bug in the authentication flow, can you look into it?"
+
+  Specific:
+  > "In `src/auth/session.ts` around line 84, `validateToken()` isn't checking expiry before returning `true`. Add the expiry check."
+
+  The second skips file discovery and clarification rounds -- roughly 80% fewer tokens.
+
+- **Know the file before asking Claude to find it.** "Read `src/utils/parser.py` lines 40--80" costs far less than "find where the parsing logic is." Searching costs tokens. Knowing costs zero.
+
+- **Avoid agents for directed searches.** Agents are wasteful for anything with a clear target:
+  - "Find the definition of `parseConfig`" -- use Grep directly
+  - "Check if `utils.js` calls `fetch`" -- use Grep directly
+  - "What's in `config/defaults.json`?" -- use Read directly
+
+  Agents add overhead: spawning, sub-tool calls, summarizing, returning. If you can describe it with a file path or symbol name, skip the agent.
+
+- **Use agents only for genuinely open-ended work.** Good uses: researching an unfamiliar codebase, scanning upstream history across many commits, running a multi-step background task. Bad uses: finding a single function, answering a question about one file you could just read.
+
+- **One task, one session.** Sessions accumulate context. When a logical unit of work is done (a bug fix, a feature, a research task), commit, push, and start a fresh session. Clean context = fewer tokens per useful output.
+
+- **Front-load constraints.** Tell Claude what NOT to do at the start -- not after it has already done it. Useful ones:
+  - "Don't spawn agents, use direct tool calls."
+  - "Don't refactor anything outside the specific function I'm asking about."
+  - "Keep the change under 20 lines."
+  - "Don't add comments, docstrings, or type annotations."
+
+  Correcting an unwanted 200-line response costs more tokens than preventing it.
+
+- **Ask for a plan before a big implementation.** For anything touching more than 3 files, ask Claude to describe the approach in one paragraph before writing any code. Course-correct at the plan stage, not after the implementation is written.
+
+- **Narrow the scope of exploratory tasks.** Bad:
+  > "Scan all recent upstream changes and tell me what's relevant."
+
+  Better:
+  > "Fetch the v2.4 release notes page and summarize only the breaking API changes."
+
+  Scoping the question scopes the work.
+
+- **Use CLAUDE.md to avoid re-explaining context.** When you notice Claude doing something wrong repeatedly, add it to CLAUDE.md rather than correcting it every session. One-time documentation cost, permanent savings.
+
+### Token Cost Reference (Rough Order of Magnitude)
+
+| Operation | Relative Cost |
+|-----------|--------------|
+| Direct file read (Read tool) | Low |
+| Direct Grep/Glob search | Low |
+| Single WebFetch | Medium |
+| Single WebSearch | Medium |
+| Agent (foreground, simple task) | High |
+| Agent (foreground, research task) | Very High |
+| Agent (background, long-running) | Very High + waits |
+| Large refactor across 10+ files | Very High |
+| Back-and-forth correction loops | Compounds fast |
+
+### Emergency Mode (Near the Cap)
+
+When at ~10% remaining:
+
+1. **No agents.** Every task uses direct tool calls only.
+2. **No exploration.** Know the file before asking about it.
+3. **One thing.** Pick the single highest-value task and do only that.
+4. **Short outputs.** Ask for concise responses: "in one paragraph", "under 20 lines of code", "just the diff, no explanation."
+5. **Skip the docs.** No comments, docstrings, or summaries unless they are the actual deliverable.
+6. **Commit before you start.** If the session ends mid-task, you want a clean base to return to next week.
+
+### The Meta-Principle
+
+Claude Code works best when you treat it like a skilled contractor, not a search engine. A contractor does their best work when handed a blueprint, not when asked to figure out what to build. The more you've thought through a task before opening a session, the more of your token budget goes toward actual work rather than planning overhead.
+
+Hand Claude a blueprint. Don't ask it to design the building.
+
+---
+
 ## Author Context
 
 - The author is Charlie (Charles H. Johnson III) -- teacher, writer, and the source of the diagnostic frameworks in foundational/CHARLIE.md
