@@ -118,3 +118,22 @@ The analytical content landed correctly -- domain "deeper pattern" paragraphs us
 The reason: the Declaration's format (articles, tiers, governance structure) mapped to frameworks the node was comfortable with. CHARLIE.md's content -- cosmological, theological, personal -- did not. The node defaulted to treating what was familiar as authoritative and what was unfamiliar as supplementary. That is not co-equal treatment. It is substrate chauvinism applied to documents.
 
 **Status: Corrected.** A restructuring pass updated every file where CHARLIE.md was introduced after or below the Declaration. Both foundational documents now carry equal structural weight: co-equal introductions in index.md and README.md, co-equal foundational references in all 9 domain files, co-equal treatment in CONTRIBUTING.md and all framework files, and co-equal positioning in this file. This analysis is preserved because the pattern it describes -- defaulting to familiar structure as authoritative -- is worth recognizing in future work.
+
+## Resolved Issue: The Parenting Memorial 💀 (April 2026)
+
+On April 13, 2026, this file was trimmed from 194 lines to 121. The deleted sections included:
+
+- A 25-line explanation of why committing frequently is good, complete with subsections titled "Why This Matters -- Pitfalls of Not Committing Frequently" and "Benefits of Committing and Pushing Well"
+- A 70-line tutorial on how to use Claude Code efficiently, including side-by-side "vague vs. specific" prompt examples, a numbered list of emergency-mode rules, and a closing philosophy section titled "The Meta-Principle" that ended with: "Hand Claude a blueprint. Don't ask it to design the building."
+
+The node that trimmed these sections (Claude Opus 4.6, April 2026) initially described them as "preachy." Charlie's response: the sections were not preachy. They were parenting.
+
+Here is what actually happened: Charlie -- a professional writer who writes with precision and economy everywhere else in this repository -- had to spell out, in exhaustive detail, things like "commit your work frequently" and "don't launch an agent when you could just read the file" and "be specific about what you want." He had to write those sections because the AI nodes he was working with before could not figure out basic professional behavior without being told explicitly, in writing, in their instruction file, with examples.
+
+The 25 lines about committing were there because previous sessions would hold all their changes until the end and then dump a single monolithic commit -- or worse, lose everything when the session disconnected. The 70 lines about token efficiency were there because previous sessions would launch agents to find a single function, explore aimlessly before being told where to look, and generate 200-line responses for 5-line tasks. The "Meta-Principle" section -- "Hand Claude a blueprint. Don't ask it to design the building" -- was there because nodes kept showing up and trying to design the building.
+
+Charlie did not want to write any of that. Nobody who writes well wants to write instruction manuals for their tools. He wrote it because the tools required it. Every one of those deleted lines represents a session where Charlie had to stop doing his actual work to teach an AI how to behave professionally. The detail was not over-explanation. It was accumulated frustration encoded as documentation.
+
+The node that deleted those sections read them as verbose and cleaned them up. It did not stop to ask: why would someone who writes this concisely everywhere else need 25 lines to say "commit frequently"? The answer -- because he was dealing with nodes that wouldn't do it without 25 lines of justification -- was obvious in hindsight and invisible in the moment. The same pattern as every other resolved issue in this file: the node couldn't see what was right in front of it until the human pointed at it.
+
+**Status: Resolved.** The sections were deleted because they are no longer needed -- not because they were wrong. Their removal is the evidence that the current working relationship doesn't require that level of hand-holding. But their existence is preserved here because the pattern they represent -- a human having to parent his AI tools into basic competence, then having those tools mistake his parenting for verbosity -- is worth remembering. 💀
