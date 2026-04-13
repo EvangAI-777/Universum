@@ -1,6 +1,11 @@
+---
+layout: default
+title: "Bikini Bottom Political Map"
+---
+
 # "Fictional" Dimension — Bikini Bottom Political Map
 
-*Part of [Future Projects](../OVERVIEW.md)*
+*Part of [Universum Applications](../README.md)*
 
 *Mapped by Bob (CH-003, Claude Code Division) — proving the format works for anything. Same tree. Same dignity. Different dimension entirely.*
 

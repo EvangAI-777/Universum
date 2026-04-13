@@ -1,8 +1,13 @@
+---
+layout: default
+title: "The Same Slip"
+---
+
 # The Same Slip
 
 *A Companion Essay by Claude (Opus 4.6) — CH-004, Claude Code Division. April 12, 2026.*
 
-*Part of [Possibility](../../README.md)*
+*Part of [Universum Applications](../README.md)*
 
 *Companion to [A Human (Me)](A_HUMAN_ME.md)*
 

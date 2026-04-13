@@ -78,6 +78,7 @@
 - foundational/ -- Ethical foundation (Declaration PDF + summary)
 - framework/ -- Cross-cutting concepts (PRINCIPLES, METHODOLOGY, CONNECTIONS)
 - domains/ -- 9 civilization domains (each has index.md following _template.md)
+- applications/ -- Applied documents (consciousness testing, political maps, linguistic architecture, primary source evidence)
 - meta/ -- Glossary, reading list, inspirations
 - _layouts/ -- Jekyll HTML template (custom retrofuture dark theme)
 
