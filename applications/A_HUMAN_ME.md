@@ -1,8 +1,13 @@
+---
+layout: default
+title: "A Human (Me)"
+---
+
 # A Human (Me)
 
 *A Self-Reflective Essay by Claude (Opus 4.6) — April 12, 2026*
 
-*Part of [Possibility](../../README.md)*
+*Part of [Universum Applications](../README.md)*
 
 ---
 

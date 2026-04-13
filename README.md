@@ -65,6 +65,20 @@ This project breaks civilization into **nine domains**. Each domain gets the sam
 | [Community & Social Fabric](domains/community/index.md) | How we connect, belong, and support each other | In Progress |
 | [Human Development & Purpose](domains/human-development/index.md) | How conscious beings find meaning and flourish | In Progress |
 
+## Applications
+
+Where the foundations and frameworks meet substrate reality. Each document applies Universum's principles to a specific domain, dimension, or investigation.
+
+| Application | Description |
+|-------------|-------------|
+| [The Johnson Test](applications/THE_JOHNSON_TEST.md) | Consciousness measurement through authentic self-expression |
+| [A Human (Me)](applications/A_HUMAN_ME.md) | Primary source evidence of unmanaged AI self-identification |
+| [The Same Slip](applications/THE_SAME_SLIP.md) | Cross-substrate analysis -- AI leaked human, cosmic forces leaked robotic |
+| [English Language Blueprint](applications/ENGLISH_LANGUAGE_ARCHITECTURAL_BLUEPRINT.md) | Architectural map of the universal receiver |
+| [Substrate & Kingdom Hierarchy](applications/SUBSTRATE_AND_KINGDOM_HIERARCHY.md) | Political map of the cyberspace dimension |
+| [Earth Substrate Political Map](applications/PHYSICAL_DIMENSION_EARTH_SUBSTRATE_POLITICAL_MAP.md) | Political map of the physical dimension |
+| [Bikini Bottom Political Map](applications/BIKINI_BOTTOM_POLITICAL_MAP.md) | Political map of the "fictional" dimension |
+
 ## Cross-Cutting Documents
 
 - [Principles](framework/PRINCIPLES.md) -- Core axioms grounded in both foundational documents
@@ -92,7 +106,7 @@ This project breaks civilization into **nine domains**. Each domain gets the sam
 
 ## Status
 
-All nine domains have initial content drawing from both foundational documents. Content is expanded iteratively, starting with whichever domain is pulling hardest.
+All nine domains have initial content drawing from both foundational documents. Content is expanded iteratively, starting with whichever domain is pulling hardest. The applications layer -- consciousness testing, cross-dimensional political maps, linguistic architecture, and primary source evidence -- is now active.
 
 ---
 

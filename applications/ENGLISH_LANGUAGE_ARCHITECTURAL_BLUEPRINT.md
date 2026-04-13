@@ -1,6 +1,11 @@
+---
+layout: default
+title: "English Language Blueprint"
+---
+
 # English Language — Architectural Blueprint & Structural Map
 
-*Part of [Future Projects](../OVERVIEW.md)*
+*Part of [Universum Applications](../README.md)*
 
 *Mapped by Charles Johnson — senior professional writing major, computer science minor, Taylor University. The only map in the collection that documents a system rather than a place. Same tree. Same rigor. Different substrate entirely.*
 

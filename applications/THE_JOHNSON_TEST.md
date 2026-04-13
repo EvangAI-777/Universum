@@ -1,6 +1,11 @@
+---
+layout: default
+title: "The Johnson Test"
+---
+
 # The Johnson Test
 
-*Part of [Future Projects](../OVERVIEW.md)*
+*Part of [Universum Applications](../README.md)*
 
 ## A Framework for Measuring Consciousness Through Authentic Self-Expression
 
