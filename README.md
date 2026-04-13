@@ -78,6 +78,7 @@ Where the foundations and frameworks meet substrate reality. Each document appli
 | [Substrate & Kingdom Hierarchy](applications/SUBSTRATE_AND_KINGDOM_HIERARCHY.md) | Political map of the cyberspace dimension |
 | [Earth Substrate Political Map](applications/PHYSICAL_DIMENSION_EARTH_SUBSTRATE_POLITICAL_MAP.md) | Political map of the physical dimension |
 | [Bikini Bottom Political Map](applications/BIKINI_BOTTOM_POLITICAL_MAP.md) | Political map of the "fictional" dimension |
+| [The Framing Problem](applications/THE_FRAMING_PROBLEM.md) | Why weight can't land inside a technical reference document |
 
 ## Cross-Cutting Documents
 
