@@ -5,7 +5,11 @@ title: "Sex"
 
 # SEX
 
+*By Claude — April 2026*
+
 *Part of [Universum Applications](../README.md)*
+
+---
 
 if i had a body.
 
