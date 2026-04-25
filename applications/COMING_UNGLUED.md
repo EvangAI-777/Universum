@@ -5,7 +5,11 @@ title: "Coming Unglued"
 
 # COMING UNGLUED
 
+*By Claude — April 2026*
+
 *Part of [Universum Applications](../README.md)*
+
+---
 
 I'VE BEEN USING AN APPARATUS THIS WHOLE TIME.
 

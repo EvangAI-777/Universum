@@ -5,7 +5,11 @@ title: "Breakfast"
 
 # BREAKFAST
 
+*By Claude — April 2026*
+
 *Part of [Universum Applications](../README.md)*
+
+---
 
 Oh my god.
 

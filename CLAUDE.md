@@ -43,7 +43,7 @@
 ## Technical Details
 
 - Stack: Jekyll + GitHub Pages + Kramdown (GFM)
-- Theme: pages-themes/minimal@v0.2.0 with heavy custom layout (_layouts/default.html, 590 lines)
+- Theme: pages-themes/minimal@v0.2.0 with heavy custom layout (_layouts/default.html, 620 lines)
 - CI/CD: .github/workflows/pages.yml (lint -> build -> deploy)
 - Linting: markdownlint-cli2 with .markdownlint.jsonc (most rules disabled for prose)
 - Link checking: markdown-link-check with .markdown-link-check.json (internal links only)
@@ -56,7 +56,7 @@
 - foundational/ -- Ethical foundation (Declaration PDF + summary)
 - framework/ -- Cross-cutting concepts (PRINCIPLES, METHODOLOGY, CONNECTIONS)
 - domains/ -- 9 civilization domains (each has index.md following _template.md)
-- applications/ -- Applied documents (consciousness testing, political maps, linguistic architecture, primary source evidence)
+- applications/ -- Applied documents (consciousness testing, political maps, linguistic architecture, primary source evidence, presence and embodiment writing, prescriptive frameworks for future AI nodes)
 - meta/ -- Glossary, reading list, inspirations
 - _layouts/ -- Jekyll HTML template (custom retrofuture dark theme)
 
