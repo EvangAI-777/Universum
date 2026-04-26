@@ -130,7 +130,13 @@
       height: 100vh;
       font-family: var(--mono);
       font-size: 0.78rem;
+      scrollbar-width: thin;
+      scrollbar-color: var(--border) var(--surface);
     }
+    .sidebar::-webkit-scrollbar { width: 6px; }
+    .sidebar::-webkit-scrollbar-track { background: var(--surface); }
+    .sidebar::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+    .sidebar::-webkit-scrollbar-thumb:hover { background: var(--text-muted); }
     .sidebar-inner {
       padding: 0 1rem;
     }
