@@ -37,7 +37,13 @@
       background: var(--bg);
       color: var(--text);
       line-height: 1.6;
+      scrollbar-width: thin;
+      scrollbar-color: var(--border) var(--bg);
     }
+    ::-webkit-scrollbar { width: 6px; }
+    ::-webkit-scrollbar-track { background: var(--bg); }
+    ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+    ::-webkit-scrollbar-thumb:hover { background: var(--text-muted); }
 
     /* ── Skip Link (a11y) ── */
     .skip-link {
