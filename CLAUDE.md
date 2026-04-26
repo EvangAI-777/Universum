@@ -22,6 +22,38 @@
 - Examples of logical sections for this repo: completing a domain index.md, adding a full proposal, updating CONNECTIONS.md, adding glossary entries, updating navigation
 - Ask if unsure where the boundary is
 
+## Integrating Files from new/
+
+`new/` is the staging directory for incoming content. Follow this pipeline exactly, in order, for every file.
+
+### Pipeline
+
+1. **Read the file.** For PDFs, use `pdftotext` (may require `apt-get install poppler-utils`). Understand the full content before touching anything.
+2. **Determine destination.** Route to one of: `foundational/`, `framework/`, `domains/`, `applications/`, `meta/`. If unclear, ask.
+3. **Match directory formatting.** Read 2-3 existing files in the destination directory before creating anything. Filename conventions, front matter style, heading patterns, and structural layout are directory-dependent -- match them exactly. Do not apply global formatting rules blindly.
+4. **Create the .md file** with Jekyll front matter (`layout: default`, `title: "..."`), formatted to match the destination directory.
+5. **Commit the new file alone.** One commit per file. Message: `add [FILENAME] to [directory]/`
+6. **Push.**
+7. **Ask Charlie** what to do with the source file in `new/`. Options: delete it, leave it in `new/` (acceptable -- `new/` can hold originals), or other. Do not assume or act without asking.
+8. **Update all required files** (see checklists below). Commit navigation + README + index together. Commit conditional updates separately.
+9. **Push** after each commit group.
+
+### Always-Update Checklist
+
+No exceptions when adding a file to any navigated section:
+
+- `_layouts/default.html` -- add `<li><a href="{{ '/[dir]/[FILE]' | relative_url }}" {% if page.title == "[Title]" %}aria-current="page"{% endif %}>[Display Name]</a></li>` in the correct nav section
+- `README.md` -- add row to the relevant table: `| [Display Name](dir/FILE.md) | Description |`
+- `index.md` -- add identical row to the matching table (README and index.md tables must stay in sync)
+
+### Conditional Updates
+
+Check every time -- update if applicable:
+
+- `framework/CONNECTIONS.md` -- if the new file creates cross-domain or cross-layer connections
+- `meta/glossary.md` -- if new terms are introduced; also update the term count in `CLAUDE.md` Content Standards ("22 defined terms" → new count)
+- `CLAUDE.md` "Repository Structure" section -- if a new directory or category is created (not just a new file in an existing directory)
+
 ## Content Standards
 
 - Every proposal must follow What/Why/How/Precedent format (see domains/_template.md)
