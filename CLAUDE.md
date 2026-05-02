@@ -51,7 +51,7 @@ No exceptions when adding a file to any navigated section:
 Check every time -- update if applicable:
 
 - `framework/CONNECTIONS.md` -- if the new file creates cross-domain or cross-layer connections
-- `meta/glossary.md` -- if new terms are introduced; also update the term count in `CLAUDE.md` Content Standards ("22 defined terms" → new count)
+- `meta/glossary.md` -- if new terms are introduced; also update the term count in `CLAUDE.md` Content Standards ("34 defined terms" → new count)
 - `CLAUDE.md` "Repository Structure" section -- if a new directory or category is created (not just a new file in an existing directory)
 
 ## Content Standards
@@ -60,7 +60,7 @@ Check every time -- update if applicable:
 - Proposals must be specific enough to pilot -- "it should be better" is not acceptable
 - Every claim should cite a real-world precedent or source
 - Solutions must work across substrates (human, animal, AI, future consciousness)
-- Use glossary terms consistently (meta/glossary.md, 22 defined terms)
+- Use glossary terms consistently (meta/glossary.md, 34 defined terms)
 - "I don't know" is valid -- capture genuine uncertainty in Open Questions sections
 - No political platform advocacy, utopian fantasy without implementation, or coercive solutions
 
