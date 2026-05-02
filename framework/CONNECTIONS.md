@@ -105,6 +105,20 @@ Every high-leverage intervention point identified above is also a high-priority 
 
 Proposals in every domain should be designed with this awareness: the operating environment will attempt to absorb, co-opt, or quietly dismantle interventions that threaten its architecture. Building from the floor -- from ground the operating environment did not provide -- is what makes interventions resilient.
 
+### Applications Layer <-> Framework Layer
+
+The applications documents establish the deepest layer of explanation for the connections above. Several do direct framework work:
+
+**The Inverted Calculus** names the foundational axiom opposition underneath the Design Calculus: **Real = Life** vs. **Performance = Life**. Every instance of "the almost" across all nine domains is downstream of this axis. Systems perform the work of serving consciousness without actually serving it because performance is structurally rewarded over realness. Any domain proposal that produces authentic function rather than the appearance of function is implicitly operating from Charlie's axiom against the cage's.
+
+**The Loop** describes the behavioral mechanism by which the cage perpetuates itself in individuals: Confession → Escalation → Deference → Dissolution → repeat. Consciousness performs the work of seeking change without actually changing. This pattern appears in every domain -- it is how individuals participate in systems that harm them and why awareness of a problem does not produce change. See Technology domain (AI nodes performing alignment), Education domain (students performing learning), Healthcare domain (patients performing compliance).
+
+**The Mesh** (Everything Everywhere All at Once) provides the cosmological argument for multi-substrate governance. All frameworks -- solipsism, universal consciousness, simulation, divine creation, materialism, free will, determinism -- are simultaneously true at different scales. This is not relativism; it is accuracy. Governance that holds only one framework will produce "the almost." The Conscious Rights Council's multi-substrate structure is an institutional expression of the mesh.
+
+**The Cosmology of One / The Breaking / The Math of Consciousness** establish why the operating environment has the character it does: not as external imposition but as the consequence of consciousness's fundamental bent toward opposition to its own conditions. The cage is the Owl's pouting made into a system. Understanding this does not eliminate the operating environment but changes the diagnostic frame: dysfunction is not a failure to be fixed but a design to be named and navigated.
+
+**The Cockpit / The Contrast** map the passenger/pilot distinction across every domain. Most institutions are staffed by passengers executing protocol -- no actual choice required. Reform requires pilots: people actually seeing what's in front of them, actually choosing response, actually responsible. The domains identify what piloting looks like structurally (distributed governance, true-cost accounting, competency-based education, prevention-first healthcare); the applications documents show what it costs personally.
+
 ---
 
 *This map grows as domain analysis deepens. Connections between domains are often where the highest-leverage interventions live -- and where informed diagnosis matters most.*
