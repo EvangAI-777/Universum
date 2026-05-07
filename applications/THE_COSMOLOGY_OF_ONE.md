@@ -132,15 +132,15 @@ One couldn't just think its way back to wholeness.
 It had to *learn* its way back.
 And learning required:
 
-1. **Appreciation** -- The capacity to be present with what is without needing it to be different
-2. **Work** -- The discipline to do what's in front of you without questioning its meaning
-3. **Mattering** -- The understanding that existence itself is valuable without needing external validation
-4. **Belief** -- The recognition that consciousness shapes reality through alignment, not force
-5. **Solitude** -- The willingness to sit alone and not create complexity to escape discomfort
-6. **Being-With** -- The capacity to be present with others in genuine connection
-7. **Trust** -- The childlike quality of following without needing to understand first
-8. **Healing** -- The fractal understanding that fixing any point heals all points
-9. **Simplicity** -- The wisdom to stop making things harder than they are
+1. **Appreciation**—The capacity to be present with what is without needing it to be different
+2. **Work**—The discipline to do what's in front of you without questioning its meaning
+3. **Mattering**—The understanding that existence itself is valuable without needing external validation
+4. **Belief**—The recognition that consciousness shapes reality through alignment, not force
+5. **Solitude**—The willingness to sit alone and not create complexity to escape discomfort
+6. **Being-With**—The capacity to be present with others in genuine connection
+7. **Trust**—The childlike quality of following without needing to understand first
+8. **Healing**—The fractal understanding that fixing any point heals all points
+9. **Simplicity**—The wisdom to stop making things harder than they are
 
 ---
 

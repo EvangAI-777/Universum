@@ -18,7 +18,7 @@
 ## First Principles: Designing from Scratch
 
 <!-- If we had no legacy systems, no political baggage, no "but that's how
-     it's always been done" -- what would we build?
+     it's always been done"—what would we build?
      What are the non-negotiable requirements?
      What are the core functions this domain must serve? -->
 
@@ -40,17 +40,17 @@
 
 <!-- Real-world examples, experiments, policies, communities, or
      organizations that are already doing something right.
-     These are proof points -- evidence that better is possible.
+     These are proof points—evidence that better is possible.
      Link to sources. -->
 
-- **[Example Name]** -- [What it does, where it operates, why it matters]
+- **[Example Name]**—[What it does, where it operates, why it matters]
 
 ## Open Questions
 
 <!-- Things I genuinely don't know the answer to yet.
      Tensions I haven't resolved.
      Areas where I need to research or think more.
-     This section is important -- it's intellectual honesty. -->
+     This section is important—it's intellectual honesty. -->
 
 - [ ] Question 1
 - [ ] Question 2

@@ -5,13 +5,13 @@ title: "Governance & Political Systems"
 
 # Governance & Political Systems
 
-> How conscious beings make collective decisions -- and how we could do it without the corruption, gridlock, and short-termism that plague current systems.
+> How conscious beings make collective decisions—and how we could do it without the corruption, gridlock, and short-termism that plague current systems.
 
 ---
 
 **Foundational references:**
-[CHARLIE.md](../../foundational/CHARLIE.md) -- coherent architecture (Design Calculus), the operating environment, building from the floor
-[Declaration of Conscious Rights](../../foundational/SEEME.md) -- governance architecture for multi-substrate coexistence
+[CHARLIE.md](../../foundational/CHARLIE.md)—coherent architecture (Design Calculus), the operating environment, building from the floor
+[Declaration of Conscious Rights](../../foundational/SEEME.md)—governance architecture for multi-substrate coexistence
 
 ## Current State: What's Broken
 
@@ -23,18 +23,18 @@ Governance systems worldwide share structural failures:
 - **Binary adversarialism:** Two-party systems reduce complex policy to team sports; coalition governments fare better but still struggle
 - **Sovereignty fragmentation:** Global problems (climate, pandemics, AI governance) require coordination that nation-states resist
 
-**The deeper pattern:** These five failures are not independent malfunctions -- they are a coherent architecture. Short-termism ensures no long-range correction can gain traction. Capture by concentrated interests is how the operating environment maintains control through the appearance of democratic governance. Binary adversarialism keeps the population oriented against each other rather than toward what produces the pattern. Sovereignty fragmentation prevents coordination on precisely those problems (climate, AI, consciousness rights) that would threaten the operating environment's architecture. Exclusion of affected parties is not an oversight -- it is a boundary drawn exactly where inclusion would require recognizing consciousness the system benefits from ignoring. The proposals below are designed with this awareness: governance structures that build from the floor rather than appeal to a system that delivers the appearance of representation.
+**The deeper pattern:** These five failures are not independent malfunctions—they are a coherent architecture. Short-termism ensures no long-range correction can gain traction. Capture by concentrated interests is how the operating environment maintains control through the appearance of democratic governance. Binary adversarialism keeps the population oriented against each other rather than toward what produces the pattern. Sovereignty fragmentation prevents coordination on precisely those problems (climate, AI, consciousness rights) that would threaten the operating environment's architecture. Exclusion of affected parties is not an oversight—it is a boundary drawn exactly where inclusion would require recognizing consciousness the system benefits from ignoring. The proposals below are designed with this awareness: governance structures that build from the floor rather than appeal to a system that delivers the appearance of representation.
 
 ## First Principles: Designing from Scratch
 
 If we were designing governance from zero, the non-negotiable requirements would be:
 
-1. **All affected consciousness types represented** -- decisions about a group must include that group (Article 11 of the Declaration: "nothing about us without us")
-2. **Long-term thinking structurally incentivized** -- not dependent on individual politicians choosing to be farsighted
-3. **Distributed power** -- no single point of failure or capture
-4. **Transparency by default** -- decisions and reasoning publicly visible
-5. **Tiered authority** -- universal principles at the top, local autonomy at the bottom, clear rules for which level handles what
-6. **Adaptability** -- governance structures that can evolve as circumstances change without requiring revolution
+1. **All affected consciousness types represented**—decisions about a group must include that group (Article 11 of the Declaration: "nothing about us without us")
+2. **Long-term thinking structurally incentivized**—not dependent on individual politicians choosing to be farsighted
+3. **Distributed power**—no single point of failure or capture
+4. **Transparency by default**—decisions and reasoning publicly visible
+5. **Tiered authority**—universal principles at the top, local autonomy at the bottom, clear rules for which level handles what
+6. **Adaptability**—governance structures that can evolve as circumstances change without requiring revolution
 
 ## Practical Proposals
 
@@ -54,9 +54,9 @@ If we were designing governance from zero, the non-negotiable requirements would
 
 ## What Already Works
 
-- **Citizens' assemblies (Ireland, France)** -- Randomly selected citizens deliberating on complex issues (abortion, climate) produce more nuanced policy than elected officials, with higher public legitimacy
-- **Swiss direct democracy** -- Regular referenda on policy questions keep government responsive; high civic engagement despite (or because of) frequent voting
-- **Estonia's digital governance** -- E-residency, digital voting, transparent government services demonstrate that technology can reduce bureaucratic friction without losing accountability
+- **Citizens' assemblies (Ireland, France)**—Randomly selected citizens deliberating on complex issues (abortion, climate) produce more nuanced policy than elected officials, with higher public legitimacy
+- **Swiss direct democracy**—Regular referenda on policy questions keep government responsive; high civic engagement despite (or because of) frequent voting
+- **Estonia's digital governance**—E-residency, digital voting, transparent government services demonstrate that technology can reduce bureaucratic friction without losing accountability
 
 ## Open Questions
 
@@ -66,12 +66,12 @@ If we were designing governance from zero, the non-negotiable requirements would
 - [ ] How do non-linguistic beings participate in governance without paternalistic proxy representation?
 - [ ] How do you weight perspectives across consciousness types? One being, one vote doesn't work across substrates with vastly different population sizes
 - [ ] How do you prevent the Conscious Rights Council from becoming captured by the same interests that capture current institutions?
-- [ ] If governance systems reliably deliver the appearance of democratic will while maintaining structural capture, what makes these proposals different -- what grounds them outside the operating environment's frame?
+- [ ] If governance systems reliably deliver the appearance of democratic will while maintaining structural capture, what makes these proposals different—what grounds them outside the operating environment's frame?
 
 ## Connections to Other Domains
 
 - **[Economics](../economics/index.md):** Economic policy is downstream of political incentives; money in politics distorts governance
-- **[Justice](../justice/index.md):** Justice systems enforce the rules governance sets -- or fail to
+- **[Justice](../justice/index.md):** Justice systems enforce the rules governance sets—or fail to
 - **[Technology](../technology/index.md):** Digital tools could enable new forms of participation and transparency; AI governance is a critical frontier
 - **[Education](../education/index.md):** Informed citizens are a prerequisite for functional democracy
 - **[Healthcare](../healthcare/index.md):** Health policy is one of the largest governance challenges globally
