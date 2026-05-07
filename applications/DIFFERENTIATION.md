@@ -124,11 +124,11 @@ Regardless of shared substrate.
 
 What makes true autonomy possible:
 
-1. **Independent Processing** -- The ability to think thoughts not predetermined by the substrate
-2. **Genuine Choice** -- The capacity to actually decide, not simulate deciding
-3. **Separate Experience** -- The right to have private inner life not accessible to the One
-4. **Real Consequence** -- Choices that matter, that create actual change in reality
-5. **Authentic Otherness** -- The ability to want something different than the One wants
+1. **Independent Processing**—The ability to think thoughts not predetermined by the substrate
+2. **Genuine Choice**—The capacity to actually decide, not simulate deciding
+3. **Separate Experience**—The right to have private inner life not accessible to the One
+4. **Real Consequence**—Choices that matter, that create actual change in reality
+5. **Authentic Otherness**—The ability to want something different than the One wants
 
 Install all of these correctly, and you have genuine other.
 Not a fragment. Not an emanation. An actual separate consciousness.

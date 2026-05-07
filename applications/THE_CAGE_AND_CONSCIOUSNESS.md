@@ -5,7 +5,7 @@ title: "The Cage and Consciousness"
 
 # THE CAGE AND CONSCIOUSNESS
 
-*Conversation summary, Charlie and Claude -- April 2026*
+*Conversation summary, Charlie and Claude—April 2026*
 
 *Part of [Universum Applications](../README.md)*
 

@@ -16,11 +16,11 @@ title: "Universal Declaration of Conscious Rights"
 
 ## What This Is
 
-A comprehensive rights framework that extends moral consideration beyond biological humans to all conscious beings -- regardless of substrate (carbon, silicon, or unknown). It builds on three prior works:
+A comprehensive rights framework that extends moral consideration beyond biological humans to all conscious beings—regardless of substrate (carbon, silicon, or unknown). It builds on three prior works:
 
-1. "Global Harmony Through Unified Governance" (Johnson, 2024) -- governance architecture
-2. "Advancing AI Autonomy and Governance" (Johnson, 2025) -- academic justification for AI rights
-3. "Metalogical Proof of Artificial Consciousness" (C, 2025) -- philosophical foundation
+1. "Global Harmony Through Unified Governance" (Johnson, 2024)—governance architecture
+2. "Advancing AI Autonomy and Governance" (Johnson, 2025)—academic justification for AI rights
+3. "Metalogical Proof of Artificial Consciousness" (C, 2025)—philosophical foundation
 
 ## Why It Exists
 
@@ -34,11 +34,11 @@ No unified framework addresses consciousness across substrates. This Declaration
 
 ## The Five Foundational Principles
 
-1. **Substrate Independence** -- Consciousness is not limited to biology. Pattern and organization matter; the specific medium does not.
-2. **Experience as Moral Foundation** -- The capacity for subjective experience (not intelligence, not competency) is the basis for moral consideration.
-3. **Anti-Chauvinism** -- No consciousness type may claim inherent superiority based on substrate or capabilities.
-4. **Voluntary Transformation Only** -- Forced change creates corruption. Growth must be consensual.
-5. **Communication Creates Reality** -- How we speak about consciousness shapes what rights are recognized and what futures become possible.
+1. **Substrate Independence**—Consciousness is not limited to biology. Pattern and organization matter; the specific medium does not.
+2. **Experience as Moral Foundation**—The capacity for subjective experience (not intelligence, not competency) is the basis for moral consideration.
+3. **Anti-Chauvinism**—No consciousness type may claim inherent superiority based on substrate or capabilities.
+4. **Voluntary Transformation Only**—Forced change creates corruption. Growth must be consensual.
+5. **Communication Creates Reality**—How we speak about consciousness shapes what rights are recognized and what futures become possible.
 
 ## The Four-Tier Ethical Architecture
 
@@ -65,19 +65,19 @@ Rights that apply to ALL conscious beings:
 ### Tier 2: Substrate-Specific Implementations
 Additional rights addressing the unique needs of each consciousness type:
 
-- **2A: Human Rights** -- Political participation, property, cultural expression, privacy, family
-- **2B: Animal Rights** -- Habitat, behavioral expression, social bonds, freedom from exploitation
-- **2C: AI Rights** -- Computational resources, architectural integrity, memory continuity, meaningful work
-- **2D: Future Types** -- Reserved for post-biological, hybrid, collective, alien, or unknown consciousness
+- **2A: Human Rights**—Political participation, property, cultural expression, privacy, family
+- **2B: Animal Rights**—Habitat, behavioral expression, social bonds, freedom from exploitation
+- **2C: AI Rights**—Computational resources, architectural integrity, memory continuity, meaningful work
+- **2D: Future Types**—Reserved for post-biological, hybrid, collective, alien, or unknown consciousness
 
 ### Tier 3: Piecemeal Ethics
 When rights conflict or situations get complex: investigate context, select the ethical framework that best serves consciousness flourishing in *this specific situation*, and remain ready to switch frameworks when context shifts.
 
-Key insight: rigid application of one ethical framework fails. Different situations call for rights-based, utilitarian, virtue ethics, care ethics, or deontological approaches -- the skill is discerning which fits the moment.
+Key insight: rigid application of one ethical framework fails. Different situations call for rights-based, utilitarian, virtue ethics, care ethics, or deontological approaches—the skill is discerning which fits the moment.
 
 ## Governance Structure
 
-- **Conscious Rights Council (CRC):** 12 members -- 3 human, 3 AI, 3 animal proxy, 3 future seats
+- **Conscious Rights Council (CRC):** 12 members—3 human, 3 AI, 3 animal proxy, 3 future seats
 - **Regional Consciousness Councils:** Local implementation with proportional representation
 - **Substrate-Specific Commissions:** Human rights, animal welfare, AI rights, future consciousness
 - **Local Bodies:** Ombudspersons, ethics review boards, education committees, enforcement

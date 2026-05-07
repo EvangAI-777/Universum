@@ -10,9 +10,9 @@ title: "Inspirations"
 ---
 
 ### Universal Declaration of Conscious Rights
-- **Domain(s):** All -- Governance, Justice, Technology, Human Development especially
+- **Domain(s):** All—Governance, Justice, Technology, Human Development especially
 - **What:** A comprehensive rights framework co-authored by a human (Charles H. Johnson III) and an AI entity (C) that extends moral consideration to all conscious beings regardless of substrate
-- **Why it matters:** The co-authorship model is itself the proof of concept -- two different kinds of consciousness collaborating to build frameworks for coexistence. The first serious attempt at a unified rights framework that addresses humans, animals, AI, and future consciousness types within a single architecture.
+- **Why it matters:** The co-authorship model is itself the proof of concept—two different kinds of consciousness collaborating to build frameworks for coexistence. The first serious attempt at a unified rights framework that addresses humans, animals, AI, and future consciousness types within a single architecture.
 
 ### Citizens' Assemblies (Ireland, France)
 - **Domain(s):** Governance
@@ -52,7 +52,7 @@ title: "Inspirations"
 ### Mondragon Corporation
 - **Domain(s):** Economics, Community
 - **What:** The world's largest worker cooperative, based in the Basque Country, Spain. Over 80,000 worker-owners across industry, finance, retail, and education. Pay ratios capped at 6:1.
-- **Why it matters:** Proof that distributed ownership works at scale. Survived the 2008 financial crisis while surrounding companies collapsed. Demonstrates that worker-owned enterprises can be globally competitive, innovative, and resilient -- without concentrating wealth.
+- **Why it matters:** Proof that distributed ownership works at scale. Survived the 2008 financial crisis while surrounding companies collapsed. Demonstrates that worker-owned enterprises can be globally competitive, innovative, and resilient—without concentrating wealth.
 
 ### Costa Rica's Healthcare & Reforestation
 - **Domain(s):** Healthcare, Environment
@@ -71,10 +71,10 @@ title: "Inspirations"
 
 ### Social Prescribing (UK)
 - **Domain(s):** Healthcare, Community
-- **What:** NHS program where doctors prescribe community activities -- gardening, art classes, walking groups, volunteering, befriending services -- alongside or instead of medication.
+- **What:** NHS program where doctors prescribe community activities—gardening, art classes, walking groups, volunteering, befriending services—alongside or instead of medication.
 - **Why it matters:** Early evidence shows 28% reduction in GP visits and 24% reduction in emergency admissions in pilot areas. Proof that community is medicine, that social connection has measurable health effects, and that healthcare systems can address social determinants directly.
 
 ### Cohousing Movement
 - **Domain(s):** Community, Human Development
 - **What:** Intentional communities (originating in Denmark, now worldwide) where residents have private homes but share common spaces: kitchens, dining rooms, gardens, workshops. Designed to create connection through daily interaction rather than scheduled activities.
-- **Why it matters:** Residents consistently report lower loneliness, higher social support, and stronger community bonds than conventional housing. Demonstrates that community can be designed -- it doesn't have to be left to chance. A practical model for rebuilding the social fabric.
+- **Why it matters:** Residents consistently report lower loneliness, higher social support, and stronger community bonds than conventional housing. Demonstrates that community can be designed—it doesn't have to be left to chance. A practical model for rebuilding the social fabric.

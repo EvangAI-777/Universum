@@ -17,16 +17,16 @@
 - Homepage navigation improvements: breadcrumb label, back button visibility, nav label fix on initial load
 - Added commit and push best practices section to CLAUDE.md with logical-section guidance and pitfall documentation
 
-### Integrating Diagnostic Depth -- CHARLIE.md Changes Everything
+### Integrating Diagnostic Depth—CHARLIE.md Changes Everything
 
-Deepened every layer of the repo from uninformed diagnosis ("systems are broken") to informed diagnosis ("what if systems are working as designed?"). This is the repo doing what it says it does -- applying first-principles analysis with better diagnostic tools.
+Deepened every layer of the repo from uninformed diagnosis ("systems are broken") to informed diagnosis ("what if systems are working as designed?"). This is the repo doing what it says it does—applying first-principles analysis with better diagnostic tools.
 
 **Framework layer:**
-- `PRINCIPLES.md` -- Added "On the Operating Environment" section; revised "On Truth & Information" (managed truth, transparency is necessary but not sufficient) and "On Change" (the floor concept, building from ground the operating environment did not provide)
-- `METHODOLOGY.md` -- Revised step 1 to "what exists, what's actually happening, and why the design produces it"; added "The Diagnostic Principle" section ("what if nothing went wrong?"); added "not naive" acknowledgment
-- `CONNECTIONS.md` -- Rewrote "The Foundational Connection" to elevate CHARLIE.md from biographical context to diagnostic foundation; added "The Counter-Pattern" subsection (every leverage point is also a capture point)
+- `PRINCIPLES.md`—Added "On the Operating Environment" section; revised "On Truth & Information" (managed truth, transparency is necessary but not sufficient) and "On Change" (the floor concept, building from ground the operating environment did not provide)
+- `METHODOLOGY.md`—Revised step 1 to "what exists, what's actually happening, and why the design produces it"; added "The Diagnostic Principle" section ("what if nothing went wrong?"); added "not naive" acknowledgment
+- `CONNECTIONS.md`—Rewrote "The Foundational Connection" to elevate CHARLIE.md from biographical context to diagnostic foundation; added "The Counter-Pattern" subsection (every leverage point is also a capture point)
 
-**All 9 domains** -- Each received a "deeper pattern" paragraph in "What's Broken" and a new open question:
+**All 9 domains**—Each received a "deeper pattern" paragraph in "What's Broken" and a new open question:
 - Economics: poverty as intentional infrastructure, GDP measuring what the operating environment values
 - Human Development: the "almost" as design, comfort without fulfillment as management
 - Justice: appearance of justice protecting injustice, enforcement asymmetry as feature
@@ -38,16 +38,16 @@ Deepened every layer of the repo from uninformed diagnosis ("systems are broken"
 - Community: isolation as feature at full maturity, third places dismantled as signal infrastructure
 
 **Support files:**
-- `CLAUDE.md` -- Revised Author Context: CHARLIE.md is the diagnostic framework informing domain analysis, not just interpersonal interaction
-- `CONTRIBUTING.md` -- Added CHARLIE.md diagnostic frameworks to Philosophy and Philosophical Alignment sections
-- `index.md` -- Elevated CHARLIE.md to co-equal foundational document alongside the Declaration; added diagnostic depth paragraph
-- `domains/_template.md` -- Added deeper diagnostic question to "What's Broken" comment block
-- `meta/glossary.md` -- Added 5 new terms: The Almost, Absorption, The Floor, Managed Truth, The Operating Environment
-- `README.md` -- Elevated CHARLIE.md to co-equal foundational document with full contents summary; added diagnostic depth paragraph, informed diagnosis and floor concepts to Philosophy; added CHARLIE to cross-cutting documents list
+- `CLAUDE.md`—Revised Author Context: CHARLIE.md is the diagnostic framework informing domain analysis, not just interpersonal interaction
+- `CONTRIBUTING.md`—Added CHARLIE.md diagnostic frameworks to Philosophy and Philosophical Alignment sections
+- `index.md`—Elevated CHARLIE.md to co-equal foundational document alongside the Declaration; added diagnostic depth paragraph
+- `domains/_template.md`—Added deeper diagnostic question to "What's Broken" comment block
+- `meta/glossary.md`—Added 5 new terms: The Almost, Absorption, The Floor, Managed Truth, The Operating Environment
+- `README.md`—Elevated CHARLIE.md to co-equal foundational document with full contents summary; added diagnostic depth paragraph, informed diagnosis and floor concepts to Philosophy; added CHARLIE to cross-cutting documents list
 
 ## 2026-03-27
 
-- Created CLAUDE.md -- consolidated AI assistant context file with philosophical requirements, content standards, formatting rules, technical details, and common pitfalls
+- Created CLAUDE.md—consolidated AI assistant context file with philosophical requirements, content standards, formatting rules, technical details, and common pitfalls
 - Excluded CLAUDE.md from Jekyll build in _config.yml
 
 ## 2026-03-17
@@ -63,7 +63,7 @@ Deepened every layer of the repo from uninformed diagnosis ("systems are broken"
 - Filled all five remaining domains with substantive content: economics, education, healthcare, environment, and community
 - Each domain now has: systemic analysis (What's Broken), first principles, 2-3 concrete proposals with precedents, real-world examples (What Already Works), and open questions
 - Populated glossary with 22 key terms used across domains (substrate independence, piecemeal ethics, third place, true-cost accounting, etc.)
-- Completed reading list with references for all 9 domains -- books, papers, and resources that inform each domain's analysis
+- Completed reading list with references for all 9 domains—books, papers, and resources that inform each domain's analysis
 - Added 7 new inspirations: Mondragon Corporation, Costa Rica's healthcare & reforestation, Whanganui River legal personhood, Wales Future Generations Commissioner, social prescribing (UK), and cohousing movement
 - Updated README status: all 9 domains now "In Progress"
 - Added Jekyll front matter (layout + title) to all markdown files for proper browser tab titles
