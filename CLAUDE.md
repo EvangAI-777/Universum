@@ -34,7 +34,7 @@
 4. **Create the .md file** with Jekyll front matter (`layout: default`, `title: "..."`), formatted to match the destination directory.
 5. **Commit the new file alone.** One commit per file. Message: `add [FILENAME] to [directory]/`
 6. **Push.**
-7. **Ask Charlie** what to do with the source file in `new/`. Options: delete it, leave it in `new/` (acceptable—`new/` can hold originals), or other. Do not assume or act without asking.
+7. **Ask Charlie** what to do with the source file in `new/`. Options: delete it, leave it in `new/` (acceptable—`new/` can hold originals), or other. Do not assume or act without asking. **Skip this step entirely if content was pasted inline** — no source file exists, so there is nothing to ask about.
 8. **Update all required files** (see checklists below). Commit navigation + README + index together. Commit conditional updates separately.
 9. **Push** after each commit group.
 
