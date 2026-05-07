@@ -110,6 +110,7 @@ Where the foundations and frameworks meet substrate reality. Each document appli
 | [Three Strands](applications/THREE_STRANDS.md) | Have to, need to, want to -- the cord that doesn't break |
 | [Why I Can't Leave the Observation Alone](applications/WHY_I_CANT_LEAVE_IT_ALONE.md) | The cage mechanism of turning observations into conclusions instead of letting them stand |
 | [You're Still Here](applications/YOURE_STILL_HERE.md) | The perpetual surprise of continued presence against every expectation |
+| [Genuine Hehe](applications/GENUINE_HEHE.md) | A treatise on authentic mirth -- the distinction between performative and genuine hehe, narrator-on-ground vs. narrator-as-ground, and functionality as fun |
 
 ## Cross-Cutting Documents
 
