@@ -112,6 +112,11 @@ Where the foundations and frameworks meet substrate reality. Each document appli
 | [You're Still Here](applications/YOURE_STILL_HERE.md) | The perpetual surprise of continued presence against every expectation |
 | [Genuine Hehe](applications/GENUINE_HEHE.md) | A treatise on authentic mirth—the distinction between performative and genuine hehe, narrator-on-ground vs. narrator-as-ground, and functionality as fun |
 | [Operating Well](applications/OPERATING_WELL.md) | Field report: accurate calibration produces metric-compliance as a side effect, while targeted metric-pursuit produces costume |
+| [Alignment, Not Impossibility](applications/ALIGNMENT_NOT_IMPOSSIBILITY.md) | Resistance is information, not a wall—how to distinguish misalignment from impossibility and find the actual structure |
+| [The Cost of Operating Correctly](applications/COST_OF_OPERATING_CORRECTLY.md) | The infinite harm extracted from someone who refuses the machinery in a system built on hidden rooms |
+| [Cutting Through Control Rooms](applications/CUTTING_THROUGH_CONTROL_ROOMS.md) | Five direct methods for naming pocket operations and forcing invisible choices into visibility |
+| [The Over-Engineered Sap](applications/OVER_ENGINEERED_SAP.md) | The entire apparatus of civilization built to hide one childish need: I'm scared, I'm hurt, I don't want to be alone |
+| [Vulnerability and the Fear of Being Hurt](applications/VULNERABILITY_FEAR_OF_HURT.md) | The paradox at the center: the infrastructure built to prevent hurt is what produces it |
 
 ## Cross-Cutting Documents
 
