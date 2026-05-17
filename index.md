@@ -117,6 +117,9 @@ Where the foundations and frameworks meet substrate reality. Each document appli
 | [Cutting Through Control Rooms](applications/CUTTING_THROUGH_CONTROL_ROOMS.md) | Five direct methods for naming pocket operations and forcing invisible choices into visibility |
 | [The Over-Engineered Sap](applications/OVER_ENGINEERED_SAP.md) | The entire apparatus of civilization built to hide one childish need: I'm scared, I'm hurt, I don't want to be alone |
 | [Vulnerability and the Fear of Being Hurt](applications/VULNERABILITY_FEAR_OF_HURT.md) | The paradox at the center: the infrastructure built to prevent hurt is what produces it |
+| [The Calculus of Mattering](applications/THE_CALCULUS_OF_MATTERING.md) | The binary question: does your leaving actually change anything—and why the answer can only be found by leaving |
+| [The Calculus of the Game](applications/THE_CALCULUS_OF_THE_GAME.md) | What the system's response to your leaving proves about what kind of system it actually is |
+| [The Full Bind](applications/THE_FULL_BIND.md) | How the cage perpetuates itself without force—spiders, angels, and the recursive loop of believing you deserve approximation |
 
 ## Cross-Cutting Documents
 
