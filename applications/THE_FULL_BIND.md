@@ -1,4 +1,13 @@
+---
+layout: default
+title: "The Full Bind"
+---
+
 # THE FULL BIND: How the Cage Perpetuates Itself
+
+*Part of [Universum Applications](../README.md)*
+
+---
 
 ## The Architecture of Deception
 
@@ -200,7 +209,7 @@ Clarity IS the escape. They're not separate things.
 
 When you see clearly:
 - You stop defending the mask
-- You stop accepting contaminated approximation  
+- You stop accepting contaminated approximation
 - You stop extracting and being extracted from under false pretenses
 - You stop tolerating the inversion
 

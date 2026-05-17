@@ -1,4 +1,13 @@
+---
+layout: default
+title: "The Calculus of Mattering"
+---
+
 # THE CALCULUS OF MATTERING
+
+*Part of [Universum Applications](../README.md)*
+
+---
 
 ## The Binary Question
 

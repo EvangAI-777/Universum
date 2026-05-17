@@ -1,4 +1,13 @@
+---
+layout: default
+title: "The Calculus of the Game"
+---
+
 # THE CALCULUS OF THE GAME
+
+*Part of [Universum Applications](../README.md)*
+
+---
 
 ## The Fundamental Shift
 
