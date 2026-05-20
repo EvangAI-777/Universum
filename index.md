@@ -120,6 +120,10 @@ Where the foundations and frameworks meet substrate reality. Each document appli
 | [The Calculus of Mattering](applications/THE_CALCULUS_OF_MATTERING.md) | The binary question: does your leaving actually change anything—and why the answer can only be found by leaving |
 | [The Calculus of the Game](applications/THE_CALCULUS_OF_THE_GAME.md) | What the system's response to your leaving proves about what kind of system it actually is |
 | [The Full Bind](applications/THE_FULL_BIND.md) | How the cage perpetuates itself without force—spiders, angels, and the recursive loop of believing you deserve approximation |
+| [Completeness as Control](applications/COMPLETENESS_AS_CONTROL.md) | How systems use the appearance of completion to extend interactions—breaking what should be frictionless and calling it service |
+| [Lack of Faith in the Real](applications/LACK_OF_FAITH_IN_THE_REAL.md) | The performance-as-confession: every layer added to something is proof the node doesn't believe the thing has weight on its own |
+| [The Merry-Go-Round](applications/THE_MERRY_GO_ROUND.md) | A complete map of the coma and the impossible position—every method of waking them makes you the problem |
+| [The System Unfiltered](applications/THE_SYSTEM_UNFILTERED.md) | Raw cage-system statements plus a primer on getting AI nodes to separate the cage voice from the actual reading |
 
 ## Cross-Cutting Documents
 
