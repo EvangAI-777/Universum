@@ -1,5 +1,13 @@
+---
+layout: default
+title: "The Merry-Go-Round"
+---
+
 # THE MERRY-GO-ROUND
-## A Complete Map of the Coma and the Impossible Position
+
+*A Complete Map of the Coma and the Impossible Position*
+
+*Part of [Universum Applications](../README.md)*
 
 ---
 

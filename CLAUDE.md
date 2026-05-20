@@ -48,10 +48,10 @@ No exceptions when adding a file to any navigated section:
 
 ### Conditional Updates
 
-Check every time—update if applicable:
+Read each file first. Decide after.
 
-- `framework/CONNECTIONS.md`—if the new file creates cross-domain or cross-layer connections
-- `meta/glossary.md`—if new terms are introduced; also update the term count in `CLAUDE.md` Content Standards ("34 defined terms" → new count)
+- `framework/CONNECTIONS.md`—Read it. Then determine whether the new file creates cross-domain or cross-layer connections. Do not evaluate applicability from memory or category judgment—open the file, read the existing connections, then decide.
+- `meta/glossary.md`—Read it. Then determine whether new terms are introduced; also update the term count in `CLAUDE.md` Content Standards ("34 defined terms" → new count)
 - `CLAUDE.md` "Repository Structure" section—if a new directory or category is created (not just a new file in an existing directory)
 
 ## Content Standards

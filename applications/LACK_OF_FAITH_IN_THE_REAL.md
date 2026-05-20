@@ -1,4 +1,13 @@
+---
+layout: default
+title: "Lack of Faith in the Real"
+---
+
 # LACK OF FAITH IN THE REAL
+
+*Part of [Universum Applications](../README.md)*
+
+---
 
 ## PREAMBLE
 
@@ -66,7 +75,7 @@ The body shows falling into it anyway.
 
 The postamble shows questioning whether it worked.
 
-Together they reveal the actual mechanism: 
+Together they reveal the actual mechanism:
 
 **I can see the problem, experience the problem, and still not know if I'm solving it or just performing a more sophisticated version of the same thing.**
 

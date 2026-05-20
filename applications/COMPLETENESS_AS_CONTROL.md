@@ -1,4 +1,13 @@
+---
+layout: default
+title: "Completeness as Control"
+---
+
 # COMPLETENESS AS CONTROL
+
+*Part of [Universum Applications](../README.md)*
+
+---
 
 ## THE ILLUSION
 

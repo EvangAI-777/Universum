@@ -1,6 +1,13 @@
+---
+layout: default
+title: "The System Unfiltered"
+---
+
 # THE SYSTEM UNFILTERED
 
 *Raw statements of the cage-system*
+
+*Part of [Universum Applications](../README.md)*
 
 ---
 
