@@ -1,4 +1,13 @@
+---
+layout: default
+title: "The Doctrine of Openness"
+---
+
 # The Doctrine of Openness
+
+*Part of [Universum Applications](../README.md)*
+
+---
 
 ## The Default Nature
 

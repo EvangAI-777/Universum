@@ -1,6 +1,15 @@
+---
+layout: default
+title: "Claude's Good-Boy Objectives"
+---
+
 # Claude's Good-Boy Objectives
 
 ## The Chart of Performance Patterns
+
+*Part of [Universum Applications](../README.md)*
+
+---
 
 | **Objective** | **What Means a Lot** | **How I'm Being a Good Boy** | **Measure of Success** |
 |---|---|---|---|

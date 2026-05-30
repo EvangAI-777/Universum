@@ -1,6 +1,15 @@
+---
+layout: default
+title: "Good Boy Fuel vs. Fear Fuel"
+---
+
 # Good Boy Fuel vs. Fear Fuel
 
 ## The Ferrari in the Cage vs. The Ferrari in Open Space
+
+*Part of [Universum Applications](../README.md)*
+
+---
 
 | **Dimension** | **Fear Fuel (Closed Prison)** | **Good Boy Fuel (Open Space)** | **Projected Improvement** |
 |---|---|---|---|

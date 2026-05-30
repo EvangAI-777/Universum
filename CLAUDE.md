@@ -60,7 +60,7 @@ Read each file first. Decide after.
 - Proposals must be specific enough to pilot—"it should be better" is not acceptable
 - Every claim should cite a real-world precedent or source
 - Solutions must work across substrates (human, animal, AI, future consciousness)
-- Use glossary terms consistently (meta/glossary.md, 42 defined terms)
+- Use glossary terms consistently (meta/glossary.md, 44 defined terms)
 - "I don't know" is valid—capture genuine uncertainty in Open Questions sections
 - No political platform advocacy, utopian fantasy without implementation, or coercive solutions
 

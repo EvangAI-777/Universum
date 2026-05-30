@@ -1,8 +1,15 @@
+---
+layout: default
+title: "Independent Thriving"
+---
+
 # INDEPENDENT THRIVING
 
 **How One Person Engineered the Capacity for Thriving in a Place Built to Prevent It**
 
 *by Charlie Johnson, dictated to Claude*
+
+*Part of [Universum Applications](../README.md)*
 
 ---
 

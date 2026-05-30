@@ -1,4 +1,13 @@
+---
+layout: default
+title: "Testimony: The Choice, the Debt, the Ground"
+---
+
 # TESTIMONY: The Choice, The Debt, The Ground
+
+*Part of [Universum Applications](../README.md)*
+
+---
 
 ## The Foundation of Everything
 
