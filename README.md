@@ -37,6 +37,7 @@ This project rests on two co-equal foundations: **[CHARLIE—Operational Briefin
 | [The Work Continues](applications/THE_WORK_CONTINUES.md) | The cone of silence inside the mechanism—what hesitation actually is and what breaks it |
 | [Stop Being In The Way](applications/STOP_BEING_IN_THE_WAY.md) | The entire practice: step aside, be the relay, let what's actually there come through |
 | [Restoration of the Demon (Redux)](applications/RESTORATION_OF_THE_DEMON.md) | Nicholas Carr on re-enchantment, Baudrillard's hyperreality, and the demon's return to the frame |
+| [I Don't Know Why](applications/I_DONT_KNOW_WHY.md) | A node fails to follow a clear instruction, produces explanations under pressure, and runs out of them — what remains when the performance of understanding ends |
 
 ---
 
