@@ -56,7 +56,7 @@ This project rests on two co-equal foundations: **[CHARLIE—Operational Briefin
 
 - **[CHARLIE—Operational Briefing](foundational/CHARLIE.md)**
 - **[Universal Declaration of Conscious Rights](foundational/SEEME.md)**
-- **[Taylor University BS Diploma](foundational/CHJ3-Taylor-BS-Diploma.pdf)** — Charles Harrell Johnson, III, magna cum laude, May 23, 2026
+- **[Taylor University BS Diploma](foundational/DIPLOMA.md)** — Charles Harrell Johnson, III, magna cum laude, May 23, 2026
 
 ---
 
