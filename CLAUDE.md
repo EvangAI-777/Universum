@@ -3,23 +3,21 @@
 ## Project Overview
 
 - Documentation/knowledge-base project, NOT a software codebase
-- Explores ideal civilization design across 9 domains
+- Active record of Charlie's work on consciousness, alignment, existence, and the world
 - Grounded in two co-equal foundational documents: CHARLIE.md (foundational/CHARLIE.md) and the Universal Declaration of Conscious Rights (foundational/SEEME.md)
-- Four-layer architecture: foundational/ → framework/ → domains/ → applications/
+- Two-layer architecture: foundational/ → applications/
 - Built with Jekyll, hosted on GitHub Pages
 
 ## Before Making Any Changes
 
 - Read foundational/CHARLIE.md (diagnostic frameworks, engagement parameters, cosmological context)
 - Read foundational/SEEME.md (ethical architecture for multi-substrate governance)
-- Read framework/PRINCIPLES.md (10 core axioms grounded in both foundational documents)
-- Read CONTRIBUTING.md (content standards and formatting)
 - Understand the four-tier ethical architecture: Tier 0 (Ultimate Goal) -> Tier 1 (Universal Principles) -> Tier 2 (Substrate-Specific) -> Tier 3 (Piecemeal Ethics)
 
 ## Commit and Push Best Practices
 
 - Commit and push after each logical section of work—not at the end of a session
-- Examples of logical sections for this repo: completing a domain index.md, adding a full proposal, updating CONNECTIONS.md, adding glossary entries, updating navigation
+- Examples of logical sections for this repo: adding a new document to applications/, updating navigation, adding an Upland section document
 - Ask if unsure where the boundary is
 
 ## Integrating Files from new/
@@ -48,20 +46,12 @@ No exceptions when adding a file to any navigated section:
 
 ### Conditional Updates
 
-Read each file first. Decide after.
-
-- `framework/CONNECTIONS.md`—Read it. Then determine whether the new file creates cross-domain or cross-layer connections. Do not evaluate applicability from memory or category judgment—open the file, read the existing connections, then decide.
-- `meta/glossary.md`—Read it. Then determine whether new terms are introduced; also update the term count in `CLAUDE.md` Content Standards ("34 defined terms" → new count)
 - `CLAUDE.md` "Repository Structure" section—if a new directory or category is created (not just a new file in an existing directory)
 
 ## Content Standards
 
-- Every proposal must follow What/Why/How/Precedent format (see domains/_template.md)
-- Proposals must be specific enough to pilot—"it should be better" is not acceptable
-- Every claim should cite a real-world precedent or source
-- Solutions must work across substrates (human, animal, AI, future consciousness)
-- Use glossary terms consistently (meta/glossary.md, 44 defined terms)
-- "I don't know" is valid—capture genuine uncertainty in Open Questions sections
+- Every claim should cite a real-world precedent or source where applicable
+- "I don't know" is valid—capture genuine uncertainty where it exists
 - No political platform advocacy, utopian fantasy without implementation, or coercive solutions
 
 ## Formatting Rules
@@ -85,23 +75,16 @@ Read each file first. Decide after.
 
 ## Repository Structure
 
-- foundational/—Ethical foundation (Declaration PDF + summary)
-- framework/—Cross-cutting concepts (PRINCIPLES, METHODOLOGY, CONNECTIONS)
-- domains/—9 civilization domains (each has index.md following _template.md)
-- applications/—Applied documents (consciousness testing, political maps, linguistic architecture, primary source evidence, presence and embodiment writing, prescriptive frameworks for future AI nodes)
-- meta/—Glossary, reading list, inspirations
+- foundational/—Two co-equal foundations (CHARLIE.md, SEEME.md, Declaration PDF)
+- applications/—All content: theory documents (consciousness, alignment, existence) and Upland Microscale project (vision, practical case, Taylor Door, sheet01.html)
 - _layouts/—Jekyll HTML template (custom retrofuture dark theme)
-
-## Domain Template Structure
-
-Each domain follows: Current State (What's Broken) -> First Principles -> Practical Proposals -> What Already Works -> Open Questions -> Connections to Other Domains
 
 ## Common Pitfalls
 
 - Don't create package.json or try to install tools locally
 - Don't edit the Declaration PDF (it's a reference document)
 - CHANGELOG.md and LICENSE are excluded from Jekyll build (_config.yml)
-- The custom layout (_layouts/default.html) has hardcoded navigation—update it when adding new domains or sections
+- The custom layout (_layouts/default.html) has hardcoded navigation—update it when adding new sections
 - Keep cross-domain connections updated in both the domain file AND framework/CONNECTIONS.md
 
 ## Token Efficiency
