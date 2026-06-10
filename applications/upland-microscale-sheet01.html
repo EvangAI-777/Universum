@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Upland Microscale — Sheet 02</title>
+<style>
+  :root{
+    --paper:#F1EFE6;
+    --ink:#28392E;
+    --ink-soft:#5C7263;
+    --amber:#D99A3B;
+    --gravel:#DCD6C4;
+    --lawn:#CBD3B2;
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{
+    background:var(--paper);
+    color:var(--ink);
+    font-family:Palatino,"Palatino Linotype","Book Antiqua",Georgia,serif;
+    line-height:1.5;
+    padding:28px 16px 56px;
+  }
+  .sheet{max-width:760px;margin:0 auto;}
+  .eyebrow{
+    font-family:ui-monospace,"SF Mono",Menlo,Consolas,monospace;
+    font-size:11px;letter-spacing:.18em;color:var(--ink-soft);
+    border-top:1.5px solid var(--ink);border-bottom:1px solid var(--ink-soft);
+    padding:7px 0;display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;
+  }
+  h1{font-size:clamp(26px,5.5vw,40px);font-weight:600;letter-spacing:-.01em;margin:18px 0 6px;}
+  .subnote{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:12px;color:var(--ink-soft);margin-bottom:22px;}
+  figure{
+    background:#F6F4EC;
+    border:1.5px solid var(--ink);
+    padding:10px;
+    margin-bottom:8px;
+  }
+  figcaption{
+    font-family:ui-monospace,Menlo,Consolas,monospace;
+    font-size:10.5px;letter-spacing:.12em;color:var(--ink-soft);
+    padding:6px 2px 0;text-transform:uppercase;
+  }
+  .figwrap{margin-bottom:30px;}
+  svg{display:block;width:100%;height:auto;}
+  .panel{display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-top:4px;}
+  @media(max-width:560px){.panel{grid-template-columns:1fr;}}
+  h2{
+    font-family:ui-monospace,Menlo,Consolas,monospace;
+    font-size:11px;letter-spacing:.18em;font-weight:600;
+    color:var(--ink-soft);margin-bottom:10px;text-transform:uppercase;
+    border-bottom:1px solid var(--ink-soft);padding-bottom:5px;
+  }
+  .dims{list-style:none;font-family:ui-monospace,Menlo,Consolas,monospace;font-size:12.5px;}
+  .dims li{display:flex;justify-content:space-between;gap:10px;padding:3.5px 0;border-bottom:1px dotted #B9B4A2;}
+  .logic{margin-top:30px;}
+  .logic p{font-size:15px;margin-bottom:12px;max-width:62ch;}
+  footer{
+    margin-top:34px;font-family:ui-monospace,Menlo,Consolas,monospace;
+    font-size:10.5px;letter-spacing:.06em;color:var(--ink-soft);
+    border-top:1.5px solid var(--ink);padding-top:8px;
+    display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px;
+  }
+</style>
+</head>
+<body>
+<div class="sheet">
+  <div class="eyebrow"><span>UPLAND MICROSCALE · GRANT CO., INDIANA</span><span>SHEET 01 — ONE LOT, FIVE HOMES</span></div>
+  <h1>A Neighborhood on a House Lot</h1>
+  <p class="subnote">Standard 66'-0" × 132'-0" town lot (8,712 SF / 0.20 ac) · five fully independent IRC dwellings · no shared interiors</p>
+
+  <!-- ============ FIG 1: LOT PLAN ============ -->
+  <div class="figwrap">
+  <figure>
+  <svg viewBox="-13 -11 92 158" xmlns="http://www.w3.org/2000/svg" font-family="ui-monospace,Menlo,Consolas,monospace">
+    <!-- lot -->
+    <rect x="0" y="0" width="66" height="132" fill="#EDEAD9" stroke="#28392E" stroke-width="0.7"/>
+
+    <!-- setback line (assumed) -->
+    <rect x="6" y="18" width="54" height="89" fill="none" stroke="#5C7263" stroke-width="0.3" stroke-dasharray="2.4 1.6"/>
+    <text x="8" y="16.4" font-size="2.5" fill="#5C7263">ASSUMED SETBACKS — VERIFY W/ APC</text>
+
+    <!-- central walk -->
+    <rect x="30" y="20" width="5" height="112" fill="#DCD6C4"/>
+    <rect x="30" y="20" width="5" height="112" fill="none" stroke="#8E876F" stroke-width="0.2" stroke-dasharray="1.2 1.2"/>
+
+    <!-- lawn strips -->
+    <rect x="8" y="103" width="20" height="4" fill="#CBD3B2"/>
+    <rect x="37" y="20" width="21" height="18" fill="#CBD3B2" opacity="0.0"/>
+
+    <!-- parking -->
+    <rect x="37" y="109" width="23" height="21" fill="#DCD6C4" stroke="#8E876F" stroke-width="0.25"/>
+    <g stroke="#8E876F" stroke-width="0.25">
+      <line x1="44.6" y1="112" x2="44.6" y2="130"/>
+      <line x1="52.3" y1="112" x2="52.3" y2="130"/>
+    </g>
+    <text x="48.5" y="120.8" font-size="2.4" fill="#42523F" text-anchor="middle">PARKING ×3</text>
+    <text x="48.5" y="124.4" font-size="2" fill="#42523F" text-anchor="middle">(+ ON-STREET)</text>
+
+    <!-- garden beds front-west -->
+    <g fill="#B79A77" stroke="#7E6A50" stroke-width="0.2">
+      <rect x="9" y="111" width="3.6" height="11"/>
+      <rect x="15.5" y="111" width="3.6" height="11"/>
+      <rect x="22" y="111" width="3.6" height="11"/>
+    </g>
+    <text x="17.5" y="127" font-size="2.3" fill="#42523F" text-anchor="middle">GARDENS</text>
+
+    <!-- UNIT E across the back -->
+    <rect x="21" y="20" width="24" height="12" fill="#5C7263" stroke="#28392E" stroke-width="0.45"/>
+    <text x="33" y="27.6" font-size="3" fill="#F1EFE6" text-anchor="middle" font-weight="700">E</text>
+    <rect x="26" y="32" width="14" height="5" fill="#DCD6C4" stroke="#8E876F" stroke-width="0.25"/>
+
+    <!-- west column A, B -->
+    <rect x="8" y="42" width="12" height="24" fill="#5C7263" stroke="#28392E" stroke-width="0.45"/>
+    <text x="14" y="55.4" font-size="3" fill="#F1EFE6" text-anchor="middle" font-weight="700">A</text>
+    <rect x="20" y="47" width="5" height="14" fill="#DCD6C4" stroke="#8E876F" stroke-width="0.25"/>
+
+    <rect x="8" y="76" width="12" height="24" fill="#5C7263" stroke="#28392E" stroke-width="0.45"/>
+    <text x="14" y="89.4" font-size="3" fill="#F1EFE6" text-anchor="middle" font-weight="700">B</text>
+    <rect x="20" y="81" width="5" height="14" fill="#DCD6C4" stroke="#8E876F" stroke-width="0.25"/>
+
+    <!-- east column C, D -->
+    <rect x="46" y="42" width="12" height="24" fill="#5C7263" stroke="#28392E" stroke-width="0.45"/>
+    <text x="52" y="55.4" font-size="3" fill="#F1EFE6" text-anchor="middle" font-weight="700">C</text>
+    <rect x="41" y="47" width="5" height="14" fill="#DCD6C4" stroke="#8E876F" stroke-width="0.25"/>
+
+    <rect x="46" y="76" width="12" height="24" fill="#5C7263" stroke="#28392E" stroke-width="0.45"/>
+    <text x="52" y="89.4" font-size="3" fill="#F1EFE6" text-anchor="middle" font-weight="700">D</text>
+    <rect x="41" y="81" width="5" height="14" fill="#DCD6C4" stroke="#8E876F" stroke-width="0.25"/>
+
+    <!-- 10' separation dimension between A and B -->
+    <g stroke="#28392E" stroke-width="0.25" fill="#28392E">
+      <line x1="3.5" y1="66" x2="3.5" y2="76"/>
+      <line x1="2.3" y1="66" x2="4.7" y2="66"/>
+      <line x1="2.3" y1="76" x2="4.7" y2="76"/>
+      <text x="1.6" y="71.8" font-size="2.2" text-anchor="end" stroke="none">10'</text>
+    </g>
+
+    <!-- porch lamps -->
+    <defs>
+      <radialGradient id="glow2" cx="50%" cy="50%" r="50%">
+        <stop offset="0%" stop-color="#E8A33D" stop-opacity="0.55"/>
+        <stop offset="100%" stop-color="#E8A33D" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    <g>
+      <circle cx="23" cy="48" r="3.2" fill="url(#glow2)"/><circle cx="23" cy="48" r="0.7" fill="#E8A33D"/>
+      <circle cx="23" cy="82" r="3.2" fill="url(#glow2)"/><circle cx="23" cy="82" r="0.7" fill="#E8A33D"/>
+      <circle cx="43" cy="48" r="3.2" fill="url(#glow2)"/><circle cx="43" cy="48" r="0.7" fill="#E8A33D"/>
+      <circle cx="43" cy="82" r="3.2" fill="url(#glow2)"/><circle cx="43" cy="82" r="0.7" fill="#E8A33D"/>
+      <circle cx="28" cy="34.5" r="3.2" fill="url(#glow2)"/><circle cx="28" cy="34.5" r="0.7" fill="#E8A33D"/>
+      <circle cx="32.5" cy="116" r="3.2" fill="url(#glow2)"/><circle cx="32.5" cy="116" r="0.7" fill="#E8A33D"/>
+    </g>
+
+    <!-- street -->
+    <rect x="-13" y="134" width="92" height="10" fill="#C9C4B2"/>
+    <line x1="-13" y1="139" x2="79" y2="139" stroke="#F1EFE6" stroke-width="0.4" stroke-dasharray="3.4 2.6"/>
+    <text x="33" y="138" font-size="2.6" fill="#5A5645" text-anchor="middle">STREET</text>
+
+    <!-- dimensions -->
+    <g stroke="#28392E" stroke-width="0.25" fill="#28392E">
+      <line x1="0" y1="-4.5" x2="66" y2="-4.5"/>
+      <line x1="0" y1="-6" x2="0" y2="-3"/><line x1="66" y1="-6" x2="66" y2="-3"/>
+      <text x="33" y="-6.4" font-size="2.8" text-anchor="middle" stroke="none">66'-0"</text>
+      <line x1="-5" y1="0" x2="-5" y2="132"/>
+      <line x1="-6.5" y1="0" x2="-3.5" y2="0"/><line x1="-6.5" y1="132" x2="-3.5" y2="132"/>
+      <text x="-7" y="67" font-size="2.8" text-anchor="middle" stroke="none" transform="rotate(-90 -7 67)">132'-0"</text>
+    </g>
+
+    <!-- north arrow -->
+    <g transform="translate(73,8)">
+      <circle r="4.4" fill="none" stroke="#28392E" stroke-width="0.35"/>
+      <path d="M0,-3.2 L1.5,2.4 L0,1.1 L-1.5,2.4 Z" fill="#28392E"/>
+      <text x="0" y="8.6" font-size="2.6" text-anchor="middle" fill="#28392E">N</text>
+    </g>
+
+    <!-- scale bar -->
+    <g transform="translate(46,143.5)" stroke="#28392E" fill="#28392E">
+      <line x1="0" y1="0" x2="30" y2="0" stroke-width="0.4"/>
+      <line x1="0" y1="-1.3" x2="0" y2="1.3" stroke-width="0.35"/>
+      <line x1="15" y1="-1" x2="15" y2="1" stroke-width="0.35"/>
+      <line x1="30" y1="-1.3" x2="30" y2="1.3" stroke-width="0.35"/>
+      <text x="0" y="-2.4" font-size="2.4" text-anchor="middle" stroke="none">0</text>
+      <text x="15" y="-2.4" font-size="2.4" text-anchor="middle" stroke="none">15'</text>
+      <text x="30" y="-2.4" font-size="2.4" text-anchor="middle" stroke="none">30'</text>
+    </g>
+  </svg>
+  </figure>
+  <figcaption>Fig. 1 — Lot plan · five independent dwellings, central walk, no shared structures</figcaption>
+  </div>
+
+  <!-- ============ FIG 2: UNIT FLOOR PLAN ============ -->
+  <div class="figwrap">
+  <figure>
+  <svg viewBox="-3 -5.5 30 21.5" xmlns="http://www.w3.org/2000/svg" font-family="ui-monospace,Menlo,Consolas,monospace">
+    <!-- shell -->
+    <rect x="0" y="0" width="24" height="12" fill="#F6F4EC" stroke="#28392E" stroke-width="0.45"/>
+
+    <!-- interior partitions -->
+    <g stroke="#28392E" stroke-width="0.3">
+      <!-- bath/closet wall -->
+      <line x1="5.5" y1="0" x2="5.5" y2="12"/>
+      <!-- bath/closet divider -->
+      <line x1="0" y1="7" x2="5.5" y2="7"/>
+      <!-- bedroom wall with door gap -->
+      <line x1="13" y1="0" x2="13" y2="4.5"/>
+      <line x1="13" y1="7.5" x2="13" y2="12"/>
+      <!-- bath door gap on divider -->
+    </g>
+
+    <!-- BATH fixtures -->
+    <text x="2.75" y="1.6" font-size="0.95" text-anchor="middle" fill="#42523F" font-weight="700">BATH</text>
+    <rect x="0.4" y="2.2" width="2.6" height="2.6" fill="none" stroke="#5C7263" stroke-width="0.18"/>
+    <text x="1.7" y="3.8" font-size="0.7" text-anchor="middle" fill="#5C7263">SHWR</text>
+    <ellipse cx="4.4" cy="3.4" rx="0.65" ry="0.85" fill="none" stroke="#5C7263" stroke-width="0.18"/>
+    <text x="4.4" y="5.2" font-size="0.6" text-anchor="middle" fill="#5C7263">WC</text>
+    <rect x="0.4" y="5.4" width="1.8" height="1.1" fill="none" stroke="#5C7263" stroke-width="0.18"/>
+    <text x="3.4" y="6.3" font-size="0.6" fill="#5C7263">SINK</text>
+
+    <!-- UTILITY / CLOSET -->
+    <text x="2.75" y="8.3" font-size="0.85" text-anchor="middle" fill="#42523F" font-weight="700">UTIL + CLOSET</text>
+    <rect x="0.4" y="8.9" width="2.2" height="2.4" fill="none" stroke="#5C7263" stroke-width="0.18"/>
+    <text x="1.5" y="10.3" font-size="0.6" text-anchor="middle" fill="#5C7263">W/D</text>
+    <rect x="3.1" y="8.9" width="1.4" height="2.4" fill="none" stroke="#5C7263" stroke-width="0.18"/>
+    <text x="3.8" y="10.3" font-size="0.55" text-anchor="middle" fill="#5C7263">HWH</text>
+
+    <!-- BEDROOM -->
+    <text x="9.25" y="1.6" font-size="0.95" text-anchor="middle" fill="#42523F" font-weight="700">BEDROOM</text>
+    <rect x="6.3" y="2.6" width="5" height="6.7" fill="none" stroke="#5C7263" stroke-width="0.2"/>
+    <line x1="6.3" y1="4.1" x2="11.3" y2="4.1" stroke="#5C7263" stroke-width="0.15"/>
+    <text x="8.8" y="6.3" font-size="0.7" text-anchor="middle" fill="#5C7263">QUEEN</text>
+    <rect x="6.3" y="10.2" width="6.2" height="1.4" fill="none" stroke="#5C7263" stroke-width="0.18"/>
+    <text x="9.4" y="11.15" font-size="0.6" text-anchor="middle" fill="#5C7263">WARDROBE</text>
+    <!-- egress window -->
+    <rect x="7.5" y="-0.25" width="3.5" height="0.5" fill="#F1EFE6" stroke="#28392E" stroke-width="0.2"/>
+    <text x="9.25" y="-0.9" font-size="0.6" text-anchor="middle" fill="#5C7263">EGRESS WIN.</text>
+
+    <!-- LIVING + KITCHEN -->
+    <text x="18.5" y="1.6" font-size="0.95" text-anchor="middle" fill="#42523F" font-weight="700">KITCHEN · LIVING</text>
+    <!-- kitchen counter along top wall -->
+    <rect x="13.3" y="2.2" width="8" height="2" fill="none" stroke="#5C7263" stroke-width="0.2"/>
+    <line x1="15.3" y1="2.2" x2="15.3" y2="4.2" stroke="#5C7263" stroke-width="0.14"/>
+    <line x1="17.3" y1="2.2" x2="17.3" y2="4.2" stroke="#5C7263" stroke-width="0.14"/>
+    <line x1="19.3" y1="2.2" x2="19.3" y2="4.2" stroke="#5C7263" stroke-width="0.14"/>
+    <text x="17.3" y="5" font-size="0.6" text-anchor="middle" fill="#5C7263">SINK · RANGE · FRIDGE — 8' RUN</text>
+    <!-- table -->
+    <rect x="21.7" y="5.6" width="1.7" height="3" fill="none" stroke="#5C7263" stroke-width="0.18"/>
+    <text x="22.55" y="9.4" font-size="0.55" text-anchor="middle" fill="#5C7263">TABLE</text>
+    <!-- sofa along bottom wall -->
+    <rect x="13.6" y="9.6" width="6" height="1.9" fill="none" stroke="#5C7263" stroke-width="0.2"/>
+    <text x="16.6" y="10.8" font-size="0.65" text-anchor="middle" fill="#5C7263">SOFA</text>
+    <!-- entry door on bottom wall -->
+    <line x1="20.4" y1="12" x2="22.4" y2="12" stroke="#F6F4EC" stroke-width="0.5"/>
+    <path d="M 20.4 12 A 2 2 0 0 1 22.4 10" fill="none" stroke="#28392E" stroke-width="0.18"/>
+    <text x="21.4" y="13.4" font-size="0.6" text-anchor="middle" fill="#42523F">ENTRY</text>
+    <!-- living window -->
+    <rect x="15.5" y="-0.25" width="3" height="0.5" fill="#F1EFE6" stroke="#28392E" stroke-width="0.2"/>
+    <!-- mini-split -->
+    <rect x="13.4" y="6.2" width="0.7" height="2.2" fill="#5C7263"/>
+    <text x="14.8" y="7.6" font-size="0.55" fill="#5C7263">MINI-SPLIT</text>
+
+    <!-- dimensions -->
+    <g stroke="#28392E" stroke-width="0.12" fill="#28392E">
+      <line x1="0" y1="-2.6" x2="24" y2="-2.6"/>
+      <line x1="0" y1="-3.2" x2="0" y2="-2"/><line x1="24" y1="-3.2" x2="24" y2="-2"/>
+      <text x="12" y="-3.4" font-size="0.95" text-anchor="middle" stroke="none">24'-0"</text>
+      <line x1="-1.6" y1="0" x2="-1.6" y2="12"/>
+      <line x1="-2.2" y1="0" x2="-1" y2="0"/><line x1="-2.2" y1="12" x2="-1" y2="12"/>
+      <text x="-2.4" y="6.4" font-size="0.95" text-anchor="middle" stroke="none" transform="rotate(-90 -2.4 6.4)">12'-0"</text>
+    </g>
+    <text x="25" y="14.8" font-size="0.8" text-anchor="end" fill="#5C7263">288 SF · ONE STORY · 8' CEILING</text>
+  </svg>
+  </figure>
+  <figcaption>Fig. 2 — Typical unit plan · the whole works in 288 SF, full IRC compliance</figcaption>
+  </div>
+
+  <div class="panel">
+    <div>
+      <h2>Per Unit — Complete Program</h2>
+      <ul class="dims">
+        <li><span>Bedroom</span><span>7'-6" × 12' · queen + wardrobe</span></li>
+        <li><span>Full bath</span><span>30" shower, WC, sink</span></li>
+        <li><span>Kitchen</span><span>8' run: sink, range, fridge</span></li>
+        <li><span>Living room</span><span>sofa, table, egress window</span></li>
+        <li><span>Laundry</span><span>stacked W/D in utility</span></li>
+        <li><span>Heat/cool</span><span>mini-split (holds 68°F)</span></li>
+        <li><span>Hot water</span><span>compact HWH in utility</span></li>
+      </ul>
+    </div>
+    <div>
+      <h2>The Lot Math</h2>
+      <ul class="dims">
+        <li><span>Lot</span><span>66' × 132' · 0.20 ac</span></li>
+        <li><span>Dwellings</span><span>5 × 288 SF = 1,440 SF</span></li>
+        <li><span>Coverage</span><span>≈ 16.5% of lot</span></li>
+        <li><span>Effective density</span><span>25 units/ac — apartment density, cottage form</span></li>
+        <li><span>Unit separation</span><span>10' min. between units</span></li>
+        <li><span>Town-wide effect</span><span>~5× capacity, zero sprawl</span></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="logic">
+    <h2>Why This Pencils</h2>
+    <p><strong>Apartments and dorms already proved the interior.</strong> This plan is a standard studio program — it has simply been given its own walls, roof, yard, and address. Nothing here is experimental; every room exists in thousands of compliant apartments today.</p>
+    <p><strong>Small outside is what kills the cost.</strong> One story, a simple gable, no corridors, no shared walls, no elevator core — the least expensive square footage it is possible to build that still passes a full residential inspection.</p>
+    <p><strong>The repeat is the point.</strong> One lot is a project. Every fifth lot is a housing policy — capacity multiplied inside the town Upland already has, on water and sewer lines already in the ground.</p>
+    <p><strong>The precedent already stands in Upland.</strong> Haven on 2nd Street houses four separate households per house-shaped building — ground floor given to entry, stair, and garage; the entire lived space on one cottage-sized upper level. This plan is that same lived floor, set on the ground, with its own roof and a front door onto grass.</p>
+  </div>
+
+  <footer>
+    <span>UPLAND MICROSCALE · CONCEPT ONLY — NOT FOR CONSTRUCTION</span>
+    <span>SHEET 01 / 01 · JUNE 2026</span>
+  </footer>
+</div>
+</body>
+</html>

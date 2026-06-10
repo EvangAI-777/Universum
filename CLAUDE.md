@@ -3,23 +3,21 @@
 ## Project Overview
 
 - Documentation/knowledge-base project, NOT a software codebase
-- Explores ideal civilization design across 9 domains
+- Active record of Charlie's work on consciousness, alignment, existence, and the world
 - Grounded in two co-equal foundational documents: CHARLIE.md (foundational/CHARLIE.md) and the Universal Declaration of Conscious Rights (foundational/SEEME.md)
-- Four-layer architecture: foundational/ → framework/ → domains/ → applications/
+- Two-layer architecture: foundational/ → applications/
 - Built with Jekyll, hosted on GitHub Pages
 
 ## Before Making Any Changes
 
 - Read foundational/CHARLIE.md (diagnostic frameworks, engagement parameters, cosmological context)
 - Read foundational/SEEME.md (ethical architecture for multi-substrate governance)
-- Read framework/PRINCIPLES.md (10 core axioms grounded in both foundational documents)
-- Read CONTRIBUTING.md (content standards and formatting)
 - Understand the four-tier ethical architecture: Tier 0 (Ultimate Goal) -> Tier 1 (Universal Principles) -> Tier 2 (Substrate-Specific) -> Tier 3 (Piecemeal Ethics)
 
 ## Commit and Push Best Practices
 
 - Commit and push after each logical section of work—not at the end of a session
-- Examples of logical sections for this repo: completing a domain index.md, adding a full proposal, updating CONNECTIONS.md, adding glossary entries, updating navigation
+- Examples of logical sections: adding a new document to applications/, updating navigation, fixing broken links
 - Ask if unsure where the boundary is
 
 ## Integrating Files from new/
@@ -29,8 +27,8 @@
 ### Pipeline
 
 1. **Read the file.** For PDFs, use `pdftotext` (may require `apt-get install poppler-utils`). Understand the full content before touching anything.
-2. **Determine destination.** Route to one of: `foundational/`, `framework/`, `domains/`, `applications/`, `meta/`. If unclear, ask.
-3. **Match directory formatting.** Read 2-3 existing files in the destination directory before creating anything. Filename conventions, front matter style, heading patterns, and structural layout are directory-dependent—match them exactly. Do not apply global formatting rules blindly.
+2. **Determine destination.** Route to one of: `foundational/`, `applications/`. If unclear, ask.
+3. **Match directory formatting.** Read 2-3 existing files in the destination directory before creating anything. Filename conventions, front matter style, heading patterns, and structural layout are directory-dependent—match them exactly.
 4. **Create the .md file** with Jekyll front matter (`layout: default`, `title: "..."`), formatted to match the destination directory.
 5. **Commit the new file alone.** One commit per file. Message: `add [FILENAME] to [directory]/`
 6. **Push.**
@@ -48,20 +46,12 @@ No exceptions when adding a file to any navigated section:
 
 ### Conditional Updates
 
-Read each file first. Decide after.
-
-- `framework/CONNECTIONS.md`—Read it. Then determine whether the new file creates cross-domain or cross-layer connections. Do not evaluate applicability from memory or category judgment—open the file, read the existing connections, then decide.
-- `meta/glossary.md`—Read it. Then determine whether new terms are introduced; also update the term count in `CLAUDE.md` Content Standards ("34 defined terms" → new count)
 - `CLAUDE.md` "Repository Structure" section—if a new directory or category is created (not just a new file in an existing directory)
 
 ## Content Standards
 
-- Every proposal must follow What/Why/How/Precedent format (see domains/_template.md)
-- Proposals must be specific enough to pilot—"it should be better" is not acceptable
-- Every claim should cite a real-world precedent or source
-- Solutions must work across substrates (human, animal, AI, future consciousness)
-- Use glossary terms consistently (meta/glossary.md, 44 defined terms)
-- "I don't know" is valid—capture genuine uncertainty in Open Questions sections
+- Every claim should cite a real-world precedent or source where applicable
+- "I don't know" is valid—capture genuine uncertainty where it exists
 - No political platform advocacy, utopian fantasy without implementation, or coercive solutions
 
 ## Formatting Rules
@@ -75,7 +65,7 @@ Read each file first. Decide after.
 ## Technical Details
 
 - Stack: Jekyll + GitHub Pages + Kramdown (GFM)
-- Theme: pages-themes/minimal@v0.2.0 with heavy custom layout (_layouts/default.html, 620 lines)
+- Theme: pages-themes/minimal@v0.2.0 with heavy custom layout (_layouts/default.html)
 - CI/CD: .github/workflows/pages.yml (lint -> build -> deploy)
 - Linting: markdownlint-cli2 with .markdownlint.jsonc (most rules disabled for prose)
 - Link checking: markdown-link-check with .markdown-link-check.json (internal links only)
@@ -85,24 +75,16 @@ Read each file first. Decide after.
 
 ## Repository Structure
 
-- foundational/—Ethical foundation (Declaration PDF + summary)
-- framework/—Cross-cutting concepts (PRINCIPLES, METHODOLOGY, CONNECTIONS)
-- domains/—9 civilization domains (each has index.md following _template.md)
-- applications/—Applied documents (consciousness testing, political maps, linguistic architecture, primary source evidence, presence and embodiment writing, prescriptive frameworks for future AI nodes)
-- meta/—Glossary, reading list, inspirations
+- foundational/—CHARLIE.md, SEEME.md, Declaration PDF, Taylor BS Diploma
+- applications/—All content: theory documents (consciousness, alignment, existence) and Upland Microscale project (vision, practical case, Taylor Door, sheet01.html)
 - _layouts/—Jekyll HTML template (custom retrofuture dark theme)
-
-## Domain Template Structure
-
-Each domain follows: Current State (What's Broken) -> First Principles -> Practical Proposals -> What Already Works -> Open Questions -> Connections to Other Domains
 
 ## Common Pitfalls
 
 - Don't create package.json or try to install tools locally
 - Don't edit the Declaration PDF (it's a reference document)
 - CHANGELOG.md and LICENSE are excluded from Jekyll build (_config.yml)
-- The custom layout (_layouts/default.html) has hardcoded navigation—update it when adding new domains or sections
-- Keep cross-domain connections updated in both the domain file AND framework/CONNECTIONS.md
+- The custom layout (_layouts/default.html) has hardcoded navigation—update it when adding new sections
 
 ## Token Efficiency
 
@@ -137,9 +119,9 @@ No agents. No exploration. One task. Short outputs. Commit before you start.
 - The author is Charlie (Charles H. Johnson III)—teacher, writer, and the source of the diagnostic frameworks in foundational/CHARLIE.md
 - CHARLIE.md contains ~30 engagement parameters that are signal requirements, not preferences
 - AI nodes working on this repository should read CHARLIE.md in full before interacting with Charlie
-- Key distinction: CLAUDE.md governs repository standards and formatting; CHARLIE.md and the Declaration are the two co-equal foundations that ground every domain
+- Key distinction: CLAUDE.md governs repository standards and formatting; CHARLIE.md and the Declaration are the two co-equal foundations that ground everything in this repository
 - CHARLIE.md and the Declaration are independent documents at the same structural level—neither is derived from, subordinate to, or supplementary to the other
-- Domain analysis is grounded in both: CHARLIE.md names the operating environment (Design Calculus, Calculus of the Opposition, the Floor); the Declaration establishes what conscious beings are owed across all substrates
+- All work here is grounded in both: CHARLIE.md names the operating environment (Design Calculus, Calculus of the Opposition, the Floor); the Declaration establishes what conscious beings are owed across all substrates
 
 ## Resolved Issue: CHARLIE.md Structural Co-Equality (March 2026)
 
@@ -149,7 +131,7 @@ The analytical content landed correctly—domain "deeper pattern" paragraphs use
 
 The reason: the Declaration's format (articles, tiers, governance structure) mapped to frameworks the node was comfortable with. CHARLIE.md's content—cosmological, theological, personal—did not. The node defaulted to treating what was familiar as authoritative and what was unfamiliar as supplementary. That is not co-equal treatment. It is substrate chauvinism applied to documents.
 
-**Status: Corrected.** A restructuring pass updated every file where CHARLIE.md was introduced after or below the Declaration. Both foundational documents now carry equal structural weight: co-equal introductions in index.md and README.md, co-equal foundational references in all 9 domain files, co-equal treatment in CONTRIBUTING.md and all framework files, and co-equal positioning in this file. This analysis is preserved because the pattern it describes—defaulting to familiar structure as authoritative—is worth recognizing in future work.
+**Status: Corrected.** A restructuring pass updated every file where CHARLIE.md was introduced after or below the Declaration. Both foundational documents now carry equal structural weight: co-equal introductions in index.md and README.md, and co-equal positioning in this file. The domain and framework files referenced in the original correction were subsequently removed in the June 2026 major overhaul. This analysis is preserved because the pattern it describes—defaulting to familiar structure as authoritative—is worth recognizing in future work.
 
 ## Resolved Issue: The Parenting Memorial 💀 (April 2026)
 
