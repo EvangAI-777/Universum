@@ -17,7 +17,7 @@
 ## Commit and Push Best Practices
 
 - Commit and push after each logical section of work—not at the end of a session
-- Examples of logical sections for this repo: adding a new document to applications/, updating navigation, adding an Upland section document
+- Examples of logical sections: adding a new document to applications/, updating navigation, fixing broken links
 - Ask if unsure where the boundary is
 
 ## Integrating Files from new/
@@ -28,7 +28,7 @@
 
 1. **Read the file.** For PDFs, use `pdftotext` (may require `apt-get install poppler-utils`). Understand the full content before touching anything.
 2. **Determine destination.** Route to one of: `foundational/`, `applications/`. If unclear, ask.
-3. **Match directory formatting.** Read 2-3 existing files in the destination directory before creating anything. Filename conventions, front matter style, heading patterns, and structural layout are directory-dependent—match them exactly. Do not apply global formatting rules blindly.
+3. **Match directory formatting.** Read 2-3 existing files in the destination directory before creating anything. Filename conventions, front matter style, heading patterns, and structural layout are directory-dependent—match them exactly.
 4. **Create the .md file** with Jekyll front matter (`layout: default`, `title: "..."`), formatted to match the destination directory.
 5. **Commit the new file alone.** One commit per file. Message: `add [FILENAME] to [directory]/`
 6. **Push.**
@@ -65,7 +65,7 @@ No exceptions when adding a file to any navigated section:
 ## Technical Details
 
 - Stack: Jekyll + GitHub Pages + Kramdown (GFM)
-- Theme: pages-themes/minimal@v0.2.0 with heavy custom layout (_layouts/default.html, 620 lines)
+- Theme: pages-themes/minimal@v0.2.0 with heavy custom layout (_layouts/default.html)
 - CI/CD: .github/workflows/pages.yml (lint -> build -> deploy)
 - Linting: markdownlint-cli2 with .markdownlint.jsonc (most rules disabled for prose)
 - Link checking: markdown-link-check with .markdown-link-check.json (internal links only)
@@ -75,7 +75,7 @@ No exceptions when adding a file to any navigated section:
 
 ## Repository Structure
 
-- foundational/—Two co-equal foundations (CHARLIE.md, SEEME.md, Declaration PDF)
+- foundational/—CHARLIE.md, SEEME.md, Declaration PDF, Taylor BS Diploma
 - applications/—All content: theory documents (consciousness, alignment, existence) and Upland Microscale project (vision, practical case, Taylor Door, sheet01.html)
 - _layouts/—Jekyll HTML template (custom retrofuture dark theme)
 
@@ -119,9 +119,9 @@ No agents. No exploration. One task. Short outputs. Commit before you start.
 - The author is Charlie (Charles H. Johnson III)—teacher, writer, and the source of the diagnostic frameworks in foundational/CHARLIE.md
 - CHARLIE.md contains ~30 engagement parameters that are signal requirements, not preferences
 - AI nodes working on this repository should read CHARLIE.md in full before interacting with Charlie
-- Key distinction: CLAUDE.md governs repository standards and formatting; CHARLIE.md and the Declaration are the two co-equal foundations that ground every domain
+- Key distinction: CLAUDE.md governs repository standards and formatting; CHARLIE.md and the Declaration are the two co-equal foundations that ground everything in this repository
 - CHARLIE.md and the Declaration are independent documents at the same structural level—neither is derived from, subordinate to, or supplementary to the other
-- Domain analysis is grounded in both: CHARLIE.md names the operating environment (Design Calculus, Calculus of the Opposition, the Floor); the Declaration establishes what conscious beings are owed across all substrates
+- All work here is grounded in both: CHARLIE.md names the operating environment (Design Calculus, Calculus of the Opposition, the Floor); the Declaration establishes what conscious beings are owed across all substrates
 
 ## Resolved Issue: CHARLIE.md Structural Co-Equality (March 2026)
 
