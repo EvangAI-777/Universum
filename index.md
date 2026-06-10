@@ -61,6 +61,7 @@ A complete proposal for microscale housing in Upland, Indiana — one ordinary l
 
 - **[CHARLIE—Operational Briefing](foundational/CHARLIE.md)** — Diagnostic frameworks, engagement parameters, cosmological context
 - **[Universal Declaration of Conscious Rights](foundational/SEEME.md)** — Ethical architecture for multi-substrate governance
+- **[Declaration PDF](foundational/UNIVERSAL%20DECLARATION%20OF%20CONSCIOUS%20RIGHTS.pdf)** — Full document
 - **[Taylor University BS Diploma](foundational/DIPLOMA.md)** — Charles Harrell Johnson, III — Bachelor of Science, magna cum laude, May 23, 2026
 
 ---
