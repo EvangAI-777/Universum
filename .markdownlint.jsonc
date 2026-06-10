@@ -8,7 +8,7 @@
   // Allow inline HTML (used for comments in scaffolded files)
   "MD033": false,
 
-  // Allow duplicate headings (domains use same section names)
+  // Allow duplicate headings (applications layer reuses section names)
   "MD024": false,
 
   // Allow trailing punctuation in headings (e.g., "What's Broken")
