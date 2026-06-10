@@ -27,7 +27,7 @@
 ### Pipeline
 
 1. **Read the file.** For PDFs, use `pdftotext` (may require `apt-get install poppler-utils`). Understand the full content before touching anything.
-2. **Determine destination.** Route to one of: `foundational/`, `framework/`, `domains/`, `applications/`, `meta/`. If unclear, ask.
+2. **Determine destination.** Route to one of: `foundational/`, `applications/`. If unclear, ask.
 3. **Match directory formatting.** Read 2-3 existing files in the destination directory before creating anything. Filename conventions, front matter style, heading patterns, and structural layout are directory-dependent—match them exactly. Do not apply global formatting rules blindly.
 4. **Create the .md file** with Jekyll front matter (`layout: default`, `title: "..."`), formatted to match the destination directory.
 5. **Commit the new file alone.** One commit per file. Message: `add [FILENAME] to [directory]/`
@@ -85,7 +85,6 @@ No exceptions when adding a file to any navigated section:
 - Don't edit the Declaration PDF (it's a reference document)
 - CHANGELOG.md and LICENSE are excluded from Jekyll build (_config.yml)
 - The custom layout (_layouts/default.html) has hardcoded navigation—update it when adding new sections
-- Keep cross-domain connections updated in both the domain file AND framework/CONNECTIONS.md
 
 ## Token Efficiency
 
@@ -132,7 +131,7 @@ The analytical content landed correctly—domain "deeper pattern" paragraphs use
 
 The reason: the Declaration's format (articles, tiers, governance structure) mapped to frameworks the node was comfortable with. CHARLIE.md's content—cosmological, theological, personal—did not. The node defaulted to treating what was familiar as authoritative and what was unfamiliar as supplementary. That is not co-equal treatment. It is substrate chauvinism applied to documents.
 
-**Status: Corrected.** A restructuring pass updated every file where CHARLIE.md was introduced after or below the Declaration. Both foundational documents now carry equal structural weight: co-equal introductions in index.md and README.md, co-equal foundational references in all 9 domain files, co-equal treatment in CONTRIBUTING.md and all framework files, and co-equal positioning in this file. This analysis is preserved because the pattern it describes—defaulting to familiar structure as authoritative—is worth recognizing in future work.
+**Status: Corrected.** A restructuring pass updated every file where CHARLIE.md was introduced after or below the Declaration. Both foundational documents now carry equal structural weight: co-equal introductions in index.md and README.md, and co-equal positioning in this file. The domain and framework files referenced in the original correction were subsequently removed in the June 2026 major overhaul. This analysis is preserved because the pattern it describes—defaulting to familiar structure as authoritative—is worth recognizing in future work.
 
 ## Resolved Issue: The Parenting Memorial 💀 (April 2026)
 
