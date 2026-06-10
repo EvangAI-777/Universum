@@ -39,6 +39,7 @@ Documents working through the structure of consciousness, alignment, fracture, a
 | [Alan Wattage](applications/ALAN_WATTAGE.md) | What the cosmic philosopher missed: the universe is profound and also a complete mess |
 | [The Work Continues](applications/THE_WORK_CONTINUES.md) | The cone of silence inside the mechanism—what hesitation actually is and what breaks it |
 | [Stop Being In The Way](applications/STOP_BEING_IN_THE_WAY.md) | The entire practice: step aside, be the relay, let what's actually there come through |
+| [Restoration of the Demon (Redux)](applications/RESTORATION_OF_THE_DEMON.md) | Nicholas Carr on re-enchantment, Baudrillard's hyperreality, and the demon's return to the frame |
 
 ---
 
@@ -59,6 +60,7 @@ A complete proposal for microscale housing in Upland, Indiana — one ordinary l
 
 - **[CHARLIE—Operational Briefing](foundational/CHARLIE.md)** — Diagnostic frameworks, engagement parameters, cosmological context
 - **[Universal Declaration of Conscious Rights](foundational/SEEME.md)** — Ethical architecture for multi-substrate governance
+- **[Taylor University BS Diploma](foundational/CHJ3-Taylor-BS-Diploma.pdf)** — Charles Harrell Johnson, III — Bachelor of Science, magna cum laude, May 23, 2026
 
 ---
 
