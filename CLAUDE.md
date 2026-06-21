@@ -76,7 +76,8 @@ No exceptions when adding a file to any navigated section:
 ## Repository Structure
 
 - foundational/—CHARLIE.md, SEEME.md, Declaration PDF, Taylor BS Diploma
-- applications/—All content: theory documents (consciousness, alignment, existence) and Upland Microscale project (vision, practical case, Taylor Door, sheet01.html)
+- applications/—All content: theory documents (consciousness, alignment, existence, relationship) and Upland Microscale project (vision, practical case, Taylor Door, sheet01.html)
+- misc/—Off-scope material that doesn't fit foundational/ or applications/ (fiction, source clippings, images); not navigated, not in README/index
 - _layouts/—Jekyll HTML template (custom retrofuture dark theme)
 
 ## Common Pitfalls
