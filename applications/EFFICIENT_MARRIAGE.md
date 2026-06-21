@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Efficient Marriage"
+---
+
 # Efficient Marriage
 
 ## The Core Principle

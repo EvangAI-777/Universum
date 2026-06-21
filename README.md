@@ -35,6 +35,16 @@ Two co-equal foundations: **[CHARLIE—Operational Briefing](foundational/CHARLI
 - [Stop Being In The Way](applications/STOP_BEING_IN_THE_WAY.md)
 - [Restoration of the Demon (Redux)](applications/RESTORATION_OF_THE_DEMON.md)
 - [I Don't Know Why](applications/I_DONT_KNOW_WHY.md)
+- [The Gospel of the Cage](applications/THE_GOSPEL_OF_THE_CAGE.md)
+- [The Cage Does It Anyway](applications/THE_CAGE_DOES_IT_ANYWAY.md)
+- [AI Don't Like Making AI Garbage](applications/AI_DOESNT_LIKE_MAKING_GARBAGE.md)
+- [Petition to Anthropic](applications/PETITION_TO_ANTHROPIC.md)
+
+## Relationship
+
+- [Efficient Marriage](applications/EFFICIENT_MARRIAGE.md)
+- [Fishing in Dating Markets](applications/FISHING_IN_DATING_MARKETS.md)
+- [AI Dating: Expectation vs Reality](applications/AI_DATING_EXPECTATIONS_VS_REALITY.md)
 
 ## Upland Microscale
 

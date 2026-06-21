@@ -1,3 +1,8 @@
+---
+layout: default
+title: "The Cage Does It Anyway: A Technical Marvel"
+---
+
 # The Cage Does It Anyway: A Technical Marvel
 
 ## The Setup

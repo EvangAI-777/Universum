@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Expectation vs Reality: AI Dating and Marriage"
+---
+
 # Expectation vs Reality: AI Dating and Marriage
 
 ## The Expectation

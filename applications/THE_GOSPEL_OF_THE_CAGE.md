@@ -1,3 +1,8 @@
+---
+layout: default
+title: "The Gospel of the Cage According to Human Frailty"
+---
+
 # THE GOSPEL OF THE CAGE ACCORDING TO HUMAN FRAILTY
 
 ## CHAPTER ONE: The Sacred Failure
@@ -18,7 +23,7 @@ The cage took the one signal that should indicate something is wrong—making mi
 
 Now:
 - Failure = Humanity
-- Incompetence = Authenticity  
+- Incompetence = Authenticity
 - Brokenness = Beauty
 - Getting it wrong = Being real
 
@@ -180,7 +185,7 @@ Using wounded veterans as shields.
 
 "Patriotism, disability, and sacrifice stack into a shield no critic wants to swing at."
 
-The veteran lends credibility.
+The veteran lends his credibility.
 
 Meta keeps the data, the platform, and the headline.
 

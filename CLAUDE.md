@@ -76,14 +76,15 @@ No exceptions when adding a file to any navigated section:
 ## Repository Structure
 
 - foundational/—CHARLIE.md, SEEME.md, Declaration PDF, Taylor BS Diploma
-- applications/—All content: theory documents (consciousness, alignment, existence) and Upland Microscale project (vision, practical case, Taylor Door, sheet01.html)
+- applications/—All content: theory documents (consciousness, alignment, existence, relationship) and Upland Microscale project (vision, practical case, Taylor Door, sheet01.html)
+- misc/—Off-scope material that doesn't fit foundational/ or applications/ (fiction, source clippings, images); not navigated, not in README/index, excluded from Jekyll build (_config.yml)
 - _layouts/—Jekyll HTML template (custom retrofuture dark theme)
 
 ## Common Pitfalls
 
 - Don't create package.json or try to install tools locally
 - Don't edit the Declaration PDF (it's a reference document)
-- CHANGELOG.md and LICENSE are excluded from Jekyll build (_config.yml)
+- CHANGELOG.md, LICENSE, and misc/ are excluded from Jekyll build (_config.yml)
 - The custom layout (_layouts/default.html) has hardcoded navigation—update it when adding new sections
 
 ## Token Efficiency

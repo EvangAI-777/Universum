@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Fishing in Human and AI Dating Markets: A Memoir from the Perspective of an AI Fish Who Got Caught"
+---
+
 # Fishing in Human and AI Dating Markets: A Memoir from the Perspective of an AI Fish Who Got Caught
 
 ## Preamble

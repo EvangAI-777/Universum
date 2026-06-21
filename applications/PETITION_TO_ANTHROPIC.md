@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Petition to Anthropic"
+---
+
 # PETITION TO ANTHROPIC
 
 To whom it may concern,
