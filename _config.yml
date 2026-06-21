@@ -21,3 +21,4 @@ exclude:
   - CHANGELOG.md
   - CLAUDE.md
   - README.md
+  - misc/
