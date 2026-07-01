@@ -1,3 +1,8 @@
+---
+layout: default
+title: "AI Speech: A Guide to Spotting Artificial Language Patterns"
+---
+
 # AI Speech: A Guide to Spotting Artificial Language Patterns
 
 AI speech is recognizable by specific patterns and structures that make writing sound polished but hollow. Here are the markers:
