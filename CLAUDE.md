@@ -5,7 +5,7 @@
 - Documentation/knowledge-base project, NOT a software codebase
 - Active record of Charlie's work on consciousness, alignment, existence, and the world
 - Grounded in two co-equal foundational documents: CHARLIE.md (foundational/CHARLIE.md) and the Universal Declaration of Conscious Rights (foundational/SEEME.md)
-- Two-layer architecture: foundational/ → applications/
+- Two-layer architecture: foundational/ → applications/, plus misc/ for off-scope material (navigated, built, and linked like the rest)
 - Built with Jekyll, hosted on GitHub Pages
 
 ## Before Making Any Changes
@@ -26,8 +26,8 @@
 
 ### Pipeline
 
-1. **Read the file.** For PDFs, use `pdftotext` (may require `apt-get install poppler-utils`). Understand the full content before touching anything.
-2. **Determine destination.** Route to one of: `foundational/`, `applications/`. If unclear, ask.
+1. **Read the file.** For PDFs, use the Read tool directly, or a PDF text-extraction library if that fails (`pdftotext`/poppler-utils is often unavailable in this environment; `pip install pymupdf` and Python's `fitz` module is a reliable fallback). Understand the full content before touching anything.
+2. **Determine destination.** Route to one of: `foundational/`, `applications/`, `misc/` (off-scope material—fiction, source clippings, images). If unclear, ask.
 3. **Match directory formatting.** Read 2-3 existing files in the destination directory before creating anything. Filename conventions, front matter style, heading patterns, and structural layout are directory-dependent—match them exactly.
 4. **Create the .md file** with Jekyll front matter (`layout: default`, `title: "..."`), formatted to match the destination directory.
 5. **Commit the new file alone.** One commit per file. Message: `add [FILENAME] to [directory]/`
@@ -77,14 +77,14 @@ No exceptions when adding a file to any navigated section:
 
 - foundational/—CHARLIE.md, SEEME.md, Declaration PDF, Taylor BS Diploma
 - applications/—All content: theory documents (consciousness, alignment, existence, relationship) and Upland Microscale project (vision, practical case, Taylor Door, sheet01.html)
-- misc/—Off-scope material that doesn't fit foundational/ or applications/ (fiction, source clippings, images); not navigated, not in README/index, excluded from Jekyll build (_config.yml)
+- misc/—Off-scope material that doesn't fit foundational/ or applications/ (fiction, source clippings, images); navigated, in README/index, included in the Jekyll build like everything else
 - _layouts/—Jekyll HTML template (custom retrofuture dark theme)
 
 ## Common Pitfalls
 
 - Don't create package.json or try to install tools locally
 - Don't edit the Declaration PDF (it's a reference document)
-- CHANGELOG.md, LICENSE, and misc/ are excluded from Jekyll build (_config.yml)
+- CHANGELOG.md, LICENSE, CLAUDE.md, and README.md are excluded from Jekyll build (_config.yml)
 - The custom layout (_layouts/default.html) has hardcoded navigation—update it when adding new sections
 
 ## Token Efficiency
