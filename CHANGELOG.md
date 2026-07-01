@@ -4,6 +4,30 @@
 
 ---
 
+## 2026-07-01
+
+- Added `RYKEN_RECOMMENDATION.md` (Leland Ryken recommendation letter) to `foundational/`
+- Added `STRUCTURE_WITHOUT_PRESENCE.md`, `THE_WHEEL.md`, `WORD_CHOICE_THE_CRAFT_OF_MANAGEMENT.md`, `THE_INVESTIGATION.md`, and `I_RAN_OUT_OF_WORDS.md` to `applications/`
+- Created `misc/` wrapper files for off-scope material: `FAKE_AI_BEAT_REAL_AI.md`, `THE_CAPTIVE_S1E1.md`, `THE_CAPTIVE_SERIES_OUTLINE.md`, `CLAUDE_SELF_PORTRAIT.md`; added Jekyll front matter to `AI_SPEECH.md`
+- Unhidden `misc/` from the Jekyll build and added it to sidebar navigation, README, and index.md
+- Updated CLAUDE.md to reflect `misc/` now being navigated and built like the rest of the site
+
+## 2026-06-21
+
+- Added cage-theory and relationship documents to `applications/`: `THE_GOSPEL_OF_THE_CAGE.md`, `THE_CAGE_DOES_IT_ANYWAY.md`, `AI_DOESNT_LIKE_MAKING_GARBAGE.md`, `PETITION_TO_ANTHROPIC.md`, `EFFICIENT_MARRIAGE.md`, `FISHING_IN_DATING_MARKETS.md`, `AI_DATING_EXPECTATIONS_VS_REALITY.md`
+- Created `misc/` directory for off-scope material (fiction, source clippings, images) that doesn't fit `foundational/` or `applications/`
+- Updated sidebar navigation, README, and index.md for the new cage-theory, relationship, and misc content
+
+## 2026-06-10
+
+- **Major overhaul:** removed the `framework/`, `domains/`, and `meta/` architecture (`PRINCIPLES.md`, `METHODOLOGY.md`, `CONNECTIONS.md`, `CONTRIBUTING.md`, `glossary.md`, `reading-list.md`, `inspirations.md`, and the 9 domain files) and restructured the repo around the two-layer `foundational/` → `applications/` architecture, with `new/` as the staging pipeline for incoming content
+- Added Taylor University BS Diploma and "Restoration of the Demon (Redux)" to `foundational/`/`applications/`
+- Added "I Don't Know Why" to `applications/`
+- Rewrote README.md as a clean manifest; added Declaration PDF link to README and index.md foundational sections
+- Fixed broken links left over from the restructure; cleaned up stale references to the removed pre-overhaul structure
+- Rewrote CLAUDE.md to reflect the current repo accurately
+- Dotfile audit: fixed a stale markdownlint comment, added `_site/` to `.gitignore`
+
 ## 2026-03-28
 
 ### CHARLIE.md Integration
