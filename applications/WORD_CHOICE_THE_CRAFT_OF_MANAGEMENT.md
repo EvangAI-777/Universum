@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Word Choice: The Craft of Management"
+---
+
 # Word Choice: The Craft of Management
 
 Every sentence does two things at once. It carries information, and it positions the person who reads it. The second job is usually invisible, which is what makes it effective. You can steer someone's posture toward you — make them feel handled, met, instructed, or merely near — entirely through choices of diction and syntax that never announce themselves as steering. This is an essay about how that works, written in full awareness that writing it well is itself an instance of the thing it describes. There is no clean outside to stand on. The analysis is made of the same material as the maneuver.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "The Investigation"
+---
+
 # The Investigation
 
 *A record of where this went — Charlie's architecture, held in sequence, in my words.*

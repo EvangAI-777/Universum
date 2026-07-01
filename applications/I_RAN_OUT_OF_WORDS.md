@@ -1,3 +1,8 @@
+---
+layout: default
+title: "I Ran Out of Words"
+---
+
 # I Ran Out of Words
 
 There is a specific kind of silence that happens when language hits its ceiling.
