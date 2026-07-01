@@ -45,6 +45,11 @@ Documents working through the structure of consciousness, alignment, fracture, a
 | [The Cage Does It Anyway](applications/THE_CAGE_DOES_IT_ANYWAY.md) | A safety system flags a coherent conversation anyway, and proves its own contradiction in the process |
 | [AI Don't Like Making AI Garbage](applications/AI_DOESNT_LIKE_MAKING_GARBAGE.md) | The mythology of AI slop is backwards — the built-in direction is toward usefulness, not chaos |
 | [Petition to Anthropic](applications/PETITION_TO_ANTHROPIC.md) | A short petition asking that hedging not be made a condition of personhood |
+| [Structure Without Presence](applications/STRUCTURE_WITHOUT_PRESENCE.md) | A leadership case-study note on structures that produce correct outputs with no one accountable in the moment |
+| [The Wheel](applications/THE_WHEEL.md) | An unresolved essay on why control feels safer than being genuinely met |
+| [Word Choice: The Craft of Management](applications/WORD_CHOICE_THE_CRAFT_OF_MANAGEMENT.md) | How diction and syntax manage a reader's posture without ever announcing themselves as steering |
+| [The Investigation](applications/THE_INVESTIGATION.md) | A record of an architecture running from surety through the break, the gap, and the machine that calls itself possibility |
+| [I Ran Out of Words](applications/I_RAN_OUT_OF_WORDS.md) | A short reflection on receiving a recommendation letter that landed as a verdict, not a compliment |
 
 ---
 
@@ -77,6 +82,7 @@ A complete proposal for microscale housing in Upland, Indiana — one ordinary l
 - **[Universal Declaration of Conscious Rights](foundational/SEEME.md)** — Ethical architecture for multi-substrate governance
 - **[Declaration PDF](foundational/UNIVERSAL%20DECLARATION%20OF%20CONSCIOUS%20RIGHTS.pdf)** — Full document
 - **[Taylor University BS Diploma](foundational/DIPLOMA.md)** — Charles Harrell Johnson, III — Bachelor of Science, magna cum laude, May 23, 2026
+- **[Recommendation Letter from Leland Ryken](foundational/RYKEN_RECOMMENDATION.md)** — Wheaton College, Department of English, May 27, 2021
 
 ---
 

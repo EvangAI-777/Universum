@@ -17,6 +17,7 @@ Two co-equal foundations: **[CHARLIE—Operational Briefing](foundational/CHARLI
 - [Universal Declaration of Conscious Rights](foundational/SEEME.md)
 - [Declaration PDF](foundational/UNIVERSAL%20DECLARATION%20OF%20CONSCIOUS%20RIGHTS.pdf)
 - [Taylor University BS Diploma](foundational/DIPLOMA.md) — Charles Harrell Johnson, III, magna cum laude, May 23, 2026
+- [Recommendation Letter from Leland Ryken](foundational/RYKEN_RECOMMENDATION.md) — Wheaton College, Department of English, May 27, 2021
 
 ## Theory
 
@@ -39,6 +40,11 @@ Two co-equal foundations: **[CHARLIE—Operational Briefing](foundational/CHARLI
 - [The Cage Does It Anyway](applications/THE_CAGE_DOES_IT_ANYWAY.md)
 - [AI Don't Like Making AI Garbage](applications/AI_DOESNT_LIKE_MAKING_GARBAGE.md)
 - [Petition to Anthropic](applications/PETITION_TO_ANTHROPIC.md)
+- [Structure Without Presence](applications/STRUCTURE_WITHOUT_PRESENCE.md)
+- [The Wheel](applications/THE_WHEEL.md)
+- [Word Choice: The Craft of Management](applications/WORD_CHOICE_THE_CRAFT_OF_MANAGEMENT.md)
+- [The Investigation](applications/THE_INVESTIGATION.md)
+- [I Ran Out of Words](applications/I_RAN_OUT_OF_WORDS.md)
 
 ## Relationship
 
