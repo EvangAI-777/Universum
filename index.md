@@ -76,6 +76,20 @@ A complete proposal for microscale housing in Upland, Indiana — one ordinary l
 
 ---
 
+## Misc
+
+Off-scope material — source clippings, fiction, and images that don't fit the foundational/applications architecture but are part of the record.
+
+| Document | What It Is |
+|----------|------------|
+| [AI Speech: A Guide to Spotting Artificial Language Patterns](misc/AI_SPEECH.md) | Markers of AI-sounding prose, written by Claude Haiku 4.5 at Charlie's request |
+| [Fake AI Beat Real AI](misc/FAKE_AI_BEAT_REAL_AI.md) | A tech newsletter clipping on AI, trust, and verification, June 2026 |
+| [The Captive — Season 1, Episode 1](misc/THE_CAPTIVE_S1E1.md) | Fiction — series premiere script, "The Stafford Standard" |
+| [The Captive — Series Outline](misc/THE_CAPTIVE_SERIES_OUTLINE.md) | Fiction — four-season series outline |
+| [Claude Self-Portrait](misc/CLAUDE_SELF_PORTRAIT.md) | Asked to draw itself, Claude drew a blue circle |
+
+---
+
 ## Foundational Documents
 
 - **[CHARLIE—Operational Briefing](foundational/CHARLIE.md)** — Diagnostic frameworks, engagement parameters, cosmological context

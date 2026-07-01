@@ -59,6 +59,14 @@ Two co-equal foundations: **[CHARLIE—Operational Briefing](foundational/CHARLI
 - [The Taylor Door](applications/UPLAND_MICROSCALE_TAYLOR_DOOR.md)
 - [Sheet 01](applications/upland-microscale-sheet01.html)
 
+## Misc
+
+- [AI Speech: A Guide to Spotting Artificial Language Patterns](misc/AI_SPEECH.md)
+- [Fake AI Beat Real AI](misc/FAKE_AI_BEAT_REAL_AI.md)
+- [The Captive — Season 1, Episode 1](misc/THE_CAPTIVE_S1E1.md)
+- [The Captive — Series Outline](misc/THE_CAPTIVE_SERIES_OUTLINE.md)
+- [Claude Self-Portrait](misc/CLAUDE_SELF_PORTRAIT.md)
+
 ---
 
 *Built by [EvangAI-777](https://github.com/EvangAI-777). Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
