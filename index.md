@@ -20,6 +20,16 @@ This project rests on two co-equal foundations: **[CHARLIE—Operational Briefin
 
 ---
 
+## Books
+
+Book-length works by Charlie.
+
+| Document | What It Is |
+|----------|------------|
+| [Reality 101: Instruction Manual for Dummies](books/REALITY_101.md) | Ten chapters on doing existence simply — sit and appreciate, do the work, stop agonizing, trust; the source text distilled in [CHARLIE](foundational/CHARLIE.md) |
+
+---
+
 ## Theory
 
 Documents working through the structure of consciousness, alignment, fracture, and the mechanisms that maintain or break them.

@@ -506,6 +506,13 @@
         </details>
 
         <details open>
+          <summary>Books</summary>
+          <ul class="tree-list" role="list">
+            <li><a href="{{ '/books/REALITY_101' | relative_url }}" {% if page.title == "Reality 101: Instruction Manual for Dummies" %}aria-current="page"{% endif %}>Reality 101</a></li>
+          </ul>
+        </details>
+
+        <details open>
           <summary>Theory</summary>
           <ul class="tree-list" role="list">
             <li><a href="{{ '/applications/CONSCIOUSNESS_ALIGNMENT_MANUAL' | relative_url }}" {% if page.title == "How to Actually Align Consciousness" %}aria-current="page"{% endif %}>Alignment Manual</a></li>
@@ -595,6 +602,8 @@
             <span>Foundational</span>
           {% elsif section == 'applications' %}
             <span>Applications</span>
+          {% elsif section == 'books' %}
+            <span>Books</span>
           {% endif %}
         {% endif %}
         {% if page.title %}

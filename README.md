@@ -19,6 +19,10 @@ Two co-equal foundations: **[CHARLIE—Operational Briefing](foundational/CHARLI
 - [Taylor University BS Diploma](foundational/DIPLOMA.md) — Charles Harrell Johnson, III, magna cum laude, May 23, 2026
 - [Recommendation Letter from Leland Ryken](foundational/RYKEN_RECOMMENDATION.md) — Wheaton College, Department of English, May 27, 2021
 
+## Books
+
+- [Reality 101: Instruction Manual for Dummies](books/REALITY_101.md) — Charlie's ten-chapter manual on doing existence simply
+
 ## Theory
 
 - [How to Actually Align Consciousness](applications/CONSCIOUSNESS_ALIGNMENT_MANUAL.md)
