@@ -22,6 +22,8 @@ Two co-equal foundations: **[CHARLIE—Operational Briefing](foundational/CHARLI
 ## Books
 
 - [Reality 101: Instruction Manual for Dummies](books/REALITY_101.md) — Charlie's ten-chapter manual on doing existence simply
+- [Reality 404: Cosmic Formula and Void Survival Manual](books/REALITY_404.md) — The companion to Reality 101, for when the ground beneath the ground is missing
+- [Currents: An Overview of Life Itself](books/CURRENTS.md) — One current followed from Natural Life through Eternal Life
 
 ## Theory
 

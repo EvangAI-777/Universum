@@ -27,6 +27,8 @@ Book-length works by Charlie.
 | Document | What It Is |
 |----------|------------|
 | [Reality 101: Instruction Manual for Dummies](books/REALITY_101.md) | Ten chapters on doing existence simply — sit and appreciate, do the work, stop agonizing, trust; the source text distilled in [CHARLIE](foundational/CHARLIE.md) |
+| [Reality 404: Cosmic Formula and Void Survival Manual](books/REALITY_404.md) | Twenty-three chapters on what happens when being real meets a place not built for it — absence as teacher, generating love from the wound, reading the whiplash cycle |
+| [Currents: An Overview of Life Itself](books/CURRENTS.md) | One current traced from Natural Life through Eternal Life — science, music, math, language, literature, law, and Scripture as sections of a single motion |
 
 ---
 
