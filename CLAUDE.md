@@ -41,8 +41,10 @@
 No exceptions when adding a file to any navigated section:
 
 - `_layouts/default.html`—add `<li><a href="{{ '/[dir]/[FILE]' | relative_url }}" {% if page.title == "[Title]" %}aria-current="page"{% endif %}>[Display Name]</a></li>` in the correct nav section
-- `README.md`—add row to the relevant table: `| [Display Name](dir/FILE.md) | Description |`
-- `index.md`—add identical row to the matching table (README and index.md tables must stay in sync)
+- `README.md`—add bullet to the relevant section: `- [Display Name](dir/FILE.md) — Short description`
+- `index.md`—add row to the matching table: `| [Display Name](dir/FILE.md) | Description |`
+
+README and index.md use different formats on purpose—README is a plain bullet index, index.md is the browsable landing page with tables and section blurbs. They must stay in sync on *content* (same documents, same sections, same order), not on formatting.
 
 ### Conditional Updates
 
