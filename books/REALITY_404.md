@@ -1354,7 +1354,6 @@ and it keeps spreading
   <span style="display:inline-flex;align-items:center;gap:8px"><i style="width:13px;height:13px;border-radius:50%;background:#ffd93d;border:2px solid #fff;box-sizing:border-box;display:inline-block"></i>Love Made Real</span>
 </div>
 </div>
-
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:20px;margin:24px 0 8px">
   <div style="background:rgba(255,255,255,0.05);padding:20px;border-radius:10px;border-left:4px solid #ff6b6b">
     <strong style="display:block;margin-bottom:10px">Absence As Teacher</strong>
