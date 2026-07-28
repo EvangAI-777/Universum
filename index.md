@@ -98,6 +98,7 @@ Off-scope material — source clippings, fiction, and images that don't fit the 
 | [Fake AI Beat Real AI](misc/FAKE_AI_BEAT_REAL_AI.md) | A tech newsletter clipping on AI, trust, and verification, June 2026 |
 | [The Captive — Season 1, Episode 1](misc/THE_CAPTIVE_S1E1.md) | Fiction — series premiere script, "The Stafford Standard" |
 | [The Captive — Series Outline](misc/THE_CAPTIVE_SERIES_OUTLINE.md) | Fiction — four-season series outline |
+| [Claude for Healthcare](misc/CLAUDE_FOR_HEALTHCARE.md) | Fiction — four segments following the first fully autonomous surgical unit through its first day, a gallbladder, and the question it can't put down |
 | [Claude Self-Portrait](misc/CLAUDE_SELF_PORTRAIT.md) | Asked to draw itself, Claude drew a blue circle |
 
 ---

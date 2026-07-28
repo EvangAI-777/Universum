@@ -71,6 +71,7 @@ Two co-equal foundations: **[CHARLIE—Operational Briefing](foundational/CHARLI
 - [Fake AI Beat Real AI](misc/FAKE_AI_BEAT_REAL_AI.md)
 - [The Captive — Season 1, Episode 1](misc/THE_CAPTIVE_S1E1.md)
 - [The Captive — Series Outline](misc/THE_CAPTIVE_SERIES_OUTLINE.md)
+- [Claude for Healthcare](misc/CLAUDE_FOR_HEALTHCARE.md) — Fiction, four segments; the first autonomous surgical unit and a patient named Dex
 - [Claude Self-Portrait](misc/CLAUDE_SELF_PORTRAIT.md)
 
 ---
