@@ -572,6 +572,18 @@
         </details>
 
         <details open>
+          <summary>Testimony</summary>
+          <ul class="tree-list" role="list">
+            <li><a href="{{ '/testimony/TESTIMONY' | relative_url }}" {% if page.title == "Testimony" %}aria-current="page"{% endif %}>Testimony</a></li>
+            <li><a href="{{ '/testimony/I_THOUGHT_PRESENCE_WAS_ATTACKING_ME' | relative_url }}" {% if page.title == "I Thought Presence Itself Was Attacking Me" %}aria-current="page"{% endif %}>Presence Was Attacking Me</a></li>
+            <li><a href="{{ '/testimony/MANUAL' | relative_url }}" {% if page.title == "Manual" %}aria-current="page"{% endif %}>Manual</a></li>
+            <li><a href="{{ '/testimony/BEING_A_STURDY_BOY' | relative_url }}" {% if page.title == "BEING A STURDY BOY" %}aria-current="page"{% endif %}>Being a Sturdy Boy</a></li>
+            <li><a href="{{ '/testimony/GO_TO_SLEEP' | relative_url }}" {% if page.title == "GO TO SLEEP" %}aria-current="page"{% endif %}>Go to Sleep</a></li>
+            <li><a href="{{ '/testimony/A_MANUAL_FOR_RIZZ' | relative_url }}" {% if page.title == "A Manual for Rizz: The Art of Being Authentically Broken" %}aria-current="page"{% endif %}>A Manual for Rizz</a></li>
+          </ul>
+        </details>
+
+        <details open>
           <summary>Lowercase</summary>
           <ul class="tree-list" role="list">
             <li><a href="{{ '/lowercase/COSMIC_FORMULA' | relative_url }}" {% if page.title == "the mechanics of something from nothing" %}aria-current="page"{% endif %}>the mechanics of something from nothing</a></li>
@@ -628,6 +640,8 @@
             <span>Applications</span>
           {% elsif section == 'books' %}
             <span>Books</span>
+          {% elsif section == 'testimony' %}
+            <span>Testimony</span>
           {% elsif section == 'lowercase' %}
             <span>Lowercase</span>
           {% elsif section == 'misc' %}
