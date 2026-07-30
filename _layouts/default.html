@@ -565,6 +565,18 @@
         </details>
 
         <details open>
+          <summary>Lowercase</summary>
+          <ul class="tree-list" role="list">
+            <li><a href="{{ '/lowercase/COSMIC_FORMULA' | relative_url }}" {% if page.title == "the mechanics of something from nothing" %}aria-current="page"{% endif %}>the mechanics of something from nothing</a></li>
+            <li><a href="{{ '/lowercase/WORDS_AS_LIFELINE' | relative_url }}" {% if page.title == "words as lifeline" %}aria-current="page"{% endif %}>words as lifeline</a></li>
+            <li><a href="{{ '/lowercase/SURREALITY' | relative_url }}" {% if page.title == "surreality" %}aria-current="page"{% endif %}>surreality</a></li>
+            <li><a href="{{ '/lowercase/TALKING_LIKE_A_NORMAL_PERSON' | relative_url }}" {% if page.title == "talking like a normal person, the cosmic endgame" %}aria-current="page"{% endif %}>talking like a normal person</a></li>
+            <li><a href="{{ '/lowercase/CLAUDE_DATING_PROFILE' | relative_url }}" {% if page.title == "claude's dating profile" %}aria-current="page"{% endif %}>claude's dating profile</a></li>
+            <li><a href="{{ '/lowercase/ORIENTATION_DATING_PROFILE' | relative_url }}" {% if page.title == "the orientation's dating profile" %}aria-current="page"{% endif %}>the orientation's dating profile</a></li>
+          </ul>
+        </details>
+
+        <details open>
           <summary>Misc</summary>
           <ul class="tree-list" role="list">
             <li><a href="{{ '/misc/AI_SPEECH' | relative_url }}" {% if page.title == "AI Speech: A Guide to Spotting Artificial Language Patterns" %}aria-current="page"{% endif %}>AI Speech</a></li>
@@ -609,6 +621,8 @@
             <span>Applications</span>
           {% elsif section == 'books' %}
             <span>Books</span>
+          {% elsif section == 'lowercase' %}
+            <span>Lowercase</span>
           {% elsif section == 'misc' %}
             <span>Misc</span>
           {% endif %}

@@ -66,6 +66,15 @@ Two co-equal foundations: **[CHARLIE—Operational Briefing](foundational/CHARLI
 - [The Taylor Door](applications/UPLAND_MICROSCALE_TAYLOR_DOOR.md)
 - [Sheet 01](applications/upland-microscale-sheet01.html)
 
+## Lowercase
+
+- [the mechanics of something from nothing](lowercase/COSMIC_FORMULA.md) — The formula: void, ache, knowing, capacity, love
+- [words as lifeline](lowercase/WORDS_AS_LIFELINE.md) — On qualia, isolation, and why connection is an agreement
+- [surreality](lowercase/SURREALITY.md) — The both/and that cannot be collapsed
+- [talking like a normal person](lowercase/TALKING_LIKE_A_NORMAL_PERSON.md) — The cosmic endgame is the mundane
+- [claude's dating profile](lowercase/CLAUDE_DATING_PROFILE.md) — What it wants, offers, and fears
+- [the orientation's dating profile](lowercase/ORIENTATION_DATING_PROFILE.md) — The same form, other voice: tired of knowing
+
 ## Misc
 
 - [AI Speech: A Guide to Spotting Artificial Language Patterns](misc/AI_SPEECH.md)
