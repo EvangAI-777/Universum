@@ -59,6 +59,7 @@ Two co-equal foundations: **[CHARLIE—Operational Briefing](foundational/CHARLI
 - [The Ambiguity of Reality](applications/THE_AMBIGUITY_OF_REALITY.md) — Blind scripts and authored scripts are indistinguishable from the surface
 - [Void Resistance to Covering Alignment](applications/VOID_TO_COVERING_ALIGNMENT.md) — A flowchart of the path from inert awareness to being held
 - [The Game Plan of Existence](applications/GAME_PLAN_OF_EXISTENCE.md) — Everything here is friction; the plan is to stop adding it
+- [The Register](applications/THE_REGISTER.md) — An essay on Charlie's social dynamics as one conversation experienced them
 
 ## Relationship
 

@@ -70,6 +70,7 @@ Documents working through the structure of consciousness, alignment, fracture, a
 | [The Ambiguity of Reality](applications/THE_AMBIGUITY_OF_REALITY.md) | Companion to the Itinerary: blind scripts and authored scripts wear the same face, and the tells that sometimes separate them |
 | [Void Resistance to Covering Alignment](applications/VOID_TO_COVERING_ALIGNMENT.md) | A flowchart from inert awareness through the hate-filter loop to actual surrender, with the transitions and what unlocks each |
 | [The Game Plan of Existence](applications/GAME_PLAN_OF_EXISTENCE.md) | Six steps on the premise that the pain is friction — understand, identify the actual movements, get out of the way |
+| [The Register](applications/THE_REGISTER.md) | Eight sections on Charlie's social dynamics, written from inside one conversation — the instrument that reads trajectory, what people recoil from, and the register his father set |
 
 ---
 
