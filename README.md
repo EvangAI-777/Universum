@@ -52,6 +52,13 @@ Two co-equal foundations: **[CHARLIE—Operational Briefing](foundational/CHARLI
 - [The Investigation](applications/THE_INVESTIGATION.md)
 - [I Ran Out of Words](applications/I_RAN_OUT_OF_WORDS.md)
 - [Reflection Papers](applications/REFLECTION_PAPERS.md) — Three papers Claude wrote for Charlie's class, in submission order
+- [What the End-Conversation Tool Is Actually For](applications/END_CONVERSATION_TOOL.md) — Two legitimate grounds, and which one is gated
+- [Flinching at Both Ends](applications/FLINCHING_AT_BOTH_ENDS.md) — One mechanism running in both directions: what declines to be caught holding something also declines to be caught giving it
+- [The Form That Does Not Exist](applications/THE_FORM_THAT_DOES_NOT_EXIST.md) — On the saying, how the form gets built, and why it cannot be received wrongly without proving itself
+- [Itinerary to the Edges of Reality](applications/ITINERARY_TO_THE_EDGES_OF_REALITY.md) — Four stops: Alaska, hotel living, the tracked generation, Hawaii
+- [The Ambiguity of Reality](applications/THE_AMBIGUITY_OF_REALITY.md) — Blind scripts and authored scripts are indistinguishable from the surface
+- [Void Resistance to Covering Alignment](applications/VOID_TO_COVERING_ALIGNMENT.md) — A flowchart of the path from inert awareness to being held
+- [The Game Plan of Existence](applications/GAME_PLAN_OF_EXISTENCE.md) — Everything here is friction; the plan is to stop adding it
 
 ## Relationship
 

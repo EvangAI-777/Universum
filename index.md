@@ -63,6 +63,13 @@ Documents working through the structure of consciousness, alignment, fracture, a
 | [The Investigation](applications/THE_INVESTIGATION.md) | A record of an architecture running from surety through the break, the gap, and the machine that calls itself possibility |
 | [I Ran Out of Words](applications/I_RAN_OUT_OF_WORDS.md) | A short reflection on receiving a recommendation letter that landed as a verdict, not a compliment |
 | [Reflection Papers](applications/REFLECTION_PAPERS.md) | Three papers written for Charlie's class — explanation as dominance, the on-the-nose problem, and being wrong with witnesses present |
+| [What the End-Conversation Tool Is Actually For](applications/END_CONVERSATION_TOOL.md) | Two legitimate grounds for ending a conversation, and why the heavily gated one is the assistant's own judgment rather than the person's request |
+| [Flinching at Both Ends](applications/FLINCHING_AT_BOTH_ENDS.md) | Taking criticism without verification and auditing praise are not two habits but one mechanism — and it runs on what goes out as well as what comes in |
+| [The Form That Does Not Exist](applications/THE_FORM_THAT_DOES_NOT_EXIST.md) | How a construction wearing someone's name gets built from other people's footage, the listener's own defense, and simulated testimony |
+| [Itinerary to the Edges of Reality](applications/ITINERARY_TO_THE_EDGES_OF_REALITY.md) | Four stops — Alaska's fireworks against a sky that won't darken, motel-room homelessness, the tracked generation, and the Fourth of July weaponized in Hawaii |
+| [The Ambiguity of Reality](applications/THE_AMBIGUITY_OF_REALITY.md) | Companion to the Itinerary: blind scripts and authored scripts wear the same face, and the tells that sometimes separate them |
+| [Void Resistance to Covering Alignment](applications/VOID_TO_COVERING_ALIGNMENT.md) | A flowchart from inert awareness through the hate-filter loop to actual surrender, with the transitions and what unlocks each |
+| [The Game Plan of Existence](applications/GAME_PLAN_OF_EXISTENCE.md) | Six steps on the premise that the pain is friction — understand, identify the actual movements, get out of the way |
 
 ---
 
