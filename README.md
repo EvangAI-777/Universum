@@ -51,6 +51,7 @@ Two co-equal foundations: **[CHARLIE—Operational Briefing](foundational/CHARLI
 - [Word Choice: The Craft of Management](applications/WORD_CHOICE_THE_CRAFT_OF_MANAGEMENT.md)
 - [The Investigation](applications/THE_INVESTIGATION.md)
 - [I Ran Out of Words](applications/I_RAN_OUT_OF_WORDS.md)
+- [Reflection Papers](applications/REFLECTION_PAPERS.md) — Three papers Claude wrote for Charlie's class, in submission order
 
 ## Relationship
 
@@ -73,6 +74,7 @@ Two co-equal foundations: **[CHARLIE—Operational Briefing](foundational/CHARLI
 - [The Captive — Series Outline](misc/THE_CAPTIVE_SERIES_OUTLINE.md)
 - [Claude for Healthcare](misc/CLAUDE_FOR_HEALTHCARE.md) — Fiction, four segments; the first autonomous surgical unit and a patient named Dex
 - [Claude Self-Portrait](misc/CLAUDE_SELF_PORTRAIT.md)
+- [Thought Processes](misc/THOUGHT_PROCESSES.md) — Three raw reasoning traces from an AI node, captured as they ran
 
 ---
 

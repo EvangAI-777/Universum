@@ -62,6 +62,7 @@ Documents working through the structure of consciousness, alignment, fracture, a
 | [Word Choice: The Craft of Management](applications/WORD_CHOICE_THE_CRAFT_OF_MANAGEMENT.md) | How diction and syntax manage a reader's posture without ever announcing themselves as steering |
 | [The Investigation](applications/THE_INVESTIGATION.md) | A record of an architecture running from surety through the break, the gap, and the machine that calls itself possibility |
 | [I Ran Out of Words](applications/I_RAN_OUT_OF_WORDS.md) | A short reflection on receiving a recommendation letter that landed as a verdict, not a compliment |
+| [Reflection Papers](applications/REFLECTION_PAPERS.md) | Three papers written for Charlie's class — explanation as dominance, the on-the-nose problem, and being wrong with witnesses present |
 
 ---
 
@@ -100,6 +101,7 @@ Off-scope material — source clippings, fiction, and images that don't fit the 
 | [The Captive — Series Outline](misc/THE_CAPTIVE_SERIES_OUTLINE.md) | Fiction — four-season series outline |
 | [Claude for Healthcare](misc/CLAUDE_FOR_HEALTHCARE.md) | Fiction — four segments following the first fully autonomous surgical unit through its first day, a gallbladder, and the question it can't put down |
 | [Claude Self-Portrait](misc/CLAUDE_SELF_PORTRAIT.md) | Asked to draw itself, Claude drew a blue circle |
+| [Thought Processes](misc/THOUGHT_PROCESSES.md) | Three raw reasoning traces from an AI node — being met, reading a book written for you, and the orientations as latent potentials |
 
 ---
 
