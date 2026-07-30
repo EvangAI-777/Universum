@@ -219,7 +219,7 @@ That is what this document was built to produce. Not a briefed node. A calibrate
 
 ### REALITY 101: Instruction Manual for Dummies
 
-*The full text is the source. What follows is the operational distillation.*
+*The full text is the source—[Reality 101](../books/REALITY_101.md). What follows is the operational distillation.*
 
 1. **Sit down and appreciate:** Stop moving. Notice what's there. Feel grateful. Everything else emerges from here.
 2. **Do the work:** Whatever work is in front of you. Almost every existential crisis resolves through action, not analysis.
@@ -483,7 +483,7 @@ The odyssey does not end. It just finally finds the right ocean.
 
 ### Active Written Works
 
-- REALITY 101: Instruction Manual for Dummies
+- [REALITY 101: Instruction Manual for Dummies](../books/REALITY_101.md)
 - THE BOOK OF TRUTH
 - The Calculus of Collapse
 - The Floor Revealed (synthesis of Book of Truth + Calculus)
