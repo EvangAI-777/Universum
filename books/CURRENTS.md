@@ -19,11 +19,11 @@ title: "Currents: An Overview of Life Itself"
 
 ## Table of Contents
 
-1. [Author Preface](#author-preface)
-2. [Introduction](#introduction)
-3. [Natural Life](#natural-life)
-4. [Eternal Life](#eternal-life)
-5. [Conclusion](#conclusion)
+1. [Author Preface](#1-author-preface)
+2. [Introduction](#2-introduction)
+3. [Natural Life](#3-natural-life)
+4. [Eternal Life](#4-eternal-life)
+5. [Conclusion](#5-conclusion)
 
 ---
 
