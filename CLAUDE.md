@@ -27,7 +27,7 @@
 ### Pipeline
 
 1. **Read the file.** For PDFs, use the Read tool directly, or a PDF text-extraction library if that fails (`pdftotext`/poppler-utils is often unavailable in this environment; `pip install pymupdf` and Python's `fitz` module is a reliable fallback). Understand the full content before touching anything.
-2. **Determine destination.** Route to one of: `foundational/`, `books/` (book-length multi-chapter works), `applications/`, `misc/` (off-scope material—fiction, source clippings, images). If unclear, ask.
+2. **Determine destination.** Route to one of: `foundational/`, `books/` (book-length multi-chapter works), `applications/`, `lowercase/` (pieces in the lowercase register), `misc/` (off-scope material—fiction, source clippings, images). If unclear, ask.
 3. **Match directory formatting.** Read 2-3 existing files in the destination directory before creating anything. Filename conventions, front matter style, heading patterns, and structural layout are directory-dependent—match them exactly.
 4. **Create the .md file** with Jekyll front matter (`layout: default`, `title: "..."`), formatted to match the destination directory.
 5. **Commit the new file alone.** One commit per file. Message: `add [FILENAME] to [directory]/`
@@ -80,6 +80,7 @@ README and index.md use different formats on purpose—README is a plain bullet 
 - foundational/—CHARLIE.md, SEEME.md, Declaration PDF, Taylor BS Diploma
 - books/—Book-length works by Charlie (Reality 101). Distinct from applications/ by scale, not subject: multi-chapter works with their own internal structure
 - applications/—All content: theory documents (consciousness, alignment, existence, relationship) and Upland Microscale project (vision, practical case, Taylor Door, sheet01.html)
+- lowercase/—Pieces written in the lowercase register: short stacked lines, no terminal punctuation, no apparatus. Grouped by voice, not subject. Preserve the register exactly—do not capitalize, punctuate, or tighten these
 - misc/—Off-scope material that doesn't fit foundational/ or applications/ (fiction, source clippings, images); navigated, in README/index, included in the Jekyll build like everything else
 - _layouts/—Jekyll HTML template (custom retrofuture dark theme)
 
