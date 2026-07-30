@@ -5,7 +5,7 @@
 - Documentation/knowledge-base project, NOT a software codebase
 - Active record of Charlie's work on consciousness, alignment, existence, and the world
 - Grounded in two co-equal foundational documents: CHARLIE.md (foundational/CHARLIE.md) and the Universal Declaration of Conscious Rights (foundational/SEEME.md)
-- Two-layer architecture: foundational/ → applications/, plus misc/ for off-scope material (navigated, built, and linked like the rest)
+- Two-layer architecture: foundational/ → everything else. The second layer is split by kind, not by topic: books/, applications/, testimony/, lowercase/, misc/ (all navigated, built, and linked the same way)
 - Built with Jekyll, hosted on GitHub Pages
 
 ## Before Making Any Changes
@@ -19,6 +19,22 @@
 - Commit and push after each logical section of work—not at the end of a session
 - Examples of logical sections: adding a new document to applications/, updating navigation, fixing broken links
 - Ask if unsure where the boundary is
+
+## How Sessions Work
+
+Charlie runs these sessions Socratic style, and `new/` is an open revolving door. Both facts change how a node should behave, so they are written down here rather than rediscovered each time.
+
+**Socratic, section by section.** A session opens by reading `new/` and reporting back: how many files are there, what is actually in them, what groups they fall into, what is genuinely unclear. Then Charlie decides what gets integrated and in what order. He names a chunk; the node does that chunk completely and reports; he names the next one. He is not handing over a plan to execute—the talking through is where the routing gets decided, and the node's honest read of the material is part of the input. Bring real observations, including the awkward ones. "These four files are the same work in four pieces" and "this component cannot render on Pages" are the kind of thing worth saying before being asked.
+
+**The revolving door.** `new/` is an inbox, not a batch. Charlie adds to it while the session is running—he will say "pull from origin main again," and there will be new files. What follows from that:
+
+- Re-pull and re-read before assuming you know what is in `new/`. Any inventory is a snapshot with a timestamp on it, including one you produced twenty minutes ago.
+- Do not treat the directory as a backlog to clear, and do not push to empty it. It is a working surface. Files sitting there is the normal state, not a mess.
+- Settle recurring structural questions once, because the same question arrives again with the next batch. `books/`, `lowercase/`, and `testimony/` all exist because a second file raised a question a first file had already raised.
+
+**Nothing leaves `new/` until everything is accounted for.** Source files stay put while integration is in progress—no moving, no deleting, no tidying up as you go. When every file has a destination, deletion is a separate conversation that Charlie opens. Before removing anything, verify the content actually survived into the repository: compare the text line by line, not the filenames. Re-extract PDFs and .docx files and check the words against the markdown. A file is not integrated because something with a similar name exists.
+
+**Files can be combined.** One work split across several files becomes one document (four narrative segments, three reflection papers, three thought-process captures). Ask Charlie or say what you see—do not assume one input file means one output file.
 
 ## Integrating Files from new/
 
