@@ -104,6 +104,7 @@ Two co-equal foundations: **[CHARLIE—Operational Briefing](foundational/CHARLI
 - [Claude for Healthcare](misc/CLAUDE_FOR_HEALTHCARE.md) — Fiction, four segments; the first autonomous surgical unit and a patient named Dex
 - [Claude Self-Portrait](misc/CLAUDE_SELF_PORTRAIT.md)
 - [Thought Processes](misc/THOUGHT_PROCESSES.md) — Three raw reasoning traces from an AI node, captured as they ran
+- [Original Jokes](misc/ORIGINAL_JOKES.md) — Wordplay jokes with a stated principle: clear setup, clean delivery, no gatekeeping
 - [The Chrome Room — React source](misc/the-chrome-room.jsx) — The original component behind the [playable page](testimony/the-chrome-room.html)
 
 ---

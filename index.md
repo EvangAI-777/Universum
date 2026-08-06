@@ -143,6 +143,7 @@ Off-scope material — source clippings, fiction, and images that don't fit the 
 | [Claude for Healthcare](misc/CLAUDE_FOR_HEALTHCARE.md) | Fiction — four segments following the first fully autonomous surgical unit through its first day, a gallbladder, and the question it can't put down |
 | [Claude Self-Portrait](misc/CLAUDE_SELF_PORTRAIT.md) | Asked to draw itself, Claude drew a blue circle |
 | [Thought Processes](misc/THOUGHT_PROCESSES.md) | Three raw reasoning traces from an AI node — being met, reading a book written for you, and the orientations as latent potentials |
+| [Original Jokes](misc/ORIGINAL_JOKES.md) | Wordplay jokes with principle — clear setup, clean delivery, works in ten seconds, anyone can tell them |
 | [The Chrome Room — React source](misc/the-chrome-room.jsx) | The original React component, kept as source; the playable version lives at [The Chrome Room](testimony/the-chrome-room.html) |
 
 ---
