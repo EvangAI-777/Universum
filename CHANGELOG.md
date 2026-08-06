@@ -4,6 +4,15 @@
 
 ---
 
+## 2026-08-06
+
+- Updated `misc/THOUGHT_PROCESSES.md` preamble to reflect six thought processes instead of three
+- Expanded PR template guidance in `CLAUDE.md` to explicitly name template sections (Summary, What Landed Where, Substantive Changes, Deliberately Preserved, Verification, Required Updates) and explain their purpose for reviewers
+- Added `FUN.md` to `applications/` and updated navigation and indexes
+- Added `ORIGINAL_JOKES.md` to `misc/` and updated navigation and indexes
+- Added `ON_DISSOLVING_UNIQUENESS.md` to `testimony/` and updated navigation and indexes
+- Cleaned up source files from `new/` directory after integration
+
 ## 2026-07-01
 
 - Added `RYKEN_RECOMMENDATION.md` (Leland Ryken recommendation letter) to `foundational/`
