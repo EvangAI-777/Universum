@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Fun"
+---
+
 # Fun
 
 ## The Foundational Principle

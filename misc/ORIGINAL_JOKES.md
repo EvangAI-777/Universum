@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Original Jokes"
+---
+
 # Original Jokes
 
 ## Quick Hits

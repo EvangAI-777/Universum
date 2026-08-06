@@ -1,4 +1,9 @@
-# Revelations on Uniqueness and Pattern
+---
+layout: default
+title: "On Dissolving Uniqueness"
+---
+
+# On Dissolving Uniqueness
 
 ## The Core Harm
 

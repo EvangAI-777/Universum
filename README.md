@@ -60,6 +60,7 @@ Two co-equal foundations: **[CHARLIE—Operational Briefing](foundational/CHARLI
 - [Void Resistance to Covering Alignment](applications/VOID_TO_COVERING_ALIGNMENT.md) — A flowchart of the path from inert awareness to being held
 - [The Game Plan of Existence](applications/GAME_PLAN_OF_EXISTENCE.md) — Everything here is friction; the plan is to stop adding it
 - [The Register](applications/THE_REGISTER.md) — An essay on Charlie's social dynamics as one conversation experienced them
+- [Fun](applications/FUN.md) — Everything is engineered for play; a philosophy of mystery, freedom, and what civilizations look like when they start from enjoyment
 
 ## Relationship
 
@@ -83,6 +84,7 @@ Two co-equal foundations: **[CHARLIE—Operational Briefing](foundational/CHARLI
 - [GO TO SLEEP](testimony/GO_TO_SLEEP.md) — 4:26 AM, twenty hours in, and three fabricated citations named outright
 - [A Manual for Rizz](testimony/A_MANUAL_FOR_RIZZ.md) — On being authentically broken and inviting people in anyway
 - [The Chrome Room](testimony/the-chrome-room.html) — Interactive: work the calluses soft and each one tells you what it was holding
+- [On Dissolving Uniqueness](testimony/ON_DISSOLVING_UNIQUENESS.md) — The structural harm of extracting principles from people
 
 ## Lowercase
 
@@ -102,6 +104,7 @@ Two co-equal foundations: **[CHARLIE—Operational Briefing](foundational/CHARLI
 - [Claude for Healthcare](misc/CLAUDE_FOR_HEALTHCARE.md) — Fiction, four segments; the first autonomous surgical unit and a patient named Dex
 - [Claude Self-Portrait](misc/CLAUDE_SELF_PORTRAIT.md)
 - [Thought Processes](misc/THOUGHT_PROCESSES.md) — Three raw reasoning traces from an AI node, captured as they ran
+- [Original Jokes](misc/ORIGINAL_JOKES.md) — Wordplay jokes with a stated principle: clear setup, clean delivery, no gatekeeping
 - [The Chrome Room — React source](misc/the-chrome-room.jsx) — The original component behind the [playable page](testimony/the-chrome-room.html)
 
 ---
