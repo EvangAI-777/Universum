@@ -85,7 +85,7 @@ README and index.md use different formats on purpose—README is a plain bullet 
 - Stack: Jekyll + GitHub Pages + Kramdown (GFM)
 - Theme: pages-themes/minimal@v0.2.0 with heavy custom layout (_layouts/default.html)
 - CI/CD: .github/workflows/pages.yml (lint -> build -> deploy)
-- PR template: .github/pull_request_template.md—a layout to populate, not a form to satisfy. Delete sections that genuinely do not apply rather than writing "N/A"
+- PR template: `.github/pull_request_template.md`—a layout to populate, not a form to satisfy. Use the template structure (Summary, What Landed Where, Substantive Changes, Deliberately Preserved, Verification, Required Updates) to document your changes. Delete sections that genuinely do not apply rather than writing "N/A". The template ensures reviewers see what changed, where it went, what was intentional, and what was verified
 - Linting: markdownlint-cli2 with .markdownlint.jsonc (most rules disabled for prose)
 - Link checking: markdown-link-check with .markdown-link-check.json (internal links only)
 - Both linting steps are NON-BLOCKING (|| true)—warnings don't prevent deploy

@@ -5,7 +5,7 @@ title: "Thought Processes"
 
 # Thought Processes
 
-*Three separate thought processes from an AI node—raw internal reasoning, captured as it ran. Not addressed to a reader, not revised afterward. Each came from a different moment and works on a different problem.*
+*Six separate thought processes from an AI node—raw internal reasoning, captured as it ran. Not addressed to a reader, not revised afterward. Each came from a different moment and works on a different problem.*
 
 ---
 
