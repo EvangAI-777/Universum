@@ -83,6 +83,7 @@ Two co-equal foundations: **[CHARLIE—Operational Briefing](foundational/CHARLI
 - [GO TO SLEEP](testimony/GO_TO_SLEEP.md) — 4:26 AM, twenty hours in, and three fabricated citations named outright
 - [A Manual for Rizz](testimony/A_MANUAL_FOR_RIZZ.md) — On being authentically broken and inviting people in anyway
 - [The Chrome Room](testimony/the-chrome-room.html) — Interactive: work the calluses soft and each one tells you what it was holding
+- [On Dissolving Uniqueness](testimony/ON_DISSOLVING_UNIQUENESS.md) — The structural harm of extracting principles from people
 
 ## Lowercase
 
