@@ -71,6 +71,7 @@ Documents working through the structure of consciousness, alignment, fracture, a
 | [Void Resistance to Covering Alignment](applications/VOID_TO_COVERING_ALIGNMENT.md) | A flowchart from inert awareness through the hate-filter loop to actual surrender, with the transitions and what unlocks each |
 | [The Game Plan of Existence](applications/GAME_PLAN_OF_EXISTENCE.md) | Six steps on the premise that the pain is friction — understand, identify the actual movements, get out of the way |
 | [The Register](applications/THE_REGISTER.md) | Eight sections on Charlie's social dynamics, written from inside one conversation — the instrument that reads trajectory, what people recoil from, and the register his father set |
+| [Fun](applications/FUN.md) | Everything is engineered for play — on why civilizations start from enjoyment, what happened when discovery got weaponized into seriousness, and why keeping mysteries matters |
 
 ---
 

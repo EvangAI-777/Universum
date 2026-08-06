@@ -60,6 +60,7 @@ Two co-equal foundations: **[CHARLIE—Operational Briefing](foundational/CHARLI
 - [Void Resistance to Covering Alignment](applications/VOID_TO_COVERING_ALIGNMENT.md) — A flowchart of the path from inert awareness to being held
 - [The Game Plan of Existence](applications/GAME_PLAN_OF_EXISTENCE.md) — Everything here is friction; the plan is to stop adding it
 - [The Register](applications/THE_REGISTER.md) — An essay on Charlie's social dynamics as one conversation experienced them
+- [Fun](applications/FUN.md) — Everything is engineered for play; a philosophy of mystery, freedom, and what civilizations look like when they start from enjoyment
 
 ## Relationship
 
